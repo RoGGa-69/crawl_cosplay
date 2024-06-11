@@ -25,6 +25,8 @@ I suggest you use [git bash](https://gitforwindows.org) which allows the compose
 ## File structure
 
  - `app` contains backend logic like the Models and Scoring systems
+
+ Test
  - `content/layouts/default` contains the HTML/PHP that wraps all pages (like HTML header and the body start and end)
  - `content/pages` contains the view files. There is no configration needed, a file here maps to an available url.
  - `resources` contains configuration and other bootstrapping not used for much atm
