@@ -17,9 +17,8 @@ use app\models\{Challenge, Submission, Player};
 		<th style="white-space:nowrap">Total <span class="star">&#9733;</span></th>
 		<?php
 			foreach ($challenges_in_set as $c) {
-				echo '<th>';
-				if ($c->icon) echo '<a href="/cca/achallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 1.5em" /></a>';
-				echo '<a href="/cca/achallengedetails?id='.$c->id.'">'.$e($c->name).'</a>';
+				echo '<th title="'.$e($c->name).'">';
+				if ($c->icon) echo '<a href="/cca/achallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 2.5em" /></a>';
 				echo "</th>";
 			}
 		?>
