@@ -16,7 +16,6 @@ use app\models\{Challenge, Submission, Player};
 		<th>Player</th>
 		<th style="white-space:nowrap">Total <span class="star">&#9733;</span></th>
 		<?php
-			$made_seperator = false;
 			foreach ($challenges_in_set as $c) {
 				echo '<th>'
 				if ($c->icon) echo '<a href="/cca/achallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 1.5em" /></a>';
@@ -44,7 +43,7 @@ use app\models\{Challenge, Submission, Player};
 				for ($i=0; $i < (int) $week['stars'] ; $i++) {
 					$out .= '<span class="star">&#9733;</span>';
 				}
-					if (!empty($week['morgue'])) $out .= '</a>';
+				if (!empty($week['morgue'])) $out .= '</a>';
 				echo $out . "</td>";
 			}
 			for ($i=0; $i < $weeks - sizeof($row['week']); $i++) {
