@@ -16,8 +16,12 @@ use app\models\{Challenge, Submission, Player};
 		<th>Player</th>
 		<th style="white-space:nowrap">Total <span class="star">&#9733;</span></th>
 		<?php
-		foreach ($challenges_in_set as $c) :
-			echo '<td><?php if ($c->icon):?><img src="<?=$e($c->icon)?>" style="height: 2.5em" /><?php endif; ?> <b><a href="/cca/achallengedetails?id=<?=$e($c->id)?>"><?=$e($c->name)?></a></b></td>'
+			foreach ($challenges_in_set as $c) {
+				echo '<th>'
+				if ($c->icon) echo '<a href="/cca/achallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 1.5em" /></a>';
+				echo '<a href="/cca/achallengedetails?id='.$c->id.'">'.$e($c->name).'</a>';
+				echo "</th>";
+			}
 		?>
 	</tr>
 	<?php
