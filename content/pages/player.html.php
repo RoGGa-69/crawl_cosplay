@@ -194,11 +194,11 @@ for ($set_key=$last_set; $set_key >= $first_set; $set_key--) {
 <?php 
 if ($acadamy_sumissions) : 
 
-    echo '<div id='snh1' style="visibility:hidden">';
+    echo '<div id="snh1" style="visibility:hidden">';
     print_r($acadamy_sumissions);
     echo '</div>';
 
-    echo '<div id='snh1' style="visibility:hidden">';
+    echo '<div id="snh1" style="visibility:hidden">';
     print_r($submissions);
     echo '</div>';
 
