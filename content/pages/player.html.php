@@ -214,7 +214,7 @@ if ($acadamy_sumissions) :
 
     $set_key = 0;
 
-    if (isset($board[$set_key]) == false) 
+    if (isset($board[$set_key]) == false) { 
         $board[$set_key]['total'] = 0;
         $board[$set_key]['stars'] = 0;
     }
