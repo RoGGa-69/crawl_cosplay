@@ -194,18 +194,10 @@ for ($set_key=$last_set; $set_key >= $first_set; $set_key--) {
 <?php 
 if ($acadamy_sumissions) : 
 
-    echo '<div id="snh1" style="visibility:hidden"><pre>';
-    print_r($acadamy_sumissions);
-    echo '</pre></div>';
-
-    echo '<div id="snh2" style="visibility:hidden"><pre>';
-    print_r($submissions);
-    echo '</pre></div>';
-
     $has_non_scoring = false;
     $board = [];
-    $first_set = 999;
-    $last_set = 0;
+
+    // All academy submissions are setnr 0 - so no need to worry about first and last
     foreach ($acadamy_sumissions as $sub) {
         if ($sub->isScoring() === false) {
             continue;
@@ -213,23 +205,18 @@ if ($acadamy_sumissions) :
         $cha = $sub->challenge();
         $set = (int) $cha->setnr;
         $week = (int) $cha->week;
-        if ($sub->hs === false || $week > 5) {
-            $has_non_scoring = true;
-            continue;
-        }
-        $first_set = $first_set < $set ? $first_set : $set;
-        $last_set = $last_set > $set ? $last_set : $set;
         $board[$set][$week] = $sub;
         if (!isset($board[$set]['total'])) $board[$set]['total'] = 0;
         if (!isset($board[$set]['stars'])) $board[$set]['stars'] = 0;
         $board[$set]['total'] += $sub->score;
         $board[$set]['stars'] += $sub->stars;
     }
-    for ($set_key=$last_set; $set_key >= $first_set; $set_key--) {
-        if (isset($board[$set_key]) == false) {
-            $board[$set_key]['total'] = 0;
-            $board[$set_key]['stars'] = 0;
-        }
+
+    $set_key = 0;
+
+    if (isset($board[$set_key]) == false) { 
+        $board[$set_key]['total'] = 0;
+        $board[$set_key]['stars'] = 0;
     }
 ?>
 <h3>Crawl Cosplay Academy (CCA) - 12 challenges</h3>
