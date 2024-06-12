@@ -21,6 +21,10 @@ $tournament_submissions = [];
 $normal_submissions = [];
 $acadamy_sumissions = [];
 
+$output = json_encode($submissions);
+
+echo "<script>console.log('submissions'); console.log('{$output}' );</script>";
+
 array_reduce($submissions, function($carry, Submission $s) use (&$tournament_submissions, &$normal_submissions, &$acadamy_sumissions) {
     if ($s->challenge()->setnr > 30) {
         $tournament_submissions[] = $s;
@@ -193,6 +197,9 @@ for ($set_key=$last_set; $set_key >= $first_set; $set_key--) {
 
 <?php 
 if ($acadamy_sumissions) : 
+
+    $output = json_encode($acadamy_sumissions);
+    echo "<script>console.log('acadamy'); console.log('{$output}' );</script>";
 
     $has_non_scoring = false;
     $board = [];
