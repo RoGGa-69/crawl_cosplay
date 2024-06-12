@@ -194,13 +194,13 @@ for ($set_key=$last_set; $set_key >= $first_set; $set_key--) {
 <?php 
 if ($acadamy_sumissions) : 
 
-    echo '<div id="snh1" style="visibility:hidden">';
+    echo '<div id="snh1" style="visibility:hidden"><pre>';
     print_r($acadamy_sumissions);
-    echo '</div>';
+    echo '</pre></div>';
 
-    echo '<div id="snh1" style="visibility:hidden">';
+    echo '<div id="snh2" style="visibility:hidden"><pre>';
     print_r($submissions);
-    echo '</div>';
+    echo '</pre></div>';
 
     $has_non_scoring = false;
     $board = [];
