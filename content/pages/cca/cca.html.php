@@ -7,6 +7,12 @@ use app\models\{Challenge, Submission, Player};
 	$weeks = sizeof($challenges_in_set);
 ?>
 <h2 style="color:rgb(69, 136, 5);">Welcome green Crawler!</h2>
+<h3>Ready?</h3>
+<p>Want to know more before jumping in? Read the <a href="/cca/about_cca">About CCA</a> webpage.</p>
+<h3>Set...</h3>
+<p>If you have never won a game, your first Academy goal is to play one of the <b>"Melee Brutes"</b> listed below since they are considered to be the
+<b><i>easier</i></b> combos of the easiest category.</p>
+<p>Just click on one of the Uniques for the challenge's details listing the suggested 3 conducts and 2 bonuses.</p>
 
 <div class="score-sidebar-cca">
 <h3>Crawl Cosplay Academy Scoreboard</h3>
@@ -54,13 +60,6 @@ use app\models\{Challenge, Submission, Player};
 </table>
 </div>
 
-<h3>Ready?</h3>
-Want to know more before jumping in? Read the <a href="/cca/about_cca">About CCA</a> webpage.
-<h3>Set...</h3>
-If you have never won a game, your first Academy goal is to play one of the <b>"Melee Brutes"</b> listed below since they are considered to be the
-<b><i>easier</i></b> combos of the easiest category.
-<br>
-Just click on one of the Uniques for the challenge's details listing the suggested 3 conducts and 2 bonuses.
 <h4><b>Melee Brutes</b></h4>
   <p>Focus primarily on the Strength attribute, prefer to wear heavy armor, and typically spend most of their time in melee combat. Skills to focus on are your primary weapon, fighting, armour, shields, throwing, evocations, and invocations (if applicable).</p>
   <p> <a href="/cca/achallengedetails?id=926" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/uniques/Snorg.png" width="48" height="48"></a> 
