@@ -73,30 +73,7 @@ class Challenge extends BaseModel
     	return $list;
     }
 
-    public static function findBySets(bool $include_drafts, int $limit = 50, int $offset = 0, bool $include_tournament = false): array
-    {
-        $query = 'SELECT `c`.*, COUNT(`s`.`id`) AS `subs` FROM `challenges` AS `c` '.
-            'LEFT JOIN `submissions` AS `s` ON (`s`.`challenge_id` = `c`.`id` AND `s`.`hs` = 1 AND `s`.`accepted` = 1) ';
-        if ($include_tournament) {
-            $query .= 'WHERE 1=1 ';
-        } else {
-            $query .= 'WHERE `c`.`setnr` < 32 ';
-        }
-        $query .= ($include_drafts) ? '' : 'AND `draft` = 0 ';
-        $query .= 'GROUP BY `c`.`id` '.
-            'ORDER BY `c`.`setnr` DESC, `c`.`week` DESC '.
-            "LIMIT {$offset},{$limit};";
-        $result = static::db()->query($query);
-        $all = [];
-        foreach ($result as $row) {
-            $all[$row['id']] = new Challenge($row);
-        }
-        return $all;
-    }
-
-
-    //temporary function, to be removed -- just for test purposes
-     public static function findBySetsTEST(bool $include_drafts, int $limit = 50, int $offset = 0, bool $include_tournament = false, bool $include_academy = true, bool $chronological = false): array
+    public static function findBySets(bool $include_drafts, int $limit = 50, int $offset = 0, bool $include_tournament = false, bool $include_academy = true, bool $chronological = false): array
     {
         $query = 'SELECT `c`.*, COUNT(`s`.`id`) AS `subs` FROM `challenges` AS `c` '.
             'LEFT JOIN `submissions` AS `s` ON (`s`.`challenge_id` = `c`.`id` AND `s`.`hs` = 1 AND `s`.`accepted` = 1) ';
