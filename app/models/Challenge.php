@@ -91,7 +91,7 @@ class Challenge extends BaseModel
         if ($chronological) $ascdesc = "ASC";
         $query .= ($include_drafts) ? '' : 'AND `draft` = 0 ';
         $query .= 'GROUP BY `c`.`id` '.
-            'ORDER BY `c`.`setnr` ' . $ascdesc . ' , `c`.`week` DESC '.
+            'ORDER BY `c`.`setnr` ' . $ascdesc . ' , `c`.`week` ' . $ascdesc . ' '.
             "LIMIT {$offset},{$limit};";
         $result = static::db()->query($query);
         $all = [];
