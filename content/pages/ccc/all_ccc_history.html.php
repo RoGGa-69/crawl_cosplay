@@ -9,12 +9,16 @@ use app\models\{Challenge, Submission, Player};
 		//$challenges = Challenge::findBySets(false, 150);
 		$challenges = Challenge::findBySets(false, 150, 0, false, false, true);
 
-		$i = 1;
+		$i = 1; $set = -1;
 		foreach ($challenges as $c) :
-			$set = $c->setnr;
+			if ($c->setnr != $set) {
+				$set = $c->setnr;		
 			?>
 				<tr class="set-split"><th rowspan="2">&nbsp;</th><th colspan="6"><a href="/ccc/ccc_set_scoreboard?set=<?=$e($set)?>">Set <?=$e($set)?> <span style="font-size: 0.6em; color:#555;">(scoreboard)</span></a></th></tr>
 				<tr><th>Name</th><th>#</th><th>Species</th><th>Background</th><th>Gods</th></tr>
+			<?php
+			}
+			?>
 		<tr class="<?=$i++%2==0?'odd':'even'?>">
 			<td><a href="/ccc/challengedetails?id=<?=$e($c->id)?>"><img src="<?=$e($c->icon)?>" /></a></td>
 			<td style="font-size: 1.25em;"><?=$e($c->setnr)?>.<?=$e($c->week)?> <a href="/ccc/challengedetails?id=<?=$e($c->id)?>"><?=$e($c->name)?></a></td>
