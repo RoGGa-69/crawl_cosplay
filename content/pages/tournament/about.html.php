@@ -16,7 +16,7 @@
     echo '<img src="/'.$dir_path."/".$filename1.'" alt="'.$filename1.'" width="72" height="72" style="float:right">';
 ?>
 
-<p>The <b>Crawl Cosplay Trunk Tournament</b> is a 4-week tournament with a different challenge each week highlighting major Trunk changes since the previous stable version.
+<p>The <b>Crawl Cosplay Trunk Tournament</b> is a 4 to 5 week long tournament with a different challenge each week highlighting major Trunk changes since the previous stable version.
  It is based on the weekly <a href="http://cosplay.kelbi.org/" target="_blank">Crawl Cosplay Challenge</a> (CCC) series for <a href="http://crawl.develz.org/" target="_blank">Dungeon Crawl Stone Soup</a> (DCSS).</p>
 
 <p>Each week will feature a DCSS Unique character for you to play, with one or more options for starting species and background, as well as which god you must worship.
