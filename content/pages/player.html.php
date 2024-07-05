@@ -87,7 +87,7 @@ if ($tournament_submissions) :
         <tr class="<?=$r++%2==0?'odd':'even'?>">
             <th>v0.<?=$set_key?></th>
             <td><?=$board[$set_key]['total']?> <?=$board[$set_key]['stars']?><span class="star">&#9733;</span></td>
-        <?php for ($i=1; $i <= 5; $i++) : ?>
+        <?php for ($i=1; $i <= 6; $i++) : ?>
             <?php
                 $sub = $board[$set_key][$i] ?? false;
                 if ($sub === false) {
