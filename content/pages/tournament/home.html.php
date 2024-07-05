@@ -107,5 +107,6 @@ if ($active) :
 <?php else : // no active challenge
 	// echo $this->part('pause');
 	echo "<h3>There is currently no active Crawl Cosplay Trunk Tournament (CCTT)</h3>";
+	echo 'For the last tournament result, see: <a href="/tournament/tresults.html?set=32">CCTT#1 results</a>.';
 endif;
 ?>
