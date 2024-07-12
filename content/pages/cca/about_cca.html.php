@@ -37,7 +37,7 @@ haven't won at least a couple of games.</p>
     </td>
     <td><p><b>----------Mostly Magic----------</b></p>
       <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/Frederick.png" width="72" height="72"></a> 
-      <a href="/cca/achallengedetails?id=936" title="Antaeus, the Oni Ice Elementalist (OnIE)"><img src="/img/uniques/Fannar.png" width="48" height="72"></a> 
+      <a href="/cca/achallengedetails?id=936" title="Antaeus, the Oni Ice Elementalist (OnIE)"><img src="/img/uniques/Antaeus.png" width="48" height="72"></a> 
       <a href="/cca/achallengedetails?id=937" title="Roxanne, the Gargoyle Earth Elementalist (GrEE)"><img src="/img/uniques/Roxanne.png" width="72" height="72"></a>
     </td>
 </table>
