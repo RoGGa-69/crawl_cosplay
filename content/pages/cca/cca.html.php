@@ -78,7 +78,7 @@ use app\models\{Challenge, Submission, Player};
 <h4><b>Mages: Mostly Magic</b></h4>
   <p>Focus primarily on the Intelligence attribute, prefer to wear light armor (robes in particular), and often but not always fight at long range. Skills to focus on are roughly two magic school(s), spellcasting, fighting, stealth, evocations, and invocations (if applicable).</p>
   <p> <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/Frederick.png" width="48" height="48"></a>
-      <a href="/cca/achallengedetails?id=936" title="Fannar, the Deep Elf Ice Elementalist (DEIE)"><img src="/img/uniques/Fannar.png" width="48" height="48"></a> 
+      <a href="/cca/achallengedetails?id=936" title="Aantaeus, the Oni Ice Elementalist (OnIE)"><img src="/img/uniques/Antaeus.png" width="32" height="48"></a> 
       <a href="/cca/achallengedetails?id=937" title="Roxanne, the Gargoyle Earth Elementalist (GrEE)"><img src="/img/uniques/Roxanne.png" width="48" height="48"></a></p>
 <h3>GO!</h3>
 Play a game of your favourite DCSS Uniques and once you have completed one of your better games, <b>Submit your Morgue</b> on the challenge's detail page and a moderator will approve it.
