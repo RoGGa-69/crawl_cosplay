@@ -11,7 +11,7 @@
 Select your pleasure among the following options:
 
 <h3><a href="/cca/cca">Crawl Cosplay Academy</a> (CCA) ...NEW!</h3>
-<ul><li>For those new to DCSS or who haven't yet won a couple of time.</li>
+<ul><li>For those new to DCSS or who haven't yet won a couple of times.</li>
     <li>Read <a href="https://cosplay.kelbi.org/cca/about_cca">About CCA</a></li></ul>
 
 <h3><a href="/ccc/ccc">Crawl Cosplay Challenges</a> (CCC)</h3>
