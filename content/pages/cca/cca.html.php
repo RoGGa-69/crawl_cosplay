@@ -67,13 +67,13 @@ use app\models\{Challenge, Submission, Player};
       <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Gladiator (MDGl)"><img src="/img/uniques/Wiglaf.png" width="48" height="48"></a></p>
 <h4><b>Ranged Weapons</b></h4>
   <p>Focus primarily on the Dexterity attribute, prefer to wear medium armor, and can fight up close or at range. Skills to focus on are your primary weapon, fighting, dodging, stealth, hexes, evocations, and invocations (if applicable).</p>
-  <p> <a href="/cca/achallengedetails?id=929" title="Joseph, the Halfling Hunter (HaHu)"><img src="/img/uniques/Joseph.png" width="48" height="48"></a>
+  <p> <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="48" height="48"></a>
       <a href="/cca/achallengedetails?id=930" title="Sonja, the Kobole Brigan (KoBr)"><img src="/img/uniques/Sonja.png" width="48" height="48"></a>
       <a href="/cca/achallengedetails?id=931" title="Vashnia, the Naga Hunter (NaHu)"><img src="/img/uniques/Vashnia.png" width="48" height="48"></a> </p>
 <h4><b>Hybrid: Melee with some Magic</b></h4>
   <p>An assortment of less straightforward builds including shapeshifter and summoner/necromancer.</p>
   <p> <a href="/cca/achallengedetails?id=932" title="Jeremiah, the Barachi Summoner (BaSu)"><img src="/img/uniques/Jeremiah.png" width="48" height="48"></a> 
-      <a href="/cca/achallengedetails?id=933" title="Ilsuiw, the Merfolk Warper (MfWr)"><img src="/img/uniques/Ilsuiw_water.png" width="48" height="48"></a> 
+      <a href="/cca/achallengedetails?id=933" title="Bai Suzhen, the Draconian Shapeshifter (DrSh)"><img src="/img/uniques/Bai_Suzhen.png" width="48" height="48"></a> 
       <a href="/cca/achallengedetails?id=934" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/uniques/Jory.png" width="48" height="48"></a></p>
 <h4><b>Mages: Mostly Magic</b></h4>
   <p>Focus primarily on the Intelligence attribute, prefer to wear light armor (robes in particular), and often but not always fight at long range. Skills to focus on are roughly two magic school(s), spellcasting, fighting, stealth, evocations, and invocations (if applicable).</p>
