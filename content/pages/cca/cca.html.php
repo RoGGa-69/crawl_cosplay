@@ -68,7 +68,7 @@ use app\models\{Challenge, Submission, Player};
 <h4><b>Ranged Weapons</b></h4>
   <p>Focus primarily on the Dexterity attribute, prefer to wear medium armor, and can fight up close or at range. Skills to focus on are your primary weapon, fighting, dodging, stealth, hexes, evocations, and invocations (if applicable).</p>
   <p> <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="48" height="48"></a>
-      <a href="/cca/achallengedetails?id=930" title="Sonja, the Kobole Brigan (KoBr)"><img src="/img/uniques/Sonja.png" width="48" height="48"></a>
+      <a href="/cca/achallengedetails?id=930" title="Sonja, the Kobold Brigand (KoBr)"><img src="/img/uniques/Sonja.png" width="48" height="48"></a>
       <a href="/cca/achallengedetails?id=931" title="Vashnia, the Naga Hunter (NaHu)"><img src="/img/uniques/Vashnia.png" width="48" height="48"></a> </p>
 <h4><b>Hybrid: Melee with some Magic</b></h4>
   <p>An assortment of less straightforward builds including shapeshifter and summoner/necromancer.</p>
