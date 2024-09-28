@@ -12,19 +12,19 @@ Select your pleasure among the following options:
 
 <h3><a href="/cca/cca">Crawl Cosplay Academy</a> (CCA) ...NEW!</h3>
 <ul><li>For those new to DCSS or who haven't yet won a couple of times.</li>
-    <li>Read <a href="https://cosplay.kelbi.org/cca/about_cca">About CCA</a></li></ul>
+    <li>Read <a href="/cca/about_cca">About CCA</a></li></ul>
 
 <h3><a href="/ccc/ccc">Crawl Cosplay Challenges</a> (CCC)</h3>
 <ul><li>The original weekly challenge posted on Reddit since 2019!</li>
-    <li>Read <a href="https://cosplay.kelbi.org/ccc/about_ccc">About CCC</a>.</li></ul>
+    <li>Read <a href="/ccc/about_ccc">About CCC</a>.</li></ul>
 
 <h3><a href="/tournament/home">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
-    <li>Read <a href="https://cosplay.kelbi.org/tournament/about">About CCTT</a>.</li></ul>
+    <li>Read <a href="/tournament/about">About CCTT</a>.</li></ul>
 
-<h3><a href="/tournament/ccsdc/ccsdc">Crawl Cosplay Sudden Death Challenge</a> (CCSDC) ...in development.</h3>
+<h3><a href="/ccsdc/ccsdc">Crawl Cosplay Sudden Death Challenge</a> (CCSDC) ...in development.</h3>
 <ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
-    <li>Read <a href="https://cosplay.kelbi.org/ccsdc/about_ccsdc">About CCSDC</a>.</li></ul>
+    <li>Read <a href="/ccsdc/about_ccsdc">About CCSDC</a>.</li></ul>
 
 <br>
 <h3>Want to chat?</h3>
