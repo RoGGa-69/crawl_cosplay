@@ -1,4 +1,4 @@
-<?php $this->layout = 'ccsdc'; ?>
+<?php $this->layout = 'ccsdt'; ?>
 <h2 style="color:rgb(69, 136, 5);">Welcome to the <b>Crawl Cosplay Sudden Death Tournament</b> (CCSDT) for v0.32!</h2>
 
 <h2>Competition Format</h2>
