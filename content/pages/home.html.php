@@ -5,7 +5,7 @@
     $index = rand(2, ($count-1));
     $filename = $files[$index];
 
-    echo '<h2>Welcome to the <b>Crawl Cosplay</b> 3-in-1 website!</h2>';
+    echo '<h2>Welcome to the <b>Crawl Cosplay</b> 4-in-1 website!</h2>';
     echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 ?>
 Select your pleasure among the following options:
@@ -21,6 +21,10 @@ Select your pleasure among the following options:
 <h3><a href="/tournament/home">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
     <li>Read <a href="https://cosplay.kelbi.org/tournament/about">About CCTT</a>.</li></ul>
+
+<h3><a href="/tournament/ccsdc/ccsdc">Crawl Cosplay Sudden Death Challenge</a> (CCSDC) in development</h3>
+<ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
+    <li>Read <a href="https://cosplay.kelbi.org/ccsdc/about_ccsdc">About CCSDC</a>.</li></ul>
 
 <h3>Want to chat?</h3>
 <p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> with over 222 members!</p>
