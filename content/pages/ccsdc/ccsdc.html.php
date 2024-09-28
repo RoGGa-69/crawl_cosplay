@@ -1,17 +1,12 @@
 <?php $this->layout = 'ccsdc'; ?>
 <h2 style="color:rgb(69, 136, 5);">About Crawl Cosplay Sudden Death Challenges (CCSDC)</h2>
 
-<p>The Crawl Cosplay Sudden Death Challenges is a competition that aims to fill a
-Crawl niche not currently filled by the biannual version release tournaments or other Crawl Cosplays.
-The idea is for players to compete by trying to do as well as possible in a
-game of Crawl with one attempt only; if you die, that challenge is over (thus
-"sudden death", though you may&mdash;<em>will</em>&mdash;also die suddenly). This competition is
-a lower time commitment event that aims to challenge players while playing one of the 100 or so Crawl Unique characters.</p>
+<p>Welcome to the Crawl Cosplay Sudden Death Challenges for v0.32.</p>
 
 <h2>Competition Format</h2>
 <ul>
-<li>Each challenge consists of playing a Crawl Unique combo.</li>
-<li>You get <em>one</em>  attempt to play each combo.</li>
+<li>Each challenge consists of playing a Crawl Unique's combo.</li>
+<li>You get <em>one</em> attempt to play each combo.</li>
 <li>The goal is to advance as far as possible (and win!) in each game, scoring
 points by reaching various in-game milestones.</li>
 <li>Only games played and milestones scored between 00:00 UTC on the start and end dates count.</li>
@@ -30,3 +25,6 @@ points by reaching various in-game milestones.</li>
 
 <h2>Sign Up</h2> 
 <p>Sign ups are now closed.</p>
+
+<h2>Rules, Scoring and Credits</h2>
+See the <a href="about_ccsddc.html">About page</a>.
