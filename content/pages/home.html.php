@@ -22,10 +22,11 @@ Select your pleasure among the following options:
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
     <li>Read <a href="https://cosplay.kelbi.org/tournament/about">About CCTT</a>.</li></ul>
 
-<h3><a href="/tournament/ccsdc/ccsdc">Crawl Cosplay Sudden Death Challenge</a> (CCSDC) in development.</h3>
+<h3><a href="/tournament/ccsdc/ccsdc">Crawl Cosplay Sudden Death Challenge</a> (CCSDC) ...in development.</h3>
 <ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
     <li>Read <a href="https://cosplay.kelbi.org/ccsdc/about_ccsdc">About CCSDC</a>.</li></ul>
 
+<br>
 <h3>Want to chat?</h3>
 <p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> with over 222 members!</p>
 <br>
