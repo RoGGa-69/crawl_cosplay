@@ -1,7 +1,6 @@
 <?php $this->layout = 'ccsdc'; ?>
 <h2 style="color:rgb(69, 136, 5);">About Crawl Cosplay Sudden Death Challenges (CCSDC)</h2>
 
-<br>
 <p>The Crawl Cosplay Sudden Death Challenges is a competition that aims to fill a
 Crawl niche not currently filled by the biannual version release tournaments or other Crawl Cosplays.
 The idea is for players to compete by trying to do as well as possible in a
