@@ -4,8 +4,7 @@
     <meta charset="utf-8">
     <title><?=$page_title ?? 'Crawl Cosplay Sudden Death Challenge (CCSDC)'?></title>
     <link rel="icon" href="/img/feat-dg_entrance.png" type="image/png">
-    <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/cca.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/ccsdc.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
