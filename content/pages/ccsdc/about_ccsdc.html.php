@@ -21,17 +21,15 @@ points by reaching various in-game milestones.</li>
 <h2>Schedule</h2>
 
 <ul id="schedule">
-  <li><span class="label"><a href="1.html">Week 1&mdash;HuWn</a>:</span> 2018-10-04 to 2018-10-11
-  <li><span class="label"><a href="2.html">Week 2&mdash;TrCj</a>:</span> 2018-10-11 to 2018-10-18
-  <li><span class="label"><a href="3.html">Week 3&mdash;BaHu</a>:</span> 2018-10-18 to 2018-10-25
-  <li><span class="label"><a href="4.html">Week 4&mdash;DgSk</a>:</span> 2018-10-25 to 2018-11-01
-  <li><span class="label"><a href="5.html">Week 5&mdash;OpMo</a>:</span> 2018-11-01 to 2018-11-08
-  <li><span class="label"><a href="6.html">Week 6&mdash;SpNe</a>:</span> 2018-11-08 to 2018-11-15
-  <li><span class="label"><a href="7.html">Week 7&mdash;GhWr</a>:</span> 2018-11-15 to 2018-11-22
+  <li><span class="label"><a href="1.html">Week 1</a>:</span> 2024-11-01 to 2024-11-07 &mdash; Agnes, a SpFi
+  <li><span class="label"><a href="2.html">Week 2</a>:</span> 2024-11-08 to 2024-11-14 &mdash; Amaemon, a DsAl
+  <li><span class="label"><a href="3.html">Week 3</a>:</span> 2024-11-15 to 2024-11-21 &mdash; Asterion, a Mimo
+  <li><span class="label"><a href="4.html">Week 4</a>:</span> 2024-11-22 to 2024-11-28 &mdash; Azrael, a DjFE
+  <li><span class="label"><a href="5.html">Week 5</a>:</span> 2024-11-29 to 2024-12-05 &mdash; Bai Suzhen, a DrSh
 </ul>
 
 <h2>Sign Up</h2> 
-<p>Sign ups are now closed. See you in 0.23.</p>
+<p>Sign ups are now closed.</p>
 
 <h2>Rules</h2>
 <ol>
