@@ -22,9 +22,9 @@ Select your pleasure among the following options:
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
     <li>Read <a href="/tournament/about">About CCTT</a>.</li></ul>
 
-<h3><a href="/ccsdc/ccsdc">Crawl Cosplay Sudden Death Challenge</a> (CCSDC) ...in development.</h3>
+<h3><a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT) ...in development.</h3>
 <ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
-    <li>Read <a href="/ccsdc/about_ccsdc">About CCSDC</a>.</li></ul>
+    <li>Read <a href="/ccsdt/about_ccsdt">About CCSDT</a>.</li></ul>
 
 <br>
 <h3>Want to chat?</h3>
