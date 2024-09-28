@@ -30,10 +30,11 @@ points by reaching various in-game milestones.</li>
   <li><span class="label"><a href="7.html">Week 7&mdash;GhWr</a>:</span> 2018-11-15 to 2018-11-22
 </ul>
 
-<h2>Sign Up</h2> <p>Sign ups are now closed. See you in 0.23.</p>
+<h2>Sign Up</h2> 
+<p>Sign ups are now closed. See you in 0.23.</p>
 
-    <h2>Rules</h2></div><div id="content">
-    <ol>
+<h2>Rules</h2>
+<ol>
 <li>Each challenge consists of playing a randomly chosen Crawl race/class combo
 (e.g. MiBe). The combo for each week of the competition will be announced at
 00:00 UTC on the Thursday starting that week. All players have one week to
