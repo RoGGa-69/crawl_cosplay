@@ -28,3 +28,4 @@ points by reaching various in-game milestones.</li>
 
 <h2>Rules, Scoring and Credits</h2>
 See the <a href="about_ccsddc.html">About page</a>.
+<br>
