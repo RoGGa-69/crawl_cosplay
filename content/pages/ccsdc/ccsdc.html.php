@@ -27,5 +27,5 @@ points by reaching various in-game milestones.</li>
 <p>Sign ups are now closed.</p>
 
 <h2>Rules, Scoring and Credits</h2>
-See the <a href="about_ccsddc.html">About page</a>.
+See the <a href="about_ccsdc.html">About page</a>.
 <br>
