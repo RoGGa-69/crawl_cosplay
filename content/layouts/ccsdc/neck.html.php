@@ -10,7 +10,7 @@
 			<a href="/ccc/all_ccc_history"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; all CCC challenges</a>
 			<a href="/tournament/home">Crawl Cosplay Trunk Tournament (CCTT)</a>
 			<a href="/tournament/about"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCTT</a>
-      <a href="/ccsdc/ccsdc">Crawl Cosplay Sudden Death Challenge (CCSDC) - in development!</a>
+      <a href="/ccsdc/ccsdc">Crawl Cosplay Sudden Death Challenges (CCSDC) - in development!</a>
 			<a href="/ccsdc/about_ccsdc"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCSDC</a>
 		</div>
 	</div>
@@ -18,7 +18,7 @@
     <div class="toplinks"><br></div>
     <div class="page_content">
         <div class="heading">
-            <h1>Crawl Cosplay Sudden Death Challenge</h1>
+            <h1>Crawl Cosplay Sudden Death Challenges</h1>
             <div class="fineprint"><center>Come chat with us on our <a href="https://discord.gg/WdbyURBcYp" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a></center></div>
         </div>
 	<div class="fineprint" align="right">
