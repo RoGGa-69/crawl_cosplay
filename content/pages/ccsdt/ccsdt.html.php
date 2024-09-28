@@ -3,12 +3,10 @@
 
 <h2>Competition Format</h2>
 <ul>
-<li>Each challenge consists of playing a Crawl Unique's combo.</li>
+<li>Each week's challenge consists of playing a Crawl Unique's combo.</li>
 <li>You get <em>one</em> attempt to play each combo.</li>
-<li>The goal is to advance as far as possible (and win!) in each game, scoring
-points by reaching various in-game milestones.</li>
+<li>The goal is to advance as far as possible (and win!) in each game, scoring points by reaching various in-game milestones.</li>
 <li>Only games played and milestones scored between 00:00 UTC on the start and end dates count.</li>
-<li>Details on rules and scoring are available on the <a href="rules.html">rules page</a>.</li>
 </ul>
 
 <h2>Schedule</h2>
@@ -25,5 +23,5 @@ points by reaching various in-game milestones.</li>
 <p>Sign ups are now closed.</p>
 
 <h2>Rules, Scoring and Credits</h2>
-See the <a href="about_ccsdt.html">About page</a>.
+See the <a href="about_ccsdt.html">CCSDT About page</a>.
 <br>
