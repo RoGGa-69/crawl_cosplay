@@ -1,4 +1,4 @@
-<?php $this->layout = 'ccsdc'; ?>
+<?php $this->layout = 'ccsdt'; ?>
 <h2 style="color:rgb(69, 136, 5);">About Crawl Cosplay Sudden Death Tournament (CCSDT)</h2>
 
 <p>The Crawl Cosplay Sudden Death Torunament is a competition that aims to fill a
