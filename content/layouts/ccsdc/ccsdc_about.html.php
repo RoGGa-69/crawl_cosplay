@@ -1,3 +1,0 @@
-CCSDC About
-
-in development
