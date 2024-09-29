@@ -10,13 +10,13 @@ a lower time commitment event that aims to challenge players while playing one o
 
 <h2>Rules</h2>
 <ol>
-<li>Each challenge consists of playing a randomly chosen Crawl race/class combo
-(e.g. MiBe). The combo for each week of the competition will be announced at
-00:00 UTC on the Thursday starting that week. All players have one week to
+<li>Each challenge consists of playing a randomly chosen Crawl Unqiue's combo
+(e.g. Snorg, a TrBe). The combo for each week of the competition will be announced at
+00:00 UTC on the Friday starting that week. All players have one week to
 finish a game using that combo. Only milestones recorded during the week (from
-00:00 UTC on the start date until 00:00 UTC on the end date) will count for
+00:00 UTC on the start date until 23:59 UTC on the end date) will count for
 scoring.</li>
-<li>Your first 0.22 game started on an official server during the week will count
+<li>Your first 0.32 game started on an official server during the week will count
 for scoring. This is the only allowed attempt, subject to rule 3 below.</li>
 <li>One redo per week is allowed if your first game ended in death with player
 XL < 5 (i.e., no redo once you hit XL 5). The redo game must be started after
@@ -30,9 +30,9 @@ reaching ****** piety (or on worship with Gozag or Xom) with one of the listed
 gods. The point is lost if you ever abandon your god or are excommunicated. If
 the combo for the week is a zealot background, god points are only for sticking
 with the starting god. If the combo for the week is a demigod, the god point is automatically awarded.</li>
-<li>The season consists of 7 challenges total (i.e., 7 different combos). Each
+<li>The season consists of 5 challenges total (i.e., 5 different combos). Each
 race and background will be selected at most once during the competition.</li>
-<li>The final rankings will be tallied at the end of week 7 and represent the
+<li>The final rankings will be tallied at the end of week 5 and represent the
 final outcome. The player with the highest CSDC score is the champion.</li>
 <li>Tiebreakers are (in order): number of weekly bonus points, highest in-game
 score.</li>
@@ -70,21 +70,6 @@ competition)</th><th></th></tr>
 Tier II bonus implies that you have earned a Tier I bonus, these points can be
 awarded separately. Unless specified, a bonus or one time point does not
 require you to win to earn the point.</p>
-
-<h2>Fair Crawling</h2>
-
-<p>All contestants will compete with commonly recognized principles of
-sportsmanship and fair play. Failure to do so will result in disqualification
-without recourse and your entry will be deleted from the scoring database. If
-you are uncertain if something is "fair play" then ask for clarification before
-doing it. Ignorance and negligence are not excuses for poor behavior.</p>
-
-<p>All contestants acknowledge an obligation not to commit misconduct in
-relation to their participation.  Misconduct is any act that is a breach of
-good manners, a breach of good sportsmanship, or unethical behavior. Misconduct
-will also result in disqualification without recourse and your entry will be
-deleted from the scoring database. Severe misconduct will lead to exclusion from
-future CSDC events.</p>
 
 <h2>Credits</h2>
 
