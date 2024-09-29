@@ -16,7 +16,7 @@
   <li><span class="label"><a href="2.html">Week 2</a> :</span> 2024-11-08 to 2024-11-14 &mdash; Sojobo, a Tengu Air Elementalist (TeAE)
   <li><span class="label"><a href="3.html">Week 3</a> :</span> 2024-11-15 to 2024-11-21 &mdash; The Enchantress, a Spriggan	Enchanter (SpEn)
   <li><span class="label"><a href="4.html">Week 4</a> :</span> 2024-11-22 to 2024-11-28 &mdash; Natasha, a Felid Necromancer (FeNe)
-  <li><span class="label"><a href="5.html">Week 5</a> :</span> 2024-11-29 to 2024-12-05 &mdash; 
+  <li><span class="label"><a href="5.html">Week 5</a> :</span> 2024-11-29 to 2024-12-05 &mdash; Amaemon, a Demonspawn	Alchemist (DsAl)
 </ul>
 
 <h2>Sign Up</h2> 
