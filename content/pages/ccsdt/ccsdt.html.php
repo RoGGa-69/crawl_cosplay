@@ -20,7 +20,11 @@
 </ul>
 
 <h2>Sign Up</h2> 
-<p>Sign ups are now closed.</p>
+<p>In order to sign up, set the first line of your 0.32 rcfile to</p> <pre
+id="rc"># ccsdt</pre><p>on <a
+href="https://crawl.develz.org/play.htm">any of the official online servers</a>
+before the end of the first week. Your name will appear in the standings once
+you've done this correctly and started at least one 0.32 game (though it may take about 20 minutes before it does).</p>
 
 <h2>Rules, Scoring and Credits</h2>
 See the <a href="about_ccsdt.html">CCSDT About page</a>.
