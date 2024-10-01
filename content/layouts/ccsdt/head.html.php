@@ -27,13 +27,6 @@ a {
     color: #ccc;
 }
 
-p,ul,ol,.info {
-	margin-left: calc(20% - 10px);
-	margin-right: auto;
-	width: 60%;
-	padding: 0;
-}
-
 pre {
 	background: #606;
 	border: 3px dashed #669;
