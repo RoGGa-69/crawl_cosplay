@@ -26,7 +26,7 @@ before the end of the first week. Your name will appear in the standings once
 you've done this correctly and started at least one 0.32 game (though it may take about 20 minutes before it does).</p>
 
 <h2>Standings</h2>
-<p>for: <a href="0.32/standing.html">v0.32</a></p>
+<p>for: <a href="0.32/standings.html">v0.32</a></p>
 
 <h2>Rules, Scoring and Credits</h2>
 See the <a href="about_ccsdt.html">CCSDT About page</a>.
