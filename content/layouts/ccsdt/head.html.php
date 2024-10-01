@@ -16,26 +16,6 @@ html, body {
     font-family: sans-serif;
 }
 
-
-#logo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#sdc {
-	margin-top: -40px;
-	font-variant: small-caps;
-	font-size: 36pt;
-	margin-bottom: -20px;
-}
-#title {
-    width: 100%;
-    background-color: #202;
-    color: #eb2;
-    text-align: center;
-}
-
 #content {
     margin-bottom: 40px;
     margin-left: auto;
