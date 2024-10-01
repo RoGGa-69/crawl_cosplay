@@ -1,6 +1,6 @@
-<head><title>Rules</title>
-    <link rel="stylesheet" href="static/score.css">
-    </head><div id="title">
+<title>Rules</title>
+    <?php $this->layout = 'ccsdt'; ?>
+    <div id="title">
     <h2 id="sdc">0.32 Sudden Death Tournament</h2>
     <h2>Rules</h2></div><div id="content">
     <ol>
