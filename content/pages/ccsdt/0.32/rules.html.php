@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="static/score.css">
     </head><body><div id="title">
     <img id="logo" src="static/logo.png">
-    <h1 id="sdc">0.32 sudden death challenges</h1>
+    <h1 id="sdc">0.32 Sudden Death Tournament</h1>
     <h2>Rules</h2></div><div id="content">
     <ol>
 <li>Each challenge consists of playing a randomly chosen Crawl race/class combo
@@ -67,4 +67,4 @@ awarded separately. Unless specified, a bonus or one time point does not
 require you to win to earn the point.</p>
 
 </div>
-    <div id="bottomtext"><span class="menu"><a href="index.html">Overview</a></span><span class="menu"><a href="rules.html">Rules</a></span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a></span><span class="menu"><a href="2.html">Week 2</a></span><span class="menu">Week 3</span><span class="menu">Week 4</span><span class="menu">Week 5</span></div></body></html>
+    <div id="bottomtext"><span class="menu"><a href="index.html.php">Overview</a></span><span class="menu"><a href="rules.html.php">Rules</a></span><span class="menu"><a href="standings.html.php">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html.php">Week 1</a></span><span class="menu"><a href="2.html.php">Week 2</a></span><span class="menu">Week 3</span><span class="menu">Week 4</span><span class="menu">Week 5</span></div></body></html>
