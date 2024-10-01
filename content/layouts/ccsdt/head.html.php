@@ -26,9 +26,7 @@ html, body {
 a {
     color: #ccc;
 }
-h2 {
-	text-align: center;
-}
+
 p,ul,ol,.info {
 	margin-left: calc(20% - 10px);
 	margin-right: auto;
