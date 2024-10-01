@@ -1,13 +1,12 @@
 <title>Crawl Cosplay Sudden Death Tournament</title>
     <?php $this->layout = 'ccsdt'; ?>
     <div id="title">
-    <h2 id="sdc">0.32 Sudden Death Tournament</h2>
+    <h2 id="sdc">CCSDT for DCSS v0.32</h2>
     <h2></h2></div><div id="content">
     <pre id="cover">
 _You are suddenly pulled into a different region of the Abyss!
-_A floating eye, a glowing orange brain, 4 small abominations and 8 large
- abominations come into view.</pre>
-<p>The Crawl Cosplay Sudden Death Tournament is a competition that aims to fill a
+_A floating eye, a glowing orange brain, 4 small abominations and 8 large abominations come into view.</pre>
+<p>The Crawl Cosplay Sudden Death Tournament (CCSTD) is a competition that aims to fill a
 Crawl niche not currently filled by the biannual version release tournaments.
 The idea is for players to compete by trying to do as well as possible in a
 game of Crawl with one attempt only; if you die, that challenge is over (thus
