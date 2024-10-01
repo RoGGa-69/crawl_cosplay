@@ -66,4 +66,4 @@ awarded separately. Unless specified, a bonus or one time point does not
 require you to win to earn the point.</p>
 
 </div>
-    <div id="bottomtext"><span class="menu"><a href="index.html">Overview</a></span><span class="menu"><a href="rules.html">Rules</a></span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a></span><span class="menu"><a href="2.html">Week 2</a></span><span class="menu">Week 3</span><span class="menu">Week 4</span><span class="menu">Week 5</span>
+    <div id="bottomtext"><span class="menu"><a href="index.html">Overview</a> - </span><span class="menu"><a href="rules.html">Rules</a> - </span><span class="menu"><a href="standings.html">Standings</a> - </span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a></span><span class="menu"><a href="2.html">Week 2</a></span><span class="menu">Week 3</span><span class="menu">Week 4</span><span class="menu">Week 5</span>
