@@ -19,11 +19,14 @@
   <li><span class="label"><a href="0.32/5.html">Week 5</a> :</span> 2024-11-29 to 2024-12-05 &mdash; Amaemon, a Demonspawn	Alchemist (DsAl)
 </ul>
 
-<h2>Sign Up</h2> 
+<h2>Signing Up</h2> 
 <p>In order to sign up, set the first line of your 0.32 rcfile to</p> <pre id="rc"># ccsdt</pre><p>
   on <a href="https://crawl.develz.org/play.htm">any of the official online servers</a>
 before the end of the first week. Your name will appear in the standings once
 you've done this correctly and started at least one 0.32 game (though it may take about 20 minutes before it does).</p>
+
+<h2>Standings</h2>
+<p>for: <a href="0.32/standing.html">v0.32</a></p>
 
 <h2>Rules, Scoring and Credits</h2>
 See the <a href="about_ccsdt.html">CCSDT About page</a>.
