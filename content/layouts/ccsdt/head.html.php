@@ -9,6 +9,14 @@
 
 <style>
 
+html, body {
+    margin: 0;
+    background-color: #202;
+    color: #ccc;
+    font-family: sans-serif;
+}
+
+
 #logo {
 	display: block;
 	margin-left: auto;
