@@ -56,7 +56,6 @@ pre {
 }
 
 .card {
-	overflow-x: scroll;
     margin-left: 20px;
     margin-right: 20px;
 }
