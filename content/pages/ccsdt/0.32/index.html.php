@@ -1,7 +1,6 @@
 <html><head><title>Crawl Cosplay Sudden Death Tournament</title>
     <link rel="stylesheet" href="static/score.css">
     </head><body><div id="title">
-    <img id="logo" src="static/logo.png">
     <h1 id="sdc">0.32 Sudden Death Tournament</h1>
     <h2></h2></div><div id="content">
     <pre id="cover">

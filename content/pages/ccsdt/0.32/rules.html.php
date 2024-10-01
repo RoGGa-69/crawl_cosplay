@@ -1,7 +1,6 @@
 <html><head><title>Rules</title>
     <link rel="stylesheet" href="static/score.css">
     </head><body><div id="title">
-    <img id="logo" src="static/logo.png">
     <h1 id="sdc">0.32 Sudden Death Tournament</h1>
     <h2>Rules</h2></div><div id="content">
     <ol>

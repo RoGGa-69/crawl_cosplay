@@ -1,7 +1,6 @@
 <html><head><title>Week 1&mdash;AtHu</title>
     <link rel="stylesheet" href="static/score.css">
     <meta http-equiv="refresh" content="300"></head><body><div id="title">
-    <img id="logo" src="static/logo.png">
     <h1 id="sdc">0.32 Sudden Death Tournament</h1>
     <h2>Week 1&mdash;AtHu</h2></div><div id="content"><div id="times"><span class="label">Week of 2024-09-23</span></div><div id="combo"><span class="label">Character: </span>Armataur Hunter</div>
 <div id="bonus"><span class="label">Tier I Bonus: </span>Reach the end of Lair at XL &leq; 12.<br/>
@@ -28,4 +27,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">RoGGa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Blyxx</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="index.html.php">Overview</a></span><span class="menu"><a href="rules.html.php">Rules</a></span><span class="menu"><a href="standings.html.php">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1</span><span class="menu"><a href="2.html.php">Week 2</a></span><span class="menu">Week 3</span><span class="menu">Week 4</span><span class="menu">Week 5</span><span id="updated"><span class="label">Updated: </span>2024-10-01 14:22 UTC</span></div></div></body></html>
+    <div id="bottomtext"><span class="menu"><a href="index.html.php">Overview</a></span><span class="menu"><a href="rules.html.php">Rules</a></span><span class="menu"><a href="standings.html.php">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1</span><span class="menu"><a href="2.html.php">Week 2</a></span><span class="menu">Week 3</span><span class="menu">Week 4</span><span class="menu">Week 5</span><span id="updated"><span class="label">Updated: </span>2024-10-01 14:25 UTC</span></div></div></body></html>
