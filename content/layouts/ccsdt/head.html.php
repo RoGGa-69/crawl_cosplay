@@ -47,11 +47,6 @@ pre {
 	overflow-y: hidden;
 }
 
-li {
-	margin-left: auto;
-	margin-right: auto;
-	width: 80%;
-}
 #combo, #bonus, #gods, #times, #schedule  {
     font-size: 14pt;
 }
