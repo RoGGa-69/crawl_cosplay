@@ -29,7 +29,7 @@ href="rules.html.php">rules page</a>.</li>
 
 <h2>Schedule</h2>
 
-<ul id="schedule"><li><span class="label"><a href="1.html">Week 1&mdash;AtHu</a>:</span> 2024-09-23 to 2024-09-30<li><span class="label"><a href="2.html">Week 2&mdash;OpSu</a>:</span> 2024-09-30 to 2024-10-07<li><span class="label">Week 3:</span> 2024-10-07 to 2024-10-14<li><span class="label">Week 4:</span> 2024-10-14 to 2024-10-21<li><span class="label">Week 5:</span> 2024-10-21 to 2024-10-28</ul>
+<ul id="schedule"><li><span class="label"><a href="1.html">Week 1 &mdash; AtHu</a>:</span> 2024-09-23 to 2024-09-30<li><span class="label"><a href="2.html">Week 2 &mdash; OpSu</a>:</span> 2024-09-30 to 2024-10-07<li><span class="label">Week 3:</span> 2024-10-07 to 2024-10-14<li><span class="label">Week 4:</span> 2024-10-14 to 2024-10-21<li><span class="label">Week 5:</span> 2024-10-21 to 2024-10-28</ul>
 
 <h2>Sign Up</h2> <p>Sign ups are now closed. See you in 0.33.</p>
 

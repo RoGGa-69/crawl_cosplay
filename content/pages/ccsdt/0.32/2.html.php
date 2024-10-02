@@ -1,8 +1,8 @@
-<title>Week 2&mdash;OpSu</title>
+<title>Week 2 &mdash; OpSu</title>
     <?php $this->layout = 'ccsdt'; ?>
     <meta http-equiv="refresh" content="300"><div id="title">
     <h2 id="sdc"><center>CCSDT for DCSS v0.32</center></h2>
-    <h2>Week 2&mdash;OpSu</h2></div><div id="content"><div id="times"><span class="label">Week of 2024-09-30</span></div><div id="combo"><span class="label">Character: </span>Octopode Summoner</div>
+    <h2>Week 2 &mdash; OpSu</h2></div><div id="content"><div id="times"><span class="label">Week of 2024-09-30</span></div><div id="combo"><span class="label">Character: </span>Octopode Summoner</div>
 <div id="bonus"><span class="label">Tier I Bonus: </span>Enter a rune branch with all base skills < 11.<br/>
 <span class="label">Tier II Bonus: </span>Collect a rune with all base skills < 11.</div>
 <div id="gods"><span class="label">Gods: </span>Cheibriados, Cheibriados, Cheibriados</div><div class="card"><table><tr class="head">
@@ -28,4 +28,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Naiya55</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">PigKeeper</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updated: </span>2024-10-02 11:02 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updated: </span>2024-10-02 12:03 UTC</span></div>
