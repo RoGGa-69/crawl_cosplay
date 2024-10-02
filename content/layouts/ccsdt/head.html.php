@@ -48,7 +48,7 @@ pre {
 }
 
 #combo, #bonus, #gods, #times, #schedule  {
-    font-size: 14pt;
+    font-size: 10pt;
 }
 
 .label {
