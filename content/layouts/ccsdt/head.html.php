@@ -62,7 +62,7 @@ pre {
 
 table {
     margin-top: 30px;
-    width: calc(100% - 10px);
+    width: calc(100%);
     margin-left: auto;
     margin-right: auto;
     border-collapse: collapse;
