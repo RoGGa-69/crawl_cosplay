@@ -48,7 +48,7 @@ pre {
 }
 
 #combo, #bonus, #gods, #times, #schedule  {
-    font-size: 10pt;
+    font-size: 11pt;
 }
 
 .label {
@@ -62,7 +62,7 @@ pre {
 
 table {
     margin-top: 30px;
-    width: calc(100% - 60px);
+    width: calc(100% - 10px);
     margin-left: auto;
     margin-right: auto;
     border-collapse: collapse;
@@ -82,7 +82,7 @@ th {
 }
 
 tr.head {
-	font-size: 10pt;
+	font-size: 11pt;
 	border-bottom: 3px solid #669;
 	border-top: 3px solid #669;
 }
