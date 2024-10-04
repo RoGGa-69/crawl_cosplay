@@ -67,8 +67,12 @@ table {
     margin-right: auto;
     border-collapse: collapse;
 }
-td.pt, td.total {
+td.pt, 
 	text-align: right;
+}
+	
+td.total {
+	text-align: center;
 }
 td, th {
 	padding-left: 10px;
