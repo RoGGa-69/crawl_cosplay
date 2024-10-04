@@ -68,7 +68,7 @@ table {
     border-collapse: collapse;
 }
 td.pt, td.total {
-	text-align: center;
+	text-align: right;
 }
 td, th {
 	padding-left: 10px;
