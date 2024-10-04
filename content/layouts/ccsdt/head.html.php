@@ -56,13 +56,13 @@ pre {
 }
 
 .card {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 table {
     margin-top: 30px;
-    width: calc(100%);
+    width: auto;
     margin-left: auto;
     margin-right: auto;
     border-collapse: collapse;

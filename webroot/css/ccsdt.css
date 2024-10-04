@@ -182,11 +182,13 @@ table {
     border: 1px solid #ccc;
     font-size: 13px;
 }
-td, th {
+td {
     text-align: left;
     padding: 2px 4px;
 }
 th {
+    text-align: center;
+    padding: 2px 4px;
     border-top: 2px solid #ddd;
     border-bottom: 2px solid #ddd;
 }
