@@ -116,7 +116,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <ul>
 	<li>Reach XL3.
 	<li>Enter Lair, Orc, or Depths.
-	<li>Reach the bottom of D, Lair, or Orc.
+	<li>Reach the bottom of Dungeon, Lair, or Orc.
 	<li>Collect your first rune.
 	<li>Find the entrance to Zot. (Just using magic mapping doesn't count.)
 	<li>Collect your third rune.
