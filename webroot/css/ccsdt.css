@@ -183,7 +183,7 @@ table {
     font-size: 13px;
 }
 td, th {
-    text-align: left;
+    text-align: center;
     padding: 2px 4px;
 }
 th {
