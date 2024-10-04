@@ -67,11 +67,7 @@ table {
     margin-right: auto;
     border-collapse: collapse;
 }
-td.pt, 
-	text-align: right;
-}
-	
-td.total {
+td.pt, td.total {
 	text-align: center;
 }
 td, th {
