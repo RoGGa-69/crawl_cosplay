@@ -22,18 +22,17 @@ for scoring. This is the only allowed attempt, subject to rule 3 below.</li>
 XL < 5 (i.e., no redo once you reach XL 5). The redo game must be started after
 the end of the first game (no startscumming!).  The highest CSDC score of the
 two games is counted towards your score.</li>
-<li>Each challenge has an optional bonus challenge in addition to the
-race/class combo. Each bonus will have two tiers; the second tier is more
-difficult and worth more points.</li>
+<li>Each challenge has optional bonuses challenge in addition to the
+race/class combo.</li>
 <li>Each challenge includes a list of gods. A bonus point can be earned upon
 reaching ****** piety (or on worship with Gozag or Xom) with one of the listed
 gods. The point is lost if you ever abandon your god or are excommunicated. If
 the combo for the week is a zealot background, god points are only for sticking
 with the starting god. If the combo for the week is a demigod, the god point is automatically awarded.</li>
-<li>The season consists of 5 challenges total (i.e., 5 different combos). Each
+<li>The tournament consists of 5 challenges total (i.e., 5 different combos). Each
 race and background will be selected at most once during the competition.</li>
 <li>The final rankings will be tallied at the end of week 5 and represent the
-final outcome. The player with the highest CSDC score is the champion.</li>
+final outcome. The player with the highest tournament score is the champion.</li>
 <li>Tiebreakers are (in order): number of weekly bonus points, highest in-game
 score.</li>
 <li>Don't play on more than one account. That misses the point.</li>
@@ -55,7 +54,7 @@ week)</th><th></th></tr>
 <tr><td class="name">Collect 3 or more runes:</td><td class="pt">1</td></tr>
 <tr><td class="name">Win:</td><td class="pt">1</td></tr>
 <tr><td class="name">Complete a Tier I bonus:</td><td class="pt">1</td></tr>
-<tr><td class="name">Complete a Tier II bonus:</td><td class="pt">2</td></tr>
+<tr><td class="name">Complete a Tier II bonus:</td><td class="pt">1</td></tr>
 <tr class="head" id="onetime"><th>One-time points (earned once in the
 competition)</th><th></th></tr>
 <tr><td class="name">Win a game with 15 runes:</td><td class="pt">3</td></tr>
@@ -75,7 +74,8 @@ require you to win to earn the point.</p>
 
 <p>Original CSDC rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> 
 and <a href="http://crawl.akrasiac.org/scoring/players/ebering.html">ebering</a>.
-Thank you to all the players who made runs in the beta. I am your host, RoGGa.
+<br>Thank you scrubdaddy for python assistance. 
+<br>I am your host, RoGGa.
 
    <div id="bottomtext">
      <span class="menu"><a href="ccsdt.html">Overview</a> - </span>
