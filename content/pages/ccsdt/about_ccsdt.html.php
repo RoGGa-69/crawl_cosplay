@@ -78,9 +78,9 @@ and <a href="http://crawl.akrasiac.org/scoring/players/ebering.html">ebering</a>
 Thank you to all the players who made runs in the beta. I am your host, RoGGa.
 
    <div id="bottomtext">
-     <span class="menu"><a href="../ccsdt.html">Overview</a> - </span>
-     <span class="menu"><a href="../about_ccsdt.html">Details</a> - </span>
-     <span class="menu"><a href="standings.html">Standings</a></span>
+     <span class="menu"><a href="ccsdt.html">Overview</a> - </span>
+     <span class="menu"><a href="about_ccsdt.html">Details</a> - </span>
+     <span class="menu"><a href="/0.32/standings.html">Standings</a></span>
      <span class="menuspacer"></span>
      <span class="menu"><a href="/0.32/1.html">Week 1</a> - </span>
      <span class="menu"><a href="/0.32/2.html">Week 2</a> - </span>
