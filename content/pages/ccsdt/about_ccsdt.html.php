@@ -5,8 +5,8 @@
 Crawl niche not currently filled by the biannual version release tournaments or other Crawl Cosplays.
 The idea is for players to compete by trying to do as well as possible in a
 game of Crawl with one attempt only; if you die, that challenge is over (thus
-"sudden death", though you may&mdash;<em>will</em>&mdash;also die suddenly). This competition is
-a lower time commitment event that aims to challenge players while playing one of the 100 or so Crawl Unique characters.</p>
+"sudden death"). This competition is a lower time commitment event that aims to challenge 
+players while playing one of the 100 or so Crawl Unique characters.</p>
 
 <h2>Rules</h2>
 <ol>
