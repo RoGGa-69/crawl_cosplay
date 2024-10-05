@@ -1,6 +1,6 @@
 <?php $this->layout = 'ccsdt'; ?>
 
-This week hasn't started yet!
+<h3>This week hasn't started yet!</h3>
 
    <div id="bottomtext">
      <span class="menu"><a href="ccsdt.html">Overview</a> - </span>
