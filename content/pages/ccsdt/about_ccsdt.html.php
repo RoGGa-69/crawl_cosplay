@@ -5,8 +5,8 @@
 Crawl niche not currently filled by the biannual version release tournaments or other Crawl Cosplays.
 The idea is for players to compete by trying to do as well as possible in a
 game of Crawl with one attempt only; if you die, that challenge is over (thus
-"sudden death", though you may&mdash;<em>will</em>&mdash;also die suddenly). This competition is
-a lower time commitment event that aims to challenge players while playing one of the 100 or so Crawl Unique characters.</p>
+"sudden death"). This competition is a lower time commitment event that aims to challenge 
+players while playing one of the 100 or so Crawl Unique characters.</p>
 
 <h2>Rules</h2>
 <ol>
@@ -14,7 +14,7 @@ a lower time commitment event that aims to challenge players while playing one o
 (e.g. Snorg, a TrBe). The combo for each week of the competition will be announced at
 00:00 UTC on the Friday starting that week. All players have one week to
 finish a game using that combo. Only milestones recorded during the week (from
-00:00 UTC on the start date until 23:59 UTC on the end date) will count for
+00:00 UTC on the start date until 00:00 UTC on the end date) will count for
 scoring.</li>
 <li>Your first 0.32 game started on an official server during the week will count
 for scoring. This is the only allowed attempt, subject to rule 3 below.</li>
@@ -76,3 +76,15 @@ require you to win to earn the point.</p>
 <p>Original CSDC rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> 
 and <a href="http://crawl.akrasiac.org/scoring/players/ebering.html">ebering</a>.
 Thank you to all the players who made runs in the beta. I am your host, RoGGa.
+
+   <div id="bottomtext">
+     <span class="menu"><a href="ccsdt.html">Overview</a> - </span>
+     <span class="menu"><a href="about_ccsdt.html">Details</a> - </span>
+     <span class="menu"><a href="./0.32/standings.html">Standings</a></span>
+     <span class="menuspacer"></span>
+     <span class="menu"><a href="./0.32/1.html">Week 1</a> - </span>
+     <span class="menu"><a href="./0.32/2.html">Week 2</a> - </span>
+     <span class="menu"><a href="./0.32/3.html">Week 3</a> - </span>
+     <span class="menu"><a href="./0.32/4.html">Week 4</a> - </span>
+     <span class="menu"><a href="./0.32/5.html">Week 5</a></span>
+   </div>
