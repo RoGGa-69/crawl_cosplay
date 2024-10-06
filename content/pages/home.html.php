@@ -18,9 +18,9 @@ Select your pleasure among the following options:
 <ul><li>The original weekly challenge posted on Reddit since 2019!</li>
     <li>Read <a href="/ccc/about_ccc">About CCC</a>.</li></ul>
 
-<h3><a href="/tournament/home">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
+<h3><a href="/cctt/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
-    <li>Read <a href="/tournament/about">About CCTT</a>.</li></ul>
+    <li>Read <a href="/cctt/about_cctt">About CCTT</a>.</li></ul>
 
 <h3><a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT) ...in development.</h3>
 <ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
@@ -28,7 +28,9 @@ Select your pleasure among the following options:
 
 <br>
 <h3>Want to chat?</h3>
-<p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> with over 222 members!</p>
+<p>Come chat with us on our 
+    <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
+    with over 222 members!</p>
 <br>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
