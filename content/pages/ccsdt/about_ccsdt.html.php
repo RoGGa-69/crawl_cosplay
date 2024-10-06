@@ -10,12 +10,10 @@ players while playing one of the 100 or so Crawl Unique characters.</p>
 
 <h2>Rules</h2>
 <ol>
-<li>Each challenge consists of playing a randomly chosen Crawl Unqiue's combo
-(e.g. Snorg, a TrBe). The combo for each week of the competition will be announced at
-00:00 UTC on the Friday starting that week. All players have one week to
-finish a game using that combo. Only milestones recorded during the week (from
-00:00 UTC on the start date until 00:00 UTC on the end date) will count for
-scoring.</li>
+<li>Each challenge consists of playing a randomly chosen Crawl Unqiue's combo (e.g. Snorg, a TrBe). 
+The combos for each week of the competition have already been selected by our Crawl Cosplay @VIPs on our Discord server. 
+All players have one week to finish a game using that combo. Only milestones recorded during the week (from
+00:00 UTC on the start date until 00:00 UTC on the end date) will count for scoring.</li>
 <li>Your first 0.32 game started on an official server during the week will count
 for scoring. This is the only allowed attempt, subject to rule 3 below.</li>
 <li>One redo per week is allowed if your first game ended in death with player
