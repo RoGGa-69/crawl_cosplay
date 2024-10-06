@@ -12,11 +12,11 @@
 <h2>Schedule</h2>
 
 <ul id="schedule">
-  <li><span class="label"><a href="0.32/1.html">Week 1</a> :</span> 2024-11-01 to 2024-11-07 &mdash; Frances, a Human Gladiator (HuGl)
-  <li><span class="label"><a href="0.32/2.html">Week 2</a> :</span> 2024-11-08 to 2024-11-14 &mdash; Sojobo, a Tengu Air Elementalist (TeAE)
-  <li><span class="label"><a href="0.32/3.html">Week 3</a> :</span> 2024-11-15 to 2024-11-21 &mdash; The Enchantress, a Spriggan	Enchanter (SpEn)
-  <li><span class="label"><a href="0.32/4.html">Week 4</a> :</span> 2024-11-22 to 2024-11-28 &mdash; Natasha, a Felid Necromancer (FeNe)
-  <li><span class="label"><a href="0.32/5.html">Week 5</a> :</span> 2024-11-29 to 2024-12-05 &mdash; Amaemon, a Demonspawn	Alchemist (DsAl)
+  <li><span class="label"><a href="0.32/1.html">Week 1</a> :</span> from 0:00 UTC on 2024-11-01 to 0:00 UTC on 2024-11-08 &mdash; Frances, a Human Gladiator (HuGl)
+  <li><span class="label"><a href="0.32/2.html">Week 2</a> :</span> from 0:00 UTC on 2024-11-08 to 0:00 UTC on 2024-11-15 &mdash; Sojobo, a Tengu Air Elementalist (TeAE)
+  <li><span class="label"><a href="0.32/3.html">Week 3</a> :</span> from 0:00 UTC on 2024-11-15 to 0:00 UTC on 2024-11-22 &mdash; The Enchantress, a Spriggan	Enchanter (SpEn)
+  <li><span class="label"><a href="0.32/4.html">Week 4</a> :</span> from 0:00 UTC on 2024-11-22 to 0:00 UTC on 2024-11-29 &mdash; Natasha, a Felid Necromancer (FeNe)
+  <li><span class="label"><a href="0.32/5.html">Week 5</a> :</span> from 0:00 UTC on 2024-11-29 to 0:00 UTC on 2024-12-06 &mdash; Amaemon, a Demonspawn	Alchemist (DsAl)
 </ul>
 
 <h2>Signing Up</h2> 
