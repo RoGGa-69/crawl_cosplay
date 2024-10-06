@@ -1,4 +1,4 @@
-<?php $this->layout = 'tournament'; ?>
+<?php $this->layout = 'cctt'; ?>
 <?php
 
 use \app\models\{Challenge, Player, Submission};

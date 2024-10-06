@@ -1,7 +1,7 @@
 <?php
 use app\models\{Challenge, Submission, Player};
 
-	$this->layout = 'tournament';
+	$this->layout = 'cctt';
 
 	$set = $_GET['set'] ?? 1;
 	$scores = Player::scoreboardForSet($set);

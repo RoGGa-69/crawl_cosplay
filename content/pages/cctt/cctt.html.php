@@ -1,7 +1,7 @@
 <?php
 use app\models\{Challenge, Submission, Player};
 
-$this->layout = 'tournament';
+$this->layout = 'cctt';
 
 $active = Challenge::tournamentActive();
 if ($active) :

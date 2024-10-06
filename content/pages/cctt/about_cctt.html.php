@@ -1,4 +1,4 @@
-<?php $this->layout = 'tournament'; ?>
+<?php $this->layout = 'cctt'; ?>
 <?php 
     $dir_path = "img/uniques";
     $files = scandir($dir_path);

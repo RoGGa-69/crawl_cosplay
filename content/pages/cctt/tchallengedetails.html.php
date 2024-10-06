@@ -2,7 +2,7 @@
 
 use app\models\{Challenge, Submission};
 
-$this->layout = 'tournament';
+$this->layout = 'cctt';
 
 $id = $_GET['id'] ?? false;
 if ($id == false) {
