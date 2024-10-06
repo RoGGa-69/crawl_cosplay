@@ -6,7 +6,8 @@
 <li>Each week's challenge consists of playing a Crawl Unique's combo.</li>
 <li>You get <em>one</em> attempt to play each combo.</li>
 <li>The goal is to advance as far as possible (and win!) in each game, scoring points by reaching various in-game milestones.</li>
-<li>Only games played and milestones scored between 00:00 UTC on the start and end dates count.</li>
+<li>Only games played and milestones scored between 00:00 UTC on the start and end dates count. 
+    To find out what time this means for your timezone, see <a href="https://dateful.com/convert/utc"></a> and select <b>24</b> and <b>DATE</b>.</li>
 </ul>
 
 <h2>Schedule</h2>
