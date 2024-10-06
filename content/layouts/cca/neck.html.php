@@ -8,8 +8,10 @@
 			<a href="/ccc/ccc">Crawl Cosplay Challenge (CCC)</a>
 			<a href="/ccc/about_ccc"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCC</a>
 			<a href="/ccc/all_ccc_history"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; all CCC challenges</a>
-			<a href="/tournament/home">Crawl Cosplay Trunk Tournament (CCTT)</a>
-			<a href="/tournament/about"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCTT</a>
+			<a href="/cctt/cctt">Crawl Cosplay Trunk Tournament (CCTT)</a>
+			<a href="/cctt/about_cctt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCTT</a>
+			<a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament (CCSDT) - starting Nov. 1st!</a>
+			<a href="/ccsdt/about_ccsdt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCSDT</a>
 		</div>
 	</div>
 
