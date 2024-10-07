@@ -3,8 +3,8 @@
     <meta http-equiv="refresh" content="300"><div id="title">
     <h2 id="sdc"><center>CCSDT for DCSS v0.32</center></h2>
     <h2>Week 3 &mdash; MfFi</h2></div><div id="content"><div id="times"><span class="label">Week of 2024-10-07</span></div><div id="combo"><span class="label">Character: </span>Merfolk Fighter</div>
-<div id="bonus"><span class="label">Tier I Bonus: </span>No bonus<br/>
-<span class="label">Tier II Bonus: </span>No bonus</div>
+<div id="bonus"><span class="label">Tier I Bonus: </span>Reach the end of Lair at XL &leq; 12.<br/>
+<span class="label">Tier II Bonus: </span>Reach the end of the Depths before entering a rune branch.</div>
 <div id="gods"><span class="label">Gods: </span>Okawaru, Okawaru, Okawaru</div><div class="card"><table><tr class="head">
     <th>Player</th>
     <th>Unique Kill</th>
@@ -39,4 +39,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">DocSulfur</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">person50605</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updated: </span>2024-10-07 12:00 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updated: </span>2024-10-07 12:14 UTC</span></div>
