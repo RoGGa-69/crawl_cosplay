@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title><?=$page_title ?? 'Crawl Cosplay Sudden Death Tournament (CCSDT)'?></title>
-    <link rel="icon" href="/img/feat-dg_entrance.png" type="image/png">
+    <link rel="icon" href="/img/RIP-YASD.png" type="image/png">
     <link rel="stylesheet" href="/css/ccsdt.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
