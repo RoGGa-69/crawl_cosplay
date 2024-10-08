@@ -46,14 +46,14 @@ games achieve them.</p>
 week)</th><th></th></tr>
 <tr><td class="name">Kill a unique:</td><td class="pt">1</td></tr>
 <tr><td class="name">Enter a multi-level branch of the dungeon:</td><td class="pt">1</td></tr>
-<tr><td class="name">Reach the end of a multi-level branch (including D):</td><td class="pt">1</td></tr>
+<tr><td class="name">Reach the end of a multi-level branch (including Dungeon):</td><td class="pt">1</td></tr>
 <tr><td class="name">Champion a listed god:</td><td class="pt">1</td></tr>
 <tr><td class="name">Collect a rune:</td><td class="pt">1</td></tr>
 <tr><td class="name">Collect 3 or more runes:</td><td class="pt">1</td></tr>
-<tr><td class="name">Obtain the Orb of Zot:</td><td class="pt">1</td></tr>
+<tr><td class="name">Pick up the Orb of Zot:</td><td class="pt">1</td></tr>
 <tr><td class="name">Win:</td><td class="pt">1</td></tr>
-<tr><td class="name">Complete a Bonus 1:</td><td class="pt">1</td></tr>
-<tr><td class="name">Complete a Bonus 2:</td><td class="pt">1</td></tr>
+<tr><td class="name">Complete Bonus 1:</td><td class="pt">1</td></tr>
+<tr><td class="name">Complete Bonus 2:</td><td class="pt">1</td></tr>
 <tr class="head" id="onetime"><th>One-time points (earned once during the
 tournament)</th><th></th></tr>
 <tr><td class="name">Win a game with 15 runes:</td><td class="pt">3</td></tr>
