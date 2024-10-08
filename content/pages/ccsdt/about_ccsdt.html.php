@@ -51,10 +51,10 @@ week)</th><th></th></tr>
 <tr><td class="name">Collect a rune:</td><td class="pt">1</td></tr>
 <tr><td class="name">Collect 3 or more runes:</td><td class="pt">1</td></tr>
 <tr><td class="name">Win:</td><td class="pt">1</td></tr>
-<tr><td class="name">Complete a Tier I bonus:</td><td class="pt">1</td></tr>
-<tr><td class="name">Complete a Tier II bonus:</td><td class="pt">1</td></tr>
-<tr class="head" id="onetime"><th>One-time points (earned once in the
-competition)</th><th></th></tr>
+<tr><td class="name">Complete a Bonus 1:</td><td class="pt">1</td></tr>
+<tr><td class="name">Complete a Bonus 2:</td><td class="pt">1</td></tr>
+<tr class="head" id="onetime"><th>One-time points (earned once during the
+tournament)</th><th></th></tr>
 <tr><td class="name">Win a game with 15 runes:</td><td class="pt">3</td></tr>
 <tr><td class="name">Win a game in under 50,000 turns:</td><td class="pt">3</td></tr>
 <tr><td class="name">Clear a Ziggurat:</td><td class="pt">3</td></tr>
