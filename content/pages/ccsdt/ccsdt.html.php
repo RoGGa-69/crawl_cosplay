@@ -4,7 +4,7 @@
 <h2>Competition Format</h2>
 <ul>
 <li>Each week's challenge consists of playing a Crawl Unique's combo.</li>
-<li>You get <em>one</em> attempt to play each combo.</li>
+<li>You get <em>one</em> attempt to play each combo. One redo per week is allowed if your first game ended in a death XL 5</li>
 <li>The goal is to advance as far as possible (and win!) in each game, scoring points by reaching various in-game milestones.</li>
 <li>Only games played and milestones scored between 00:00 UTC on the start and end dates count. 
     To find out what time this is for your timezone, see: <a href="https://dateful.com/convert/utc">dateful.com/convert/utc</a> and select <b>24</b> and <b>DATE</b>.</li>
