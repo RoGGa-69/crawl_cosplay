@@ -3,8 +3,8 @@
     <meta http-equiv="refresh" content="300"><div id="title">
     <h2 id="sdc"><center>CCSDT for DCSS v0.32</center></h2>
     <h2>Week 2 &mdash; OpSu</h2></div><div id="content"><div id="times"><span class="label">Week of 2024-09-30</span></div><div id="combo"><span class="label">Character: </span>Octopode Summoner</div>
-<div id="bonus"><span class="label">Tier I Bonus: </span>Enter a rune branch with all base skills < 11.<br/>
-<span class="label">Tier II Bonus: </span>Collect a rune with all base skills < 11.</div>
+<div id="bonus"><span class="label">Bonus 1: </span>Enter a rune branch with all base skills < 11.<br/>
+<span class="label">Bonus 2: </span>Collect a rune with all base skills < 11.</div>
 <div id="gods"><span class="label">Gods: </span>Cheibriados, Cheibriados, Cheibriados</div><div class="card"><table><tr class="head">
     <th>Player</th>
     <th>Unique Kill</th>
@@ -15,8 +15,8 @@
     <th>Collect 3 Runes</th>
     <th>Obtain the Orb</th>
     <th>Win</th>
-    <th>Bonus I</th>
-    <th>Bonus II</th>
+    <th>Bonus 1</th>
+    <th>Bonus 2</th>
     <th>Total</th>
     </tr><tr class="dead"><td class="name"><a href="http://crawl.xtahua.com/crawl/morgue/PigKeeper/morgue-PigKeeper-20241003-130959.txt">PigKeeper</a></td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">1</td><td class="pt">1</td><td class="total">7</td></tr>
 <tr class="dead"><td class="name"><a href="http://crawl.akrasiac.org/rawdata/piedemon/morgue-piedemon-20241003-182620.txt">piedemon</a></td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">1</td><td class="pt">0</td><td class="total">5</td></tr>
@@ -44,4 +44,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia2</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia3</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Updated: </span>2024-10-08 06:14 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Updated: </span>2024-10-08 06:24 UTC</span></div>
