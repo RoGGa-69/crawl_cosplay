@@ -50,7 +50,7 @@ week)</th><th></th></tr>
 <tr><td class="name">Champion a listed god:</td><td class="pt">1</td></tr>
 <tr><td class="name">Collect a rune:</td><td class="pt">1</td></tr>
 <tr><td class="name">Collect 3 or more runes:</td><td class="pt">1</td></tr>
-<tr><td class="name">Obtain the Orb of Zot::</td><td class="pt">1</td></tr>
+<tr><td class="name">Obtain the Orb of Zot:</td><td class="pt">1</td></tr>
 <tr><td class="name">Win:</td><td class="pt">1</td></tr>
 <tr><td class="name">Complete a Bonus 1:</td><td class="pt">1</td></tr>
 <tr><td class="name">Complete a Bonus 2:</td><td class="pt">1</td></tr>
