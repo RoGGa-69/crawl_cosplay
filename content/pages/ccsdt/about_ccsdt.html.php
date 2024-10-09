@@ -65,13 +65,13 @@ tournament)</th><th></th></tr>
 </table>
 
 <p class="notes"> It will not always be the case that earning a
-Tier II bonus implies that you have earned a Tier I bonus, these points can be
+Bonus 2 implies that you have earned a Bonus 1; these points can be
 awarded separately. Unless specified, a bonus or one time point does not
-require you to win to earn the point.</p>
+require you to win to earn the point(s).</p>
 
 <h2>Credits</h2>
 
-<p>Original CSDC rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> 
+<p>Original <a href="https://csclub.uwaterloo.ca/~ebering/crawl/csdc/0.24/standings.html">CSDC</a> rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> 
 and <a href="http://crawl.akrasiac.org/scoring/players/ebering.html">ebering</a>.
 <br>Thank you scrubdaddy for python assistance. 
 <br>I am your host, RoGGa.
