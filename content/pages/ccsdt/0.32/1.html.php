@@ -22,6 +22,7 @@
 <tr class="dead"><td class="name"><a href="https://cbro.berotato.org/morgue//Naiya55/morgue-Naiya55-20240925-215740.txt">Naiya55</a></td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
 <tr class="none"><td class="name">prawnwizard</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">piedemon</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">agentchuck</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Blyxx</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Broken26</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">ShadowRider38</td>
@@ -47,4 +48,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">throwawayaccount</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">testCosplay</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Updated: </span>2024-10-09 22:44 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Updated: </span>2024-10-09 22:54 UTC</span></div>
