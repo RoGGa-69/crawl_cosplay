@@ -7,19 +7,17 @@
 _You are suddenly pulled into a different region of the Abyss!
 _A floating eye, a glowing orange brain, 4 small abominations and 8 large abominations come into view.</pre>
 <p>The Crawl Cosplay Sudden Death Tournament (CCSTD) is a competition that aims to fill a
-Crawl niche not currently filled by the biannual version release tournaments.
+Crawl niche not currently filled by the version release tournament and the other 3 Crawl Cosplay initiatives.
 The idea is for players to compete by trying to do as well as possible in a
-game of Crawl with one attempt only; if you die, that challenge is over (thus
-"sudden death", though you may&mdash;<em>will</em>&mdash;also die suddenly). This competition is
-a lower time commitment event that aims to challenge players while
-simultaneously encouraging unusual characters and play styles that you might
-not normally consider.</p>
+game of Crawl with one attempt only; if you die, that week's challenge is over (thus
+"sudden death". This competition is a lower time commitment event that aims to challenge players while
+simultaneously encouraging unusual characters and play styles that you might not normally consider.</p>
 
 <h2>Competition Format</h2>
 
 <ul>
 <li>Each challenge consists of playing a randomly chosen Crawl combo.</li>
-<li>You get <em>one</em>  attempt to play each combo.</li>
+<li>You get <em>one</em> attempt to play each combo.</li>
 <li>The goal is to advance as far as possible (and win!) in each game, scoring
 points by reaching various in-game milestones.</li>
 <li>Only games played and milestones scored between 00:00 UTC on the start and end dates count.</li>
