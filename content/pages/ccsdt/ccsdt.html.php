@@ -4,7 +4,7 @@
 <h2>Competition Format</h2>
 <ul>
 <li>Each week's challenge consists of playing a Crawl Unique's combo.</li>
-<li>You get <em>one</em> attempt to play each combo. One redo per week is allowed if your first game ended in a death XL 5</li>
+<li>You get <em>one</em> attempt to play each combo. One redo per week is allowed if your first game ended in a death before XL 5.</li>
 <li>The goal is to advance as far as possible (and win!) in each game, scoring points by reaching various in-game milestones.</li>
 <li>Only games played and milestones scored between 00:00 UTC on the start and end dates count. 
     To find out what time this is for your timezone, see: <a href="https://dateful.com/convert/utc">dateful.com/convert/utc</a> and select <b>24</b> and <b>DATE</b>.</li>
@@ -22,9 +22,10 @@
 
 <h2>Signing Up</h2> 
 <p>In order to sign up, set the first line of your 0.32 rcfile to</p> <pre id="rc"># ccsdt</pre><p>
-  on <a href="https://crawl.develz.org/play.htm">any of the official online servers</a> (except for LLD & CPO since there are issues with importing their data)
+  on <a href="https://crawl.develz.org/play.htm">any of the official online servers</a>*
 before the end of the first week. Your name will appear in the standings once 
 you've done this correctly and started at least one 0.32 game (though it may take about 10 minutes before it does).</p>
+<br>* Except for LLD since there are issues with importing their data.
 
 <h2>Standings</h2>
 <p>for: <a href="0.32/standings.html">v0.32</a></p>
