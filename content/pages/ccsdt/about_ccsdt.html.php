@@ -10,25 +10,24 @@ players while playing one of the 100 or so Crawl Unique characters.</p>
 
 <h2>Rules</h2>
 <ol>
-<li>Each challenge consists of playing a randomly chosen Crawl Unqiue's combo (e.g. Snorg, a TrBe). 
-The combos for each week of the competition have already been selected by our Crawl Cosplay @VIPs on our Discord server. 
+<li>Each weekly challenge consists of playing a randomly chosen Crawl Unqiue's starting combo (e.g. Snorg, a TrBe). 
+The combos for each week of the competition have already been selected by our Crawl Cosplay @VIPs on our 
+<a href="https://discord.gg/WdbyURBcYp" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a>. 
 All players have one week to finish a game using that combo. Only milestones recorded during the week (from
 00:00 UTC on the start date until 00:00 UTC on the end date) will count for scoring.</li>
-<li>Your first 0.32 game started on an official server during the week will count
+<li>Your first 0.32 game started on an official server (except for LLD) during the week will count
 for scoring. This is the only allowed attempt, subject to rule 3 below.</li>
 <li>One redo per week is allowed if your first game ended in death with player
 XL < 5 (i.e., no redo once you reach XL 5). The redo game must be started after
-the end of the first game (no startscumming!).  The highest CSDC score of the
+the end of the first game (no startscumming!).  The highest score of the
 two games is counted towards your score.</li>
-<li>Each challenge has optional bonuses challenge in addition to the
-race/class combo.</li>
 <li>Each challenge includes a list of gods. A bonus point can be earned upon
 reaching ****** piety (or on worship with Gozag or Xom) with one of the listed
 gods. The point is lost if you ever abandon your god or are excommunicated. If
 the combo for the week is a zealot background, god points are only for sticking
 with the starting god. If the combo for the week is a demigod, the god point is automatically awarded.</li>
 <li>The tournament consists of 5 challenges total (i.e., 5 different combos). Each
-race and background will be selected at most once during the competition.</li>
+race and background is selected at most once during the competition.</li>
 <li>The final rankings will be tallied at the end of week 5 and represent the
 final outcome. The player with the highest tournament score is the champion.</li>
 <li>Tiebreakers are (in order): number of weekly bonus points, highest in-game
