@@ -28,26 +28,25 @@
 <tr class="dead"><td class="name"><a href="http://underhound.eu/crawl/morgue/Colgate/morgue-Colgate-20241002-080424.txt">Colgate</a></td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
 <tr class="dead"><td class="name"><a href="https://cbro.berotato.org/morgue//Dumalacath/morgue-Dumalacath-20240930-140158.txt">Dumalacath</a></td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
 <tr class="dead"><td class="name"><a href="https://crawl.dcss.io/crawl/morgue//Blyxx/morgue-Blyxx-20241002-110004.txt">Blyxx</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
-<tr class="dead"><td class="name"><a href="http://crawl.akrasiac.org/rawdata/MauveAvengr/morgue-MauveAvengr-20241006-053245.txt">MauveAvengr</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="dead"><td class="name"><a href="http://crawl.akrasiac.org/rawdata/MauveAvengr/morgue-MauveAvengr-20241006-053245.txt">mauveavengr</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="http://underhound.eu/crawl/morgue/TCC/morgue-TCC-20241003-221818.txt">TCC</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://cbro.berotato.org/morgue//snackwell/morgue-snackwell-20241005-191602.txt">snackwell</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://crawl.dcss.io/crawl/morgue//person50605/morgue-person50605-20241006-165226.txt">person50605</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
-<tr class="none"><td class="name">prawnwizard</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">agentchuck</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">ShadowRider38</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">cfcfcfcfcf</td>
+<tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">RepoMan</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TheMeInTeam</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">MysticSailboat</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">browni3141</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Naiya55</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">grumposus</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">goupaloupa</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">DocSulfur</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia2</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia3</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">throwawayaccount</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">prawnwizard</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">agentchuck</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TheMeInTeam</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">MysticSailboat</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">shadowrider38</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Naiya55</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">grumposus</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">testCosplay</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">goupaloupa</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">DocSulfur</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">throwawayaccount</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Updated: </span>2024-10-11 17:54 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Updated: </span>2024-10-11 19:14 UTC</span></div>
