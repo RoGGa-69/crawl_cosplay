@@ -1,6 +1,6 @@
 <title>Week 4 &mdash; DsIE</title>
     <?php $this->layout = 'ccsdt'; ?>
-    <meta http-equiv="refresh" content="300"><div id="title">
+    <meta http-equiv="refresh" content="240"><div id="title">
     <h2 id="sdc"><center>CCSDT for DCSS v0.32</center></h2>
     <h2>Week 4 &mdash; DsIE</h2></div><div id="content"><div id="times"><span class="label">Week of 2024-10-14</span></div><div id="combo"><span class="label">Character: </span>Demonspawn Ice Elementalist</div>
 <div id="bonus"><span class="label">Bonus 1: </span>Reach the end of Elf before entering a rune branch.<br/>
@@ -23,6 +23,7 @@
 <tr class="alive"><td class="name">testCosplay</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">3</td></tr>
 <tr class="alive"><td class="name">Dumalacath</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
 <tr class="alive"><td class="name">DocSulfur</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">agentchuck</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TCC</td>
@@ -33,7 +34,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia2</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia3</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">prawnwizard</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">agentchuck</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">snackwell</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TheMeInTeam</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">MysticSailboat</td>
@@ -51,4 +51,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">9to</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">throwawayaccount</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Updated: </span>2024-10-14 15:34 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-10-14 15:44 UTC</span></div>
