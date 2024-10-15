@@ -25,7 +25,7 @@
   on <a href="https://crawl.develz.org/play.htm">any of the official online servers</a>*
 before the end of the first week. Your name will appear in the standings once 
 you've done this correctly and started at least one 0.32 game (though it may take about 10 minutes before it does).</p>
-<br>* Due to duplicate data for LLD's v0.32, players on this server will need to play v0.31 instead.
+<br>* Due to duplicate data for LLD's v0.32, players need to play on a different server.
 
 <h2>Standings</h2>
 <p>for: <a href="0.32/standings.html">v0.32</a></p>
