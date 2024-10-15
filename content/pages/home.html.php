@@ -18,7 +18,7 @@ Select your pleasure among the following options:
 <ul><li>The original weekly challenge posted on Reddit since 2019!</li>
     <li>Read <a href="/ccc/about_ccc">About CCC</a>.</li></ul>
 
-<h3><a href="/cctt/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
+<h3><a href="/cctt/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>: next one in early 2025.
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
     <li>Read <a href="/cctt/about_cctt">About CCTT</a>.</li></ul>
 
