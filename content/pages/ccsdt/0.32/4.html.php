@@ -38,6 +38,7 @@
 <tr class="dead"><td class="name"><a href="http://underhound.eu/crawl/morgue/TCC/morgue-TCC-20241015-172439.txt">TCC</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="http://crawl.akrasiac.org/rawdata/testExploreMode/morgue-testExploreMode-20241014-181437.txt">testExploreMode</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://cbro.berotato.org/morgue//0hmetheus/morgue-0hmetheus-20241016-185343.txt">0hmetheus</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">PigKeeper</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">HourglassMan</td>
@@ -51,11 +52,10 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">shadowrider38</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Naiya55</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mauveavengr</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">PigKeeper</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">goupaloupa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">person50605</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">abclol0070</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">cpf86</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Broken26</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-10-18 11:25 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-10-18 11:35 UTC</span></div>
