@@ -47,6 +47,7 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Naiya55</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">grumposus</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">testCosplay</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">dannycarnage</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">goupaloupa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">1Anon</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">DocSulfur</td>
@@ -64,4 +65,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">testExploreMode</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">0hmetheus</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu"><a href="4.html">Week 4</a> - </span><span class="menu"><a href="5.html">Week 5</a> - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-10-25 20:35 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu"><a href="4.html">Week 4</a> - </span><span class="menu"><a href="5.html">Week 5</a> - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-10-25 20:45 UTC</span></div>
