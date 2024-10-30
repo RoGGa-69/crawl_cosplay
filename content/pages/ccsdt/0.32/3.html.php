@@ -2,6 +2,7 @@
 <div id="title">
     <h2 id="sdc">Week 3 hasn't started yet</h2>
 </div>
+<p>Gods: Ashenzari, Dithmenos, or Lugonu.</p>
 <p>The 2 bonuses will be:</p>
 <p> - "Collect a rune before entering Shoals, Snake, Spider, or Swamp"; and </p>
 <p> - "Collect at least 5 runes before entering the Depths."</p>
