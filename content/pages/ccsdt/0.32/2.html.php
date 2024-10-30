@@ -2,6 +2,7 @@
 <div id="title">
     <h2 id="sdc">Week 2 hasn't started yet</h2>
 </div>
+<p>Gods: Qazlal, Vehumet, or The Shining One.</p>
 <p>The 2 bonuses will be:</p>
 <p> - "Reach the end of Lair at XL &leq; 12."; and </p>
 <p> - "Collect the golden rune."</p>
