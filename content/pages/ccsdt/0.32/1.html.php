@@ -2,6 +2,7 @@
 <div id="title">
     <h2 id="sdc">Week 1 hasn't started yet.</h2>
 </div>
+<p>Gods: Gozag, Cheibriados, or Uskayaw.</p>
 <p>The 2 bonuses will be:</p>
 <p> - "Reach the end of Elf before entering a rune branch (excluding getting banished to the Abyss)"; and </p>
 <p> - "Kill or slimify Geryon before entering a rune branch (excluding the Abyss)."</p>
