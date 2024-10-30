@@ -2,6 +2,7 @@
 <div id="title">
     <h2 id="sdc">Week 5 hasn't started yet</h2>
 </div>
+<p>Gods: Jiyva, Nemelex Xobeh, or Makhleb.</p>
 <p>The 2 bonuses will be:</p>
 <p> - "Enter a rune branch with all base skills < 11"; and </p>
 <p> - "Collect a rune in less than 15,000 turns."</p>
