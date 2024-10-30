@@ -2,6 +2,7 @@
 <div id="title">
     <h2 id="sdc">Week 4 hasn't started yet</h2>
 </div>
+<p>Gods: Dithmenos, Kikubaaqudgha, or Yredelemnul.</p>
 <p>The 2 bonuses will be:</p>
 <p> - "Collect a rune before entering Lair"; and </p>
 <p> - "Collect two runes without dying twice."</p>
