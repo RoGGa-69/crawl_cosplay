@@ -22,10 +22,9 @@
 
 <h2>Signing Up</h2> 
 <p>In order to sign up, set the first line of your 0.32 rcfile to</p> <pre id="rc"># ccsdt</pre><p>
-  on <a href="https://crawl.develz.org/play.htm">any of the official online servers</a>*
+  on <a href="https://crawl.develz.org/play.htm">any of the official online servers</a>
 before the end of the first week. Your name will appear in the standings once 
 you've done this correctly and started at least one 0.32 game (though it may take about 10 minutes before it does).</p>
-<br>* Due to duplicate data for LLD's v0.32, players need to play on a different server.
 
 <h2>Standings</h2>
 <p>for: <a href="0.32/standings.html">v0.32</a></p>
