@@ -56,7 +56,7 @@ week)</th><th></th></tr>
 <tr class="head" id="onetime"><th>One-time points (earned once during the
 tournament)</th><th></th></tr>
 <tr><td class="name">Win a game with 15 runes:</td><td class="pt">3</td></tr>
-<tr><td class="name">Win a game in under 50,000 turns:</td><td class="pt">3</td></tr>
+<tr><td class="name">Win a game in under 40,000 turns:</td><td class="pt">3</td></tr>
 <tr><td class="name">Clear a Ziggurat:</td><td class="pt">3</td></tr>
 <tr><td class="name">Enter Zot at XL 20 or lower:</td><td class="pt">6</td></tr>
 <tr><td class="name">Win a game without entering lair:</td><td class="pt">6</td></tr>
