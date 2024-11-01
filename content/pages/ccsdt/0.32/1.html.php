@@ -36,6 +36,8 @@
 <tr class="dead"><td class="name"><a href="https://archive.nemelex.cards/morgue//cnlflgl/morgue-cnlflgl-20241101-054527.txt">cnlflgl</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://archive.nemelex.cards/morgue//hyoungjinc/morgue-hyoungjinc-20241101-033035.txt">hyoungjinc</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://cbro.berotato.org/morgue//Naiya55/morgue-Naiya55-20241101-023300.txt">Naiya55</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">Flugkiller</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">PigKeeper</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TCC</td>
@@ -59,7 +61,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mauveavengr</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">0hmetheus</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">dannycarnage</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">PigKeeper</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Sapher</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">goupaloupa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">1Anon</td>
@@ -81,4 +82,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">9to</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">cheesecat</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-01 10:11 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-01 10:21 UTC</span></div>
