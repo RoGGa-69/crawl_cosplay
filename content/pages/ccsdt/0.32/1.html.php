@@ -18,7 +18,7 @@
     <th>Bonus 1</th>
     <th>Bonus 2</th>
     <th>Total</th>
-    </tr><tr class="alive"><td class="name">browni3141</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">1</td><td class="pt">1</td><td class="total">8</td></tr>
+    </tr><tr class="alive"><td class="name">browni3141</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">0</td><td class="pt">1</td><td class="pt">1</td><td class="total">9</td></tr>
 <tr class="alive"><td class="name">grumposus</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">1</td><td class="pt">1</td><td class="total">7</td></tr>
 <tr class="dead"><td class="name"><a href="https://archive.nemelex.cards/morgue//tlatlagkaus/morgue-tlatlagkaus-20241101-035129.txt">tlatlagkaus</a></td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">1</td><td class="pt">0</td><td class="total">5</td></tr>
 <tr class="dead"><td class="name"><a href="https://crawl.dcss.io/crawl/morgue//DocSulfur/morgue-DocSulfur-20241101-024622.txt">DocSulfur</a></td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">4</td></tr>
@@ -59,6 +59,7 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">0hmetheus</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">dannycarnage</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">PigKeeper</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Sapher</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">goupaloupa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">1Anon</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Moanerette</td>
@@ -78,4 +79,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">9to</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">cheesecat</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-01 04:56 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-01 05:06 UTC</span></div>
