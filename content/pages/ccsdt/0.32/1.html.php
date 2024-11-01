@@ -18,12 +18,17 @@
     <th>Bonus 1</th>
     <th>Bonus 2</th>
     <th>Total</th>
-    </tr><tr class="none"><td class="name">cfcfcfcfcf</td>
+    </tr><tr class="dead"><td class="name"><a href="http://underhound.eu/crawl/morgue/HourglassMan/morgue-HourglassMan-20241101-000811.txt">HourglassMan</a></td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
+<tr class="alive"><td class="name">RoGGa</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
+<tr class="alive"><td class="name">DocSulfur</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
+<tr class="alive"><td class="name">grumposus</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">Nonny</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">tengutamer</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TCC</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Colgate</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">grothendieck</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">HourglassMan</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">RepoMan</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Jannitor</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia2</td>
@@ -35,15 +40,12 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">snackwell</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Patrick2011b</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TheMeInTeam</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Nonny</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">particleface</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">MysticSailboat</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Dumalacath</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">shadowrider38</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Datul</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Naiya55</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">grumposus</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">RoGGa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mauveavengr</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">PieDemon</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">0hmetheus</td>
@@ -52,7 +54,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">PigKeeper</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">goupaloupa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">1Anon</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">DocSulfur</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Moanerette</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">person50605</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Blyxx</td>
@@ -70,4 +71,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Broken26</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">9to</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-01 00:06 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-01 00:16 UTC</span></div>
