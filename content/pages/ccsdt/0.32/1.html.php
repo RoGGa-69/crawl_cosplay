@@ -69,6 +69,7 @@
 <tr class="dead"><td class="name"><a href="https://crawl.project357.org/morgue/Caterwaul/morgue-Caterwaul-20241102-030109.txt">Caterwaul</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://archive.nemelex.cards/morgue//hyoungjinc/morgue-hyoungjinc-20241101-033035.txt">hyoungjinc</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://cbro.berotato.org/morgue//Naiya55/morgue-Naiya55-20241101-023300.txt">Naiya55</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">Abbadon</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Colgate</td>
@@ -94,10 +95,9 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Draconianmaid</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">senlim</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Ubbricas</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Abbadon</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">brinewave</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">ElricMelnibone</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mcursa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">9to</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-02 06:46 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-02 06:56 UTC</span></div>
