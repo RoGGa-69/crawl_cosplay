@@ -21,11 +21,9 @@ for scoring. This is the only allowed attempt, subject to rule 3 below.</li>
 XL < 5 (i.e., no redo once you reach XL 5). The redo game must be started after
 the end of the first game (no startscumming!).  The highest score of the
 two games is counted towards your score.</li>
-<li>Each challenge includes a list of gods. A bonus point can be earned upon
+<li>Each challenge includes a list of 3 gods. A bonus point can be earned upon
 reaching ****** piety (or on worship with Gozag or Xom) with one of the listed
-gods. The point is lost if you ever abandon your god or are excommunicated. If
-the combo for the week is a zealot background, god points are only for sticking
-with the starting god. If the combo for the week is a demigod, the god point is automatically awarded.</li>
+gods. The point is lost if you ever abandon your god or are excommunicated or worship another god first instead of the 3 choiced gods.</li>
 <li>The tournament consists of 5 challenges total (i.e., 5 different combos). Each
 race and background is selected at most once during the competition.</li>
 <li>The final rankings will be tallied at the end of week 5 and represent the
