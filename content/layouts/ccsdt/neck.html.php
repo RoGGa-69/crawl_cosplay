@@ -12,6 +12,9 @@
 			<a href="/cctt/about_cctt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCTT</a>
 			<a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament (CCSDT) - starting Nov. 1st!</a>
 			<a href="/ccsdt/about_ccsdt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCSDT</a>
+			<a href="/ccsdt/0.32/standings"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Standings/Scoreboard</a>
+			<a href="/ccsdt/0.32/1"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Week 1</a>
+			<a href="/ccsdt/0.32/2"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Week 2</a>
 		</div>
 	</div>
 
