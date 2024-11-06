@@ -143,6 +143,7 @@
 <tr class="alive"><td class="name">shoop</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
+                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">ereinion</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia2</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">petercordia3</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">prawnwizard</td>
@@ -161,4 +162,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Taxman1966</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">MattyPfft</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-06 16:46 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu">Week 1 - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 10 mins. Last Update: </span>2024-11-06 16:57 UTC</span></div>
