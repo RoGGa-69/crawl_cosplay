@@ -46,6 +46,8 @@
 <tr class="dead"><td class="name"><a href="http://crawl.xtahua.com/crawl/morgue/flestrin/morgue-flestrin-20241108-012704.txt">flestrin</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="alive"><td class="name">EugeneJudo</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="alive"><td class="name">GnollFielding</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">Neopolis</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">Coo1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TCC</td>
@@ -102,7 +104,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Huckle</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">eadaral</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">cpf86</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Coo1</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Pinetree</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">qwertydvorak</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">ww7</td>
@@ -133,7 +134,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">0xDEADFACE</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">angelslayer</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">GeeHouse</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Neopolis</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TheBenjamin</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">cnedc</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Broken26</td>
@@ -169,4 +169,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mao</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Freemason</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-11-08 12:45 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-11-08 12:50 UTC</span></div>
