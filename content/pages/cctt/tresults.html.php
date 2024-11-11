@@ -23,8 +23,8 @@ use app\models\{Challenge, Submission, Player};
 	<tr>
 		<td>Week <?=$e($cha->week)?>.</td>
 		<td><?php if ($cha->icon):?>
-			<a href="/tournament/tchallengedetails?id=<?=$e($cha->id)?>"><img src="<?=$e($cha->icon)?>" style="height: 1em" /></a><?php endif; ?> 
-			<b><a href="/tournament/tchallengedetails?id=<?=$e($cha->id)?>"><?=$e($cha->name)?></a></b>
+			<a href="/cctt/tchallengedetails?id=<?=$e($cha->id)?>"><img src="<?=$e($cha->icon)?>" style="height: 1em" /></a><?php endif; ?> 
+			<b><a href="/cctt/tchallengedetails?id=<?=$e($cha->id)?>"><?=$e($cha->name)?></a></b>
 		</td>
 		<td><span style="font-size: smaller"><?=$e($cha->shortform())?></span></td>
 	</tr>	
@@ -51,7 +51,7 @@ use app\models\{Challenge, Submission, Player};
 				}
 
 				echo '<th>' . $e($c->week) . '. ';
-				if ($cha->icon) echo '<a href="/tournament/tchallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 1.5em" /></a>';
+				if ($cha->icon) echo '<a href="/cctt/tchallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 1.5em" /></a>';
 				echo "</th>";
 			}
 			?>
