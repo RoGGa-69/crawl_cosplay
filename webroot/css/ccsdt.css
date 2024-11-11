@@ -1,3 +1,11 @@
+td.ptwon {
+  color: #363;
+}
+
+td.ptdead {
+  color: #711;
+}
+
 input[type="text"] {
     width: 70%;
 }
