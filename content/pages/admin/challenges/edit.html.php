@@ -100,7 +100,7 @@ if ($data = $this->request->getPostData()) {
 		<br />
 		<br />
 		<label>
-			<span>Reddit thread</span><br />
+			<span>Reddit thread</span> (for the CCA challenges,this field is used for particleface's tutorial videos)<br />
 			<input type="text" name="reddit" value="<?=$cha->reddit?>" />
 		</label>
 		<br />
