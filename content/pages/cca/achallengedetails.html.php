@@ -30,9 +30,8 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <p style="font-style: italic; color: #777;"><?=$e($cha->description)?></p>
 <p>
 	<a href="/cca/submit_cca?id=<?=$cha->id?>">Submit a CCA run</a> 
-	<?php if ($cha->wiki): ?> |
-	<a href="<?=$e($cha->wiki)?>">Wiki page</a><?php endif; ?>
-	| <a href="<?=$e($cha->reddit)?>">See ParticleFace's tutorial video for this challenge</a>
+	<?php if ($cha->wiki): ?>	| <a href="<?=$e($cha->wiki)?>">Wiki page</a><?php endif; ?>
+	<?php if ($cha->reddit): ?>	| <a href="<?=$e($cha->reddit)?>">See ParticleFace's tutorial video for this challenge</a><?php endif; ?>
 </p>
 
 <?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
