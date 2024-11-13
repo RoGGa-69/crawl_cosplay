@@ -103,6 +103,7 @@
 <tr class="dead"><td class="name"><a href="http://crawl.akrasiac.org/rawdata/piedemon/morgue-piedemon-20241108-004351.txt">PieDemon</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://crawl.project357.org/morgue/Ubbricas/morgue-Ubbricas-20241112-060029.txt">Ubbricas</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="http://crawl.xtahua.com/crawl/morgue/flestrin/morgue-flestrin-20241108-012704.txt">flestrin</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">goupaloupa</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">P0WERM0DE</td>
@@ -118,7 +119,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mauveavengr</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">0hmetheus</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">ventricule</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">goupaloupa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">1Anon</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">person50605</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">wholewheatrotini</td>
@@ -169,4 +169,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mao</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Freemason</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-11-13 10:40 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu">Week 2 - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-11-13 10:45 UTC</span></div>
