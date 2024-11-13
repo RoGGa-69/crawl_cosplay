@@ -50,7 +50,7 @@ haven't won at least a couple of games.</p>
 After you complete a good game (with either a <abbr title="aka Yet Another Victory Post (YAVP)">win</abbr> or <abbr title="Yet Another Sad Death">YASD</abbr>), just <b>submit your morgue</b> on the Unique's challenge details webpage. To track your progress, click on your name on that last page mentioned.
 <br />
 <p>Feel free to submit a morgue as soon as you've improved your score. Your best 2 runs for a specific challenge will be kept in the website's database.</p>
-<p>These challenges are built around a best-practice approach. If you broke some conduct or bonus because it was "better" to do so, explain why you did so when you submit your morgue.</p>
+<p>These challenges are built around a best-practice approach. If you broke some conduct or bonus because it was "better" to do so, explain why you did when you submit your morgue.</p>
 <h2>Q&A</h2>
 <h3>Why aren't easy combos like Minotaur Fighter (MiFi) or Minotaur Beserker (MiBe) not one of the 12 CCA challenges?</h3>
 <p>Simple, you won't find some of the easiest combos such as MiFi and GrEE because there are not any DCSS Uniques that fill those combos.</p><br>
