@@ -27,7 +27,7 @@ href="rules.html">rules page</a>.</li>
 
 <h2>Schedule</h2>
 
-<ul id="schedule"><li><span class="label"><a href="1.html">Week 1 &mdash; HuGl</a>:</span> 2024-11-01 to 2024-11-08<li><span class="label"><a href="2.html">Week 2 &mdash; TeAE</a>:</span> 2024-11-08 to 2024-11-15<li><span class="label"><a href="3.html">Week 3 &mdash; SpEn</a>:</span> 2024-11-15 to 2024-10-22<li><span class="label">Week 4:</span> 2024-11-22 to 2024-11-29<li><span class="label">Week 5:</span> 2024-11-29 to 2024-12-06</ul>
+<ul id="schedule"><li><span class="label"><a href="1.html">Week 1 &mdash; HuGl</a>:</span> 2024-11-01 to 2024-11-08<li><span class="label"><a href="2.html">Week 2 &mdash; TeAE</a>:</span> 2024-11-08 to 2024-11-15<li><span class="label"><a href="3.html">Week 3 &mdash; SpEn</a>:</span> 2024-11-15 to 2024-11-22<li><span class="label">Week 4:</span> 2024-11-22 to 2024-11-29<li><span class="label">Week 5:</span> 2024-11-29 to 2024-12-06</ul>
 
 <h2>Sign Up</h2> <p>Sign ups are now closed. See you in 0.33.</p>
 
