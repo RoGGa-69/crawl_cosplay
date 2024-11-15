@@ -28,6 +28,7 @@
 <tr class="alive"><td class="name">tengutamer</td><td class="pt">0</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
 <tr class="dead"><td class="name"><a href="https://cbro.berotato.org/morgue//Naiya55/morgue-Naiya55-20241115-011902.txt">Naiya55</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="alive"><td class="name">community</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">smoky173</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">Axelsxxd</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
@@ -97,7 +98,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Fougere</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Hans</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">pedritolo</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">smoky173</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">lontrex</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TeamPepega</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">chlorine</td>
@@ -164,4 +164,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">UltimateCarl</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mrfahrenheit7</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-11-15 03:10 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu">Week 3 - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-11-15 03:15 UTC</span></div>
