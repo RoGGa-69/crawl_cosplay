@@ -1,9 +1,11 @@
 td.ptwon {
-  color: #363;
+  color: green;
+  font-weight: bold;
 }
 
 td.ptdead {
-  color: #711;
+  color: orange;
+  font-weight: bold;
 }
 
 input[type="text"] {
