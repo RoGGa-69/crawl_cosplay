@@ -100,7 +100,7 @@ require you to win to earn the point(s).</p>
 
 <p>Original <a href="https://csclub.uwaterloo.ca/~ebering/crawl/csdc/0.24/standings.html">CSDC</a> rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> 
 and <a href="http://crawl.akrasiac.org/scoring/players/ebering.html">ebering</a>.
-<br>Thank you scrubdaddy for python assistance. 
+<br>Thank you ScrubDaddy & grumposus for python assistance and PRs. 
 <br>I am your host, RoGGa.
 
    <div id="bottomtext">
