@@ -1,11 +1,13 @@
 td.ptwon {
   color: green;
   font-weight: bold;
+  text-align: center;
 }
 
 td.ptdead {
   color: red;
   font-weight: bold;
+  text-align: center;
 }
 
 input[type="text"] {
