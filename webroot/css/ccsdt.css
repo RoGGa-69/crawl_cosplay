@@ -10,6 +10,11 @@ td.ptdead {
   text-align: center;
 }
 
+td.ptalive {
+  font-weight: bold;
+  text-align: center;
+}
+
 input[type="text"] {
     width: 70%;
 }
