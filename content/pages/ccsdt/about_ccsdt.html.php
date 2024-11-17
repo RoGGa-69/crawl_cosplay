@@ -66,6 +66,36 @@ Bonus 2 implies that you have earned a Bonus 1; these points can be
 awarded separately. Unless specified, a bonus or one time point does not
 require you to win to earn the point(s).</p>
 
+<h2>List of possible Bonuses</h2>
+
+<h3>Bonus 1 list</h3>
+<ul>
+   <li>Enter a rune branch with all base skills < 11.</li>
+   <li>Enter Slime as your second multi-level branch (don't get banished).</li>
+   <li>Enter the Temple in less than 4,000 turns.</li>
+   <li>Reach the end of Lair at XL &leq; 12.</li>
+   <li>Reach the end of Elf before entering a rune branch (excluding getting banished to the Abyss).</li>
+   <li>Reach the end of the Depths before entering a rune branch (excluding getting banished to the Abyss).</li>
+   <li>Collect a rune before entering Shoals, Snake, Spider, or Swamp.</li>
+   <li>Collect a rune before entering Lair.</li>
+   <li>Collect a rune without dying (felids).</li>
+   <li>Kill a unique in bat form (vampires).</li>
+</ul>
+
+<h3>Bonus 2 list</h3>
+<ul>
+   <li>Collect a rune with all base skills < 11.</li>
+   <li>Get the slimy rune without entering any multi-level branch other than Lair, Slime, and Dungeon (don't get banished).</li>
+   <li>Collect a rune in less than 15,000 turns.</li>
+   <li>Reach the end of the Vaults at XL &leq; 18.</li>
+   <li>Kill or slimify Geryon before entering a rune branch (excluding the Abyss).</li>
+   <li>Get a rune from Hell or Pan before entering any other rune branch (excluding the Abyss).</li>
+   <li>Get a rune from Hell before entering any other rune branch (excluding the Abyss).</li>
+   <li>Collect at least 5 runes before entering the Depths.</li>
+   <li>Collect two runes without dying twice (felids).</li>
+   <li>Kill a Hell or Pan Lord unique in bat form (vampires).</li>
+</ul>
+   
 <h2>Credits</h2>
 
 <p>Original <a href="https://csclub.uwaterloo.ca/~ebering/crawl/csdc/0.24/standings.html">CSDC</a> rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> 
