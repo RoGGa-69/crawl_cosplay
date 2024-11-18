@@ -117,7 +117,22 @@ require you to win to earn the point(s).</p>
 </ul>
 
 <h3>List of CCC Bonuses to be programmed</h3>
-      tbd
+<ul>
+   <li> 1.1 Joseph:          Win the game with at least $10000 in gold.</li>
+   <li> 4.2 Bai Suzhen:      Reach skill level 27 in invocations, before you reach XL27.</li>
+   <li> 4.5 Frederick:       Get at least one Hell rune, and one Pan rune other than the demonic rune.</li>
+   <li> 5.4 The Moon Troll:  Win the game without entering the Vaults.</li>
+   <li> 9.3 Nergalle:        Enter the Orcish Mines before reaching XL10.</li>
+   <li>10.1 Maurice:         Get the Abyssal rune during the orb run.</li>
+   <li>10.2 Vashnia:         Don't enter any of Swamp, Shoals, Snake Pit, or Spider Nest, until you have the Silver rune (the Vaults)</li>
+   <li>11.1 Cerebov:         Kill Cerebov in Pandemonium.</li>
+   <li>15.1 Pikel:           Win the game with at least 7 runes.</li>
+   <li>15.5 Tiamat:          Reach XL7 on D:7.</li>
+   <li>16.1 Nessos:          Kill the Serpent of Hell.</li>
+   <li>17.1 The Enchantress: Win before you reach XL25.</li>
+   <li>32.5 Xak:             Get 3 gems other than the dungeon one. The gems do not need to stay intact.</li>
+</ul>
+
       
 <h2>Credits</h2>
 
