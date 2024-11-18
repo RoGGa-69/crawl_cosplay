@@ -96,6 +96,29 @@ require you to win to earn the point(s).</p>
    <li>Kill a Hell or Pan Lord unique in bat form (vampires).</li>
 </ul>
    
+<h3>List of new-version tournament banners to be programmed</h3>
+<ul>
+   <li>Tier 3: Enter Tomb for the first time after picking up the Orb of Zot, and then get the golden rune.</li>
+   <li>Tier 3: Find the iron rune before entering Pandemonium or any branch of the dungeon containing any other rune. This means that only Temple, Lair, Orc, Elf, Depths, Abyss, Hell, and Dis can be entered.</li>
+   <li>Tier 2: Reach the last level of the Depths without having entered the Lair.</li>
+   <li>Tier 3: Win a game without having entered the Lair, the Orcish Mines, or the Vaults.</li>
+   <li>Tier 2: Achieve a score of >9,000,000.</li>
+   <li>Tier 2: Reach the last level of the Lair of Beasts without using any potions or scrolls.</li>
+   <li>Tier 2: Win without raising any skill to 20.</li>
+   <li>Tier 3: Win without raising any skill to 13.</li>
+   <li>Tier 2: Win with 3 gems intact.</li>
+   <li>Tier 3: Win with all 11 gems intact.</li>
+   <li>Tier 2: Find a rune before reaching experience level 17.</li>
+   <li>Tier 2: Enter the third floor of the Elven Halls in under 12,000 turns.</li>
+   <li>Tier 3: Enter the final floor of Gehenna in under 27,000 turns.</li>
+   <li>Tier 2: Reach the 10th floor of a Ziggurat.</li>
+   <li>Tier 2: Kill at least one unique pan lord and at least one unique hell lord over the course of the tournament.</li>
+   <li>Tier 3: Kill all four unique pan lords, all four unique hell lords, and the Serpent of Hell (at least once) over the course of the tournament.</li>
+</ul>
+
+<h3>List of CCC Bonuses to be programmed</h3>
+      tbd
+      
 <h2>Credits</h2>
 
 <p>Original <a href="https://csclub.uwaterloo.ca/~ebering/crawl/csdc/0.24/standings.html">CSDC</a> rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> 
