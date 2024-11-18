@@ -99,7 +99,7 @@ require you to win to earn the point(s).</p>
 <h3>List of new-version tournament banners to be programmed</h3>
 <ul>
    <li>Tier 3: Enter Tomb for the first time after picking up the Orb of Zot, and then get the golden rune.</li>
-   <li>Tier 3: Find the iron rune before entering Pandemonium or any branch of the dungeon containing any other rune. This means that only Temple, Lair, Orc, Elf, Depths, Abyss, Hell, and Dis can be entered.</li>
+   <li>Tier 3: Find the iron rune in Dis before entering Pandemonium or any branch of the dungeon containing any other rune.</li>
    <li>Tier 2: Reach the last level of the Depths without having entered the Lair.</li>
    <li>Tier 3: Win a game without having entered the Lair, the Orcish Mines, or the Vaults.</li>
    <li>Tier 2: Achieve a score of >9,000,000.</li>
