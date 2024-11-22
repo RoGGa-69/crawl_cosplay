@@ -18,9 +18,10 @@
     <th>Bonus 1</th>
     <th>Bonus 2</th>
     <th>Total</th>
-    </tr><tr class="alive"><td class="name">Nonny</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+    </tr><tr class="alive"><td class="name">Pedant</td><td class="pt">1</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">1</td></tr>
+<tr class="alive"><td class="name">Nonny</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="alive"><td class="name">RoGGa</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
-<tr class="alive"><td class="name">Pedant</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">Patrick2011b</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">Axelsxxd</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">cfcfcfcfcf</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
@@ -55,7 +56,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">anonymouscript</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">agentchuck</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">snackwell</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Patrick2011b</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">TheMeInTeam</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">particleface</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">MysticSailboat</td>
@@ -164,4 +164,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">UltimateCarl</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mrfahrenheit7</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-11-22 00:10 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu">Week 4 - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-11-22 00:15 UTC</span></div>
