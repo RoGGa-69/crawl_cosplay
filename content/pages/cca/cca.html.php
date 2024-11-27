@@ -9,6 +9,7 @@ use app\models\{Challenge, Submission, Player};
 <h2 style="color:rgb(69, 136, 5);">Welcome green Crawler!</h2>
 <h3>Ready?</h3>
 <p>Want to know more before jumping in? Read the <a href="/cca/about_cca">About CCA</a> webpage.</p>
+<p>Want to see a run in action? See: <a href="https://www.youtube.com/watch?v=2SpkjpAmloI&list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT">Particleface's CCA tutorial videos.</a></p>
 <h3>Set...</h3>
 <p>If you have never won a game, your first Academy goal is to play one of the <b>"Melee Brutes"</b> listed below since they are considered to be the
 <b><i>easier</i></b> combos of the easiest category.</p>
