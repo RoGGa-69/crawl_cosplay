@@ -27,7 +27,7 @@ href="rules.html">rules page</a>.</li>
 
 <h2>Schedule</h2>
 
-<ul id="schedule"><li><span class="label"><a href="1.html">Week 1 &mdash; HuGl</a>:</span> 2024-11-01 to 2024-11-08<li><span class="label"><a href="2.html">Week 2 &mdash; TeAE</a>:</span> 2024-11-08 to 2024-11-15<li><span class="label"><a href="3.html">Week 3 &mdash; SpEn</a>:</span> 2024-11-15 to 2024-11-22<li><span class="label"><a href="4.html">Week 4 &mdash; FeNe</a>:</span> 2024-11-22 to 2024-11-29<li><span class="label">Week 5:</span> 2024-11-29 to 2024-12-06</ul>
+<ul id="schedule"><li><span class="label"><a href="1.html">Week 1 &mdash; HuGl</a>:</span> 2024-11-01 to 2024-11-08<li><span class="label"><a href="2.html">Week 2 &mdash; TeAE</a>:</span> 2024-11-08 to 2024-11-15<li><span class="label"><a href="3.html">Week 3 &mdash; SpEn</a>:</span> 2024-11-15 to 2024-11-22<li><span class="label"><a href="4.html">Week 4 &mdash; FeNe</a>:</span> 2024-11-22 to 2024-11-29<li><span class="label"><a href="5.html">Week 5 &mdash; DsAl</a>:</span> 2024-11-29 to 2024-12-06</ul>
 
 <h2>Sign Up</h2> <p>Sign ups are now closed. See you in 0.33.</p>
 
@@ -36,4 +36,4 @@ href="rules.html">rules page</a>.</li>
 <p>Original CSDC rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> and 
 <a href="http://crawl.akrasiac.org/scoring/players/ebering.html">ebering</a>.
 Thank you to scrubbdaddy for python assistance. I am your host, RoGGa.</div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu"><a href="4.html">Week 4</a> - </span><span class="menu">Week 5 - </span>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu"><a href="4.html">Week 4</a> - </span><span class="menu"><a href="5.html">Week 5</a> - </span>
