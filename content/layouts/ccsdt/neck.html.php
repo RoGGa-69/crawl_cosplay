@@ -3,18 +3,15 @@
 		<button class="dropbtn">Menu</button>
 		<div class="dropdown-content" style="left:0;">
 			<a href="/">Crawl Cosplay Home</a>
-			<a href="/cca/cca">Crawl Cosplay Academy (CCA) - NEW!</a>
+			<a href="/cca/cca">Crawl Cosplay Academy (CCA)</a>
 			<a href="/cca/about_cca"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCA</a>
 			<a href="/ccc/ccc">Crawl Cosplay Challenge (CCC)</a>
 			<a href="/ccc/about_ccc"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCC</a>
 			<a href="/ccc/all_ccc_history"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; all CCC challenges</a>
 			<a href="/cctt/cctt">Crawl Cosplay Trunk Tournament (CCTT)</a>
 			<a href="/cctt/about_cctt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCTT</a>
-			<a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament (CCSDT) - starting Nov. 1st!</a>
+			<a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament (CCSDT)</a>
 			<a href="/ccsdt/about_ccsdt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCSDT</a>
-			<a href="/ccsdt/0.32/standings"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Standings/Scoreboard</a>
-			<a href="/ccsdt/0.32/1"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Week 1</a>
-			<a href="/ccsdt/0.32/2"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Week 2</a>
 		</div>
 	</div>
 
