@@ -25,16 +25,16 @@ use app\models\{Challenge, Submission, Player};
   <p> <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=930" title="Sonja, the Kobold Brigand (KoBr)"><img src="/img/uniques/Sonja.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=931" title="Vashnia, the Naga Hunter (NaHu)"><img src="/img/uniques/Vashnia.png" width="72" height="72"></a> </p>
-<h4><b>Hybrid: Melee with some Magic</b></h4>
-  <p>An assortment of less straightforward builds including shapeshifter and summoner/necromancer.</p>
-  <p> <a href="/cca/achallengedetails?id=932" title="Jeremiah, the Barachi Summoner (BaSu)"><img src="/img/uniques/Jeremiah.png" width="72" height="72"></a> 
-      <a href="/cca/achallengedetails?id=933" title="Bai Suzhen, the Draconian Shapeshifter (DrSh)"><img src="/img/uniques/Bai_Suzhen.png" width="72" height="72"></a> 
-      <a href="/cca/achallengedetails?id=934" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/uniques/Jory.png" width="72" height="72"></a></p>
 <h4><b>Mages: Mostly Magic</b></h4>
   <p>Focus primarily on the Intelligence attribute, prefer to wear light armor (robes in particular), and often but not always fight at long range. Skills to focus on are roughly two magic school(s), spellcasting, fighting, stealth, evocations, and invocations (if applicable).</p>
   <p> <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/Frederick.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=936" title="Aantaeus, the Oni Ice Elementalist (OnIE)"><img src="/img/uniques/Antaeus.png" width="60" height="72"></a> 
       <a href="/cca/achallengedetails?id=937" title="Roxanne, the Gargoyle Earth Elementalist (GrEE)"><img src="/img/uniques/Roxanne.png" width="72" height="72"></a></p>
+<h4><b>Miscelaneous</b></h4>
+  <p>An assortment of less straightforward builds including shapeshifter and summoner/necromancer.</p>
+  <p> <a href="/cca/achallengedetails?id=932" title="Jeremiah, the Barachi Summoner (BaSu)"><img src="/img/uniques/Jeremiah.png" width="72" height="72"></a> 
+      <a href="/cca/achallengedetails?id=933" title="Bai Suzhen, the Draconian Shapeshifter (DrSh)"><img src="/img/uniques/Bai_Suzhen.png" width="72" height="72"></a> 
+      <a href="/cca/achallengedetails?id=934" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/uniques/Jory.png" width="72" height="72"></a></p>
 <h3>GO!</h3>
 Play a game of your favourite DCSS Uniques and once you have completed one of your better games, <b>Submit your Morgue</b> on the challenge's detail page and a moderator will approve it.
 Your best 2 runs for each challenge will be kept in the website's database...so submit as often as you like.
