@@ -43,7 +43,7 @@ Your best 2 runs for each challenge will be kept in the website's database...so 
 <h3>Need more help?...or have some questions</h3>
 <p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Crawl Cosplay Discord server</a> in the <b>#academy_cca</b> text channel.
 <br>
-<h3>Crawl Cosplay Academy Scoreboard</h3>
+<h2>Crawl Cosplay Academy Scoreboard</h2>
 <br />
 <table class="bordered">
 	<tr>
