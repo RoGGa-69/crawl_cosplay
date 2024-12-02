@@ -15,7 +15,6 @@ use app\models\{Challenge, Submission, Player};
 <b><i>easier</i></b> combos of the easiest category.</p>
 <p>Just click on one of the Uniques for the challenge's details listing the suggested 3 conducts and 2 bonuses.</p>
 
-
 <h4><b>Melee Brutes</b></h4>
   <p>Focus primarily on the Strength attribute, prefer to wear heavy armor, and typically spend most of their time in melee combat. Skills to focus on are your primary weapon, fighting, armour, shields, throwing, evocations, and invocations (if applicable).</p>
   <p> <a href="/cca/achallengedetails?id=926" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/uniques/Snorg.png" width="48" height="48"></a> 
@@ -41,7 +40,7 @@ Play a game of your favourite DCSS Uniques and once you have completed one of yo
 Your best 2 runs for each challenge will be kept in the website's database...so submit as often as you like.
 <br>
 <h3>Need more help?...or have some questions</h3>
-<p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Crawl Cosplay Discord server</a> in the <b>#academy_cca</b> text channel.
+<p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Crawl Cosplay Discord server</a> in the <b>#academy_cca</b> text channel.</p>
 <br>
 <h2>Crawl Cosplay Academy Scoreboard</h2>
 <table class="bordered">
