@@ -10,7 +10,7 @@
 ?>
 Select your pleasure among the following options:
 
-<h3><a href="/cca/cca">Crawl Cosplay Academy</a> (CCA) ...NEW!</h3>
+<h3><a href="/cca/cca">Crawl Cosplay Academy</a> (CCA)</h3>
 <ul><li>For those new to DCSS or who haven't yet won a couple of times.</li>
     <li>Read <a href="/cca/about_cca">About CCA</a></li></ul>
 
@@ -19,12 +19,14 @@ Select your pleasure among the following options:
     <li>Read <a href="/ccc/about_ccc">About CCC</a>.</li>
     <li>See: <a href="/ccc/all_ccc_history">all CCC challenges</a></li></ul>
 
-<h3><a href="/cctt/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT): next one in early 2025.</h3>
+<h3><a href="/cctt/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
+    <li>Next CCTT likely in February 2025.</li>
     <li>Read <a href="/cctt/about_cctt">About CCTT</a>.</li></ul>
 
-<h3><a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT) ...starting Nov. 1st!</h3>
+<h3><a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT)</h3>
 <ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
+    <li>Next CCSDT for v0.33 in mid 2025.</li>
     <li>Read <a href="/ccsdt/about_ccsdt">About CCSDT</a>.</li></ul>
 
 <br>
