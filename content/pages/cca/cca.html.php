@@ -83,5 +83,16 @@ Your best 2 runs for each challenge will be kept in the website's database...so 
 			?>
 		</tr>
 	<?php endforeach; ?>
+	<tr>
+		<th>Player</th>
+		<th style="white-space:nowrap">Total <span class="star">&#9733;</span></th>
+		<?php
+			foreach ($challenges_in_set as $c) {
+				echo '<th title="'.$e($c->name).'">';
+				if ($c->icon) echo '<a href="/cca/achallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 2.5em" /></a>';
+				echo "</th>";
+			}
+		?>
+	</tr>
 </table>
 <br>
