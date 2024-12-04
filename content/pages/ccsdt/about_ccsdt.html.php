@@ -74,7 +74,7 @@ require you to win to earn the point(s).</p>
    <li>Enter Slime as your second multi-level branch (don't get banished).</li>
    <li>Enter the Temple in less than 4,000 turns.</li>
    <li>Reach the end of Lair at XL &leq; 12.</li>
-   <li>~~Reach the end of Elf before entering a rune branch (excluding getting banished to the Abyss).~~</li>
+   <li><s>Reach the end of Elf before entering a rune branch (excluding getting banished to the Abyss).</s></li>
    <li>Reach the end of the Depths before entering a rune branch (excluding getting banished to the Abyss).</li>
    <li>Collect a rune before entering Shoals, Snake, Spider, or Swamp.</li>
    <li>Collect a rune before entering Lair.</li>
@@ -88,7 +88,7 @@ require you to win to earn the point(s).</p>
    <li>Get the slimy rune without entering any multi-level branch other than Lair, Slime, and Dungeon (don't get banished).</li>
    <li>Collect a rune in less than 15,000 turns.</li>
    <li>Reach the end of the Vaults at XL &leq; 18.</li>
-   <li>~~Kill or slimify Geryon before entering a rune branch (excluding the Abyss).~~</li>
+   <li><s>Kill or slimify Geryon before entering a rune branch (excluding the Abyss).</s></li>
    <li>Get a rune from Hell or Pan before entering any other rune branch (excluding the Abyss).</li>
    <li>Get a rune from Hell before entering any other rune branch (excluding the Abyss).</li>
    <li>Collect at least 5 runes before entering the Depths.</li>
