@@ -77,7 +77,7 @@ require you to win to earn the point(s).</p>
    <li><s>Reach the end of Elf before entering a rune branch (excluding getting banished to the Abyss).</s></li>
    <li>Reach the end of the Depths before entering a rune branch (excluding getting banished to the Abyss).</li>
    <li><s>Collect a rune before entering Shoals, Snake, Spider, or Swamp.</s></li>
-   <li><s>Collect a rune before entering Lair.<s></li>
+   <li><s>Collect a rune before entering Lair.</s></li>
    <li>Collect a rune without dying (felids).</li>
    <li>Kill a unique in bat form (vampires).</li>
 </ol>
