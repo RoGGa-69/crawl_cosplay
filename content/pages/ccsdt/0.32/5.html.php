@@ -83,6 +83,7 @@
 <tr class="dead"><td class="name"><a href="https://crawl.dcss.io/crawl/morgue//Scinternace/morgue-Scinternace-20241130-013626.txt">Scinternace</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="http://crawl.xtahua.com/crawl/morgue/jt/morgue-jt-20241129-214744.txt">jt</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="dead"><td class="name"><a href="https://crawl.project357.org/morgue/Abbadon/morgue-Abbadon-20241130-111545.txt">Abbadon</a></td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
+<tr class="alive"><td class="name">brinewave</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="pt">0</td><td class="total">0</td></tr>
 <tr class="none"><td class="name">Axelsxxd</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">rypofalem</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Salticid</td>
@@ -150,7 +151,6 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">thisguise</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Ubbricas</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">Caterwaul</td>
-                <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">brinewave</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">ElricMelnibone</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">mcursa</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">MattyPfft</td>
@@ -164,4 +164,4 @@
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">9to</td>
                 <td colspan="10"></td><td class="total">0</td></tr><tr class="none"><td class="name">UltimateCarl</td>
                 <td colspan="10"></td><td class="total">0</td></tr></table></div></div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu"><a href="4.html">Week 4</a> - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-12-05 06:35 UTC</span></div>
+    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu"><a href="4.html">Week 4</a> - </span><span class="menu">Week 5 - </span><span id="updated"><span class="label">Updates every 5 mins. Last Update: </span>2024-12-05 06:40 UTC</span></div>
