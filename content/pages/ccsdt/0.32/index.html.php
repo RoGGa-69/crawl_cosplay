@@ -1,39 +1,42 @@
-<title>Crawl Cosplay Sudden Death Tournament</title>
-    <?php $this->layout = 'ccsdt'; ?>
-    <div id="title">
-    <h2 id="sdc"><center>CCSDT for DCSS v0.32</center></h2>
-    <h2></h2></div><div id="content">
-    <pre id="cover">
-_You are suddenly pulled into a different region of the Abyss!
-_A floating eye, a glowing orange brain, 4 small abominations and 8 large abominations come into view.</pre>
-<p>The Crawl Cosplay Sudden Death Tournament (CCSTD) is a competition that aims to fill a
-Crawl niche not currently filled by the version release tournament and the other 3 Crawl Cosplay initiatives.
-The idea is for players to compete by trying to do as well as possible in a
-game of Crawl with one attempt only; if you die, that week's challenge is over (thus
-"sudden death". This competition is a lower time commitment event that aims to challenge players while
-simultaneously encouraging unusual characters and play styles that you might not normally consider.</p>
+<?php $this->layout = 'ccsdt'; ?>
+<h2 style="color:rgb(69, 136, 5);">Welcome to the <b>Crawl Cosplay Sudden Death Tournament</b> (CCSDT) for v0.32!</h2>
 
 <h2>Competition Format</h2>
-
 <ul>
-<li>Each challenge consists of playing a randomly chosen Crawl combo.</li>
-<li>You get <em>one</em> attempt to play each combo.</li>
-<li>The goal is to advance as far as possible (and win!) in each game, scoring
-points by reaching various in-game milestones.</li>
-<li>Only games played and milestones scored between 00:00 UTC on the start and end dates count.</li>
-<li>Details on rules and scoring are available on the <a
-href="rules.html">rules page</a>.</li>
+<li>Each week's challenge consists of playing a Crawl Unique's starting combo.</li>
+<li>You get <em>one</em> attempt to play each combo. One redo per week is allowed if your first game ended in a death before XL 5.</li>
+<li>The goal is to advance as far as possible (and win!) in each game, scoring points by reaching various in-game milestones and bonuses along with one-time tournament challenges.</li>
+<li>Only games played and milestones scored between 00:00 UTC on the start and end dates count. 
+    To find out what time this is for your timezone, see: <a href="https://dateful.com/eventlink/2857668408">dateful.com/eventlink</a>.</li>
 </ul>
 
 <h2>Schedule</h2>
 
-<ul id="schedule"><li><span class="label"><a href="1.html">Week 1 &mdash; HuGl</a>:</span> 2024-11-01 to 2024-11-08<li><span class="label"><a href="2.html">Week 2 &mdash; TeAE</a>:</span> 2024-11-08 to 2024-11-15<li><span class="label"><a href="3.html">Week 3 &mdash; SpEn</a>:</span> 2024-11-15 to 2024-11-22<li><span class="label"><a href="4.html">Week 4 &mdash; FeNe</a>:</span> 2024-11-22 to 2024-11-29<li><span class="label"><a href="5.html">Week 5 &mdash; DsAl</a>:</span> 2024-11-29 to 2024-12-06</ul>
+<ul id="schedule">
+  <li><span class="label"><a href="0.32/1.html">Week 1</a> :</span> from 0:00 UTC on <b>2024-11-01</b> to 0:00 UTC on <b>2024-11-08</b> &mdash; Frances, a Human Gladiator (HuGl)
+  <li><span class="label"><a href="0.32/2.html">Week 2</a> :</span> from 0:00 UTC on <b>2024-11-08</b> to 0:00 UTC on <b>2024-11-15</b> &mdash; Sojobo, a Tengu Air Elementalist (TeAE)
+  <li><span class="label"><a href="0.32/3.html">Week 3</a> :</span> from 0:00 UTC on <b>2024-11-15</b> to 0:00 UTC on <b>2024-11-22</b> &mdash; The Enchantress, a Spriggan	Enchanter (SpEn)
+  <li><span class="label"><a href="0.32/4.html">Week 4</a> :</span> from 0:00 UTC on <b>2024-11-22</b> to 0:00 UTC on <b>2024-11-29</b> &mdash; Natasha, a Felid Necromancer (FeNe)
+  <li><span class="label"><a href="0.32/5.html">Week 5</a> :</span> from 0:00 UTC on <b>2024-11-29</b> to 0:00 UTC on <b>2024-12-06</b> &mdash; Amaemon, a Demonspawn	Alchemist (DsAl)
+</ul>
 
-<h2>Sign Up</h2> <p>Sign ups are now closed. See you in 0.33.</p>
+<h2>Signing Up</h2> 
+<p>Sign up is closed.</p> 
 
-<h2>Credits</h2>
+<h2>Standings</h2>
+<p>for: <a href="0.32/standings.html">v0.32</a></p>
 
-<p>Original CSDC rules and organization by <a href="http://crawl.akrasiac.org/scoring/players/walkerboh.html">WalkerBoh</a> and 
-<a href="http://crawl.akrasiac.org/scoring/players/ebering.html">ebering</a>.
-Thank you to scrubbdaddy for python assistance. I am your host, RoGGa.</div>
-    <div id="bottomtext"><span class="menu"><a href="../ccsdt.html">Overview</a> - </span><span class="menu"><a href="../about_ccsdt.html">Details</a> - </span><span class="menu"><a href="standings.html">Standings</a></span><span class="menuspacer"></span><span class="menu"><a href="1.html">Week 1</a> - </span><span class="menu"><a href="2.html">Week 2</a> - </span><span class="menu"><a href="3.html">Week 3</a> - </span><span class="menu"><a href="4.html">Week 4</a> - </span><span class="menu"><a href="5.html">Week 5</a> - </span>
+<h2>Rules, Scoring and Credits</h2>
+See the <a href="about_ccsdt.html">CCSDT About page</a>.
+<br>
+   <div id="bottomtext">
+     <span class="menu"><a href="index.html">Overview</a> - </span>
+     <span class="menu"><a href="rules.html">Details</a> - </span>
+     <span class="menu"><a href="standings.html">Standings</a></span>
+     <span class="menuspacer"></span>
+     <span class="menu"><a href="1.html">Week 1</a> - </span>
+     <span class="menu"><a href="2.html">Week 2</a> - </span>
+     <span class="menu"><a href="3.html">Week 3</a> - </span>
+     <span class="menu"><a href="4.html">Week 4</a> - </span>
+     <span class="menu"><a href="5.html">Week 5</a></span>
+   </div>
