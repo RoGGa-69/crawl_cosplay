@@ -29,6 +29,7 @@
 See the <a href="rules.html">Details</a> page.
 <br>
    <div id="bottomtext">
+     <span class="menu">CCSDT #1 for v0.32</a> - </span>
      <span class="menu"><a href="index.html">Overview</a> - </span>
      <span class="menu"><a href="rules.html">Details</a> - </span>
      <span class="menu"><a href="standings.html">Standings</a></span>
