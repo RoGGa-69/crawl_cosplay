@@ -24,10 +24,10 @@
 <p>Sign up is closed.</p> 
 
 <h2>Standings</h2>
-<p>for: <a href="0.32/standings.html">v0.32</a></p>
+<p>for: <a href="standings.html">v0.32</a></p>
 
 <h2>Rules, Scoring and Credits</h2>
-See the <a href="about_ccsdt.html">CCSDT About page</a>.
+See the <a href="rules.html">Details</a> page.
 <br>
    <div id="bottomtext">
      <span class="menu"><a href="index.html">Overview</a> - </span>
