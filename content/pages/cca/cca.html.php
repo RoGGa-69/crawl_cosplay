@@ -17,9 +17,9 @@ use app\models\{Challenge, Submission, Player};
 
 <h4><b>Melee Brutes</b></h4>
   <p>Focus primarily on the Strength attribute, prefer to wear heavy armor, and typically spend most of their time in melee combat. Skills to focus on are your primary weapon, fighting, armour, shields, throwing, evocations, and invocations (if applicable).</p>
-  <p> <a href="/cca/achallengedetails?id=926" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/uniques/Snorg.png" width="72" height="72"></a> 
+  <p> <a href="/cca/achallengedetails?id=926" title="Snorg, the Troll Berserker (TrBe)"><img src="/img/uniques/Snorg.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=927" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/uniques/Asterion.png" width="72" height="72"></a> 
-      <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Gladiator (MDGl)"><img src="/img/uniques/Wiglaf.png" width="72" height="72"></a></p>
+      <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Reaver (MDRe)"><img src="/img/uniques/Wiglaf.png" width="72" height="72"></a></p>
 <h4><b>Ranged Weapons</b></h4>
   <p>Focus primarily on the Dexterity attribute, prefer to wear medium armor, and can fight up close or at range. Skills to focus on are your primary weapon, fighting, dodging, stealth, hexes, evocations, and invocations (if applicable).</p>
   <p> <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
