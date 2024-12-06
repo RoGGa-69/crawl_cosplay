@@ -1,5 +1,5 @@
 <?php $this->layout = 'ccsdt'; ?>
-<h2 style="color:rgb(69, 136, 5);">About Crawl Cosplay Sudden Death Tournament (CCSDT) #1 for DCSS v0.32</h2>
+<h2 style="color:rgb(69, 136, 5);">About Crawl Cosplay Sudden Death Tournament (CCSDT)</h2>
 
 <p>The Crawl Cosplay Sudden Death Tournament is a competition that aims to fill a
 Crawl niche not currently filled by the version release tournament or the other three Crawl Cosplays initiatives.
