@@ -6,6 +6,9 @@
     <li><a href="./0.32/index.html">CCSDT #1</a> for DCSS v0.32</li>
 </ul>
 
+<h2>Next Tournament</h2>
+<p>Expected in mid 2025.</p>
+
 <h2>General Rules, Scoring and Credits</h2>
 See the <a href="about_ccsdt.html">CCSDT About page</a>.
 <br>
