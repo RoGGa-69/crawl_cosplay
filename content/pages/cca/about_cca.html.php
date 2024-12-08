@@ -18,7 +18,7 @@ haven't won at least a couple of games.</p>
 <h3>Your Process</h3>
 <p>There are 4 playstyles with 3 uniques each:
   <b>Strength based</b>, <b>Dexterity based</b>, <b>Intelligence based</b>, and <b>Miscellaneous</b>. </p>
-  Hover over a Unique's graphic to see their descriptions, and then click on one of them to open the Unique's challenge's details page.
+  Hover over a Unique's graphic to see their descriptions, and then click on one of them to open the Unique's challenge details page.
 <table class="centerTable"><tr>
     <td><p><b>----------Strength Brutes-----------</b></p><p></p>
       <a href="/cca/achallengedetails?id=926" title="Snorg, the Troll Berserker (TrBe)"><img src="/img/uniques/Snorg.png" width="72" height="72"></a> 
