@@ -23,7 +23,7 @@ haven't won at least a couple of games.</p>
     <td><p><b>------------Melee Brutes------------</b></p><p></p>
       <a href="/cca/achallengedetails?id=926" title="Snorg, the Troll Berserker (TrBe)"><img src="/img/uniques/Snorg.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=927" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/uniques/Asterion.png" width="72" height="72"></a> 
-      <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Reaver (MDRe)"><img src="/img/uniques/Wiglaf.png" width="72" height="72"></a>
+      <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Gladiator (MDGl)"><img src="/img/uniques/Wiglaf.png" width="72" height="72"></a>
     </td>
     <td><p><b>-----------Ranged Weapons-----------</b></p><p></p>
       <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
