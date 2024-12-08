@@ -11,16 +11,16 @@ use app\models\{Challenge, Submission, Player};
 <p>Want to know more before jumping in? Read the <a href="/cca/about_cca">About CCA</a> webpage.</p>
 <p>Want to see a run in action? See: <a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">Particleface's CCA tutorial videos</a>.</p>
 <h3>Set...</h3>
-<p>If you have never won a game, your first Academy goal is to play one of the <b>"Melee Brutes"</b> listed below since they are considered to be the
+<p>If you have never won a game, your first Academy goal is to play one of the <b>"Strength Brutes"</b> listed below since they are considered to be the
 <b><i>easier</i></b> combos of the easiest category.</p>
 <p>Just click on one of the Uniques for the challenge's details listing the suggested 3 conducts and 2 bonuses.</p>
 
-<h4><b>Melee Brutes</b></h4>
+<h4><b>Strength Brutes</b></h4>
   <p>Focus primarily on the Strength attribute, prefer to wear heavy armor, and typically spend most of their time in melee combat. Skills to focus on are your primary weapon, fighting, armour, shields, throwing, evocations, and invocations (if applicable).</p>
   <p> <a href="/cca/achallengedetails?id=926" title="Snorg, the Troll Berserker (TrBe)"><img src="/img/uniques/Snorg.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=927" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/uniques/Asterion.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Gladiator (MDGl)"><img src="/img/uniques/Wiglaf.png" width="72" height="72"></a></p>
-<h4><b>Ranged Weapons</b></h4>
+<h4><b>Dexterity based</b></h4>
   <p>Focus primarily on the Dexterity attribute, prefer to wear medium armor, and can fight up close or at range. Skills to focus on are your primary weapon, fighting, dodging, stealth, hexes, evocations, and invocations (if applicable).</p>
   <p> <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=930" title="Sonja, the Kobold Brigand (KoBr)"><img src="/img/uniques/Sonja.png" width="72" height="72"></a>
@@ -30,8 +30,8 @@ use app\models\{Challenge, Submission, Player};
   <p> <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/Frederick.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=936" title="Aantaeus, the Oni Ice Elementalist (OnIE)"><img src="/img/uniques/Antaeus.png" width="60" height="72"></a> 
       <a href="/cca/achallengedetails?id=937" title="Roxanne, the Gargoyle Earth Elementalist (GrEE)"><img src="/img/uniques/Roxanne.png" width="72" height="72"></a></p>
-<h4><b>Miscelaneous</b></h4>
-  <p>An assortment of less straightforward builds including shapeshifter and summoner/necromancer.</p>
+<h4><b>Miscellaneous</b></h4>
+  <p>An assortment of less straightforward builds including Summoner, Shapeshifter, and Enchanter</p>
   <p> <a href="/cca/achallengedetails?id=932" title="Jeremiah, the Barachi Summoner (BaSu)"><img src="/img/uniques/Jeremiah.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=933" title="Bai Suzhen, the Draconian Shapeshifter (DrSh)"><img src="/img/uniques/Bai_Suzhen.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=934" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/uniques/Jory.png" width="72" height="72"></a></p>
