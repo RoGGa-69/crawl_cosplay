@@ -22,7 +22,7 @@ use app\models\{Challenge, Submission, Player};
       <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Gladiator (MDGl)"><img src="/img/uniques/Wiglaf.png" width="72" height="72"></a></p>
 <h4><b>Dexterity based</b></h4>
   <p>Focus primarily on the Dexterity attribute, prefer to wear medium armor, and can fight up close or at range. Skills to focus on are your primary weapon, fighting, dodging, stealth, hexes, evocations, and invocations (if applicable).</p>
-  <p> <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
+  <p> <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Monk (MfMo)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=930" title="Sonja, the Kobold Brigand (KoBr)"><img src="/img/uniques/Sonja.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=931" title="Vashnia, the Naga Hunter (NaHu)"><img src="/img/uniques/Vashnia.png" width="72" height="72"></a> </p>
 <h4><b>Mages: Mostly Magic</b></h4>
