@@ -17,28 +17,28 @@ haven't won at least a couple of games.</p>
 
 <h3>Your Process</h3>
 <p>There are 4 playstyles with 3 uniques each:
-  <b>Melee Weapons</b>, <b>Ranged Weapons</b>, <b>Hybrid</b>, and <b>Magic</b>. </p>
+  <b>Strength based</b>, <b>Dexterity based</b>, <b>Intelligence based</b>, and <b>Miscellaneous</b>. </p>
   Hover over a Unique's graphic to see their descriptions, and then click on one of them to open the Unique's challenge's details page.
 <table class="centerTable"><tr>
-    <td><p><b>------------Melee Brutes------------</b></p><p></p>
+    <td><p><b>----------Strength Brutes-----------</b></p><p></p>
       <a href="/cca/achallengedetails?id=926" title="Snorg, the Troll Berserker (TrBe)"><img src="/img/uniques/Snorg.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=927" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/uniques/Asterion.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Gladiator (MDGl)"><img src="/img/uniques/Wiglaf.png" width="72" height="72"></a>
     </td>
-    <td><p><b>-----------Ranged Weapons-----------</b></p><p></p>
+    <td><p><b>--------------Dexterity-------------</b></p><p></p>
       <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=930" title="Sonja, the Kobole Brigan (KoBr)"><img src="/img/uniques/Sonja.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=931" title="Vashnia, the Naga Hunter (NaHu)"><img src="/img/uniques/Vashnia.png" width="72" height="72"></a>
     </td>
-    <td><p><b>---------------<abbr title="Melee mostly with some Magic">Hybrid</abbr>---------------</b></p><p></p>
-      <a href="/cca/achallengedetails?id=932" title="Jeremiah, the Barachi Summoner (BaSu)"><img src="/img/uniques/Jeremiah.png" width="72" height="72"></a>
-      <a href="/cca/achallengedetails?id=933" title="Bai Suzhen, the Draconaian Shapeshifter (DrSh)"><img src="/img/uniques/Bai_Suzhen.png" width="72" height="72"></a>
-      <a href="/cca/achallengedetails?id=934" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/uniques/Jory.png" width="72" height="72"></a>
-    </td>
-    <td><p><b>----------Mostly Magic----------</b></p>
+    <td><p><b>------------Mostly Magic------------</b></p>
       <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/Frederick.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=936" title="Antaeus, the Oni Ice Elementalist (OnIE)"><img src="/img/uniques/Antaeus.png" width="48" height="72"></a> 
       <a href="/cca/achallengedetails?id=937" title="Roxanne, the Gargoyle Earth Elementalist (GrEE)"><img src="/img/uniques/Roxanne.png" width="72" height="72"></a>
+    </td>
+    <td><p><b>------------Miscellaneous-----------</b></p><p></p>
+      <a href="/cca/achallengedetails?id=932" title="Jeremiah, the Barachi Summoner (BaSu)"><img src="/img/uniques/Jeremiah.png" width="72" height="72"></a>
+      <a href="/cca/achallengedetails?id=933" title="Bai Suzhen, the Draconaian Shapeshifter (DrSh)"><img src="/img/uniques/Bai_Suzhen.png" width="72" height="72"></a>
+      <a href="/cca/achallengedetails?id=934" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/uniques/Jory.png" width="72" height="72"></a>
     </td>
 </table>
 <p>Each CCA challenge has 3 conducts and 2 bonuses. The 3 conducts are specific to getting you to the Lair and/or Orcish Mines entrance(s).</p>
