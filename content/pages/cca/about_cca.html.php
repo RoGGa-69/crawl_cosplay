@@ -26,7 +26,7 @@ haven't won at least a couple of games.</p>
       <a href="/cca/achallengedetails?id=928" title="Wiglaf, the Mountain Dwarf Gladiator (MDGl)"><img src="/img/uniques/Wiglaf.png" width="72" height="72"></a>
     </td>
     <td><p><b>--------------Dexterity-------------</b></p><p></p>
-      <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Gladiator (MfGl)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
+      <a href="/cca/achallengedetails?id=929" title="Donald, the Merfolk Monk (MfMo)"><img src="/img/uniques/Donald.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=930" title="Sonja, the Kobole Brigan (KoBr)"><img src="/img/uniques/Sonja.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=931" title="Vashnia, the Naga Hunter (NaHu)"><img src="/img/uniques/Vashnia.png" width="72" height="72"></a>
     </td>
