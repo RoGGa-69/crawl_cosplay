@@ -30,12 +30,13 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <p style="font-style: italic; color: #777;"><?=$e($cha->description)?></p>
 <p>
 	<?php if ($cha->active) : ?>
-	<a href="/ccc/submit_ccc">Submit a CCC run</a> 
+		<a href="/ccc/submit_ccc">Submit a CCC run</a> 
 	<?php else: ?>
-	<a href="/ccc/submit_ccc?id=<?=$cha->id?>">Submit a CCC run</a> 
+		<a href="/ccc/submit_ccc?id=<?=$cha->id?>">Submit a CCC run</a> 
 	<?php endif;?>
 	<?php if ($cha->wiki): ?> |
-	<a href="<?=$e($cha->wiki)?>">Wiki page</a><?php endif; ?>
+		<a href="<?=$e($cha->wiki)?>">Wiki page</a><?php endif; ?>
+	<?php if ($cha->reddit): ?>	| <a href="<?=$e($cha->reddit)?> " target="_blank">See a Dumalacath video for this challenge</a><?php endif; ?>
 </p>
 
 <?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
