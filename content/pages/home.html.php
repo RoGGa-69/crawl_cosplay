@@ -33,7 +33,7 @@ Select your pleasure among the following options:
 <h3>Want to chat?</h3>
 <p>Come chat with us on our 
     <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
-    with over 222 members!</p>
+    with over 300 members!</p>
 <br>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
