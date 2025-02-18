@@ -10,8 +10,8 @@ use app\models\{Challenge, Submission, Player};
 <h3>Ready?</h3>
 <p>Want to know more before jumping in? Read the <a href="/cca/about_cca">About CCA</a> webpage.</p>
 <p>Want to see a run in action? See: </p>
-	<p>- <a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">Particleface's CCA tutorial videos</a>.</p>
-	<p>- <a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">Dumacalth's CCA videos</a>.</p>
+	- <a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">Particleface's CCA tutorial videos</a>.</br>
+	- <a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">Dumacalath's CCA videos</a>.</br>
 <h3>Set...</h3>
 <p>If you have never won a game, your first Academy goal is to play one of the <b>"Strength Brutes"</b> listed below since they are considered to be the
 <b><i>easier</i></b> combos of the easiest category.</p>
