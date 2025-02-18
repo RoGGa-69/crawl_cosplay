@@ -31,7 +31,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <p>
 	<a href="/cca/submit_cca?id=<?=$cha->id?>">Submit a CCA run</a> 
 	<?php if ($cha->wiki): ?>	| <a href="<?=$e($cha->wiki)?>" target="_blank">Wiki page</a><?php endif; ?>
-	<?php if ($cha->reddit): ?>	| <a href="<?=$e($cha->reddit)?> " target="_blank">See ParticleFace's tutorial video for this challenge</a><?php endif; ?>
+	<?php if ($cha->reddit): ?>	| <?=$e($cha->reddit)?><?php endif; ?>
 </p>
 
 <?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
