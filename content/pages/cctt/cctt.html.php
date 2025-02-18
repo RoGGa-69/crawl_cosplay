@@ -15,7 +15,7 @@ if ($active) :
 	Crawl Cosplay Trunk Tournament (CCTT) for DCSS trunk v0.<?=$e($active->setnr)?>
 </h2>
 <h3>
-	Week <?=$e($active->week)?>: <a href="/tournament/tchallengedetails?id=<?=$e($active->id)?>"><?=$e($active->name)?></a>
+	Week <?=$e($active->week)?>: <a href="/cctt/tchallengedetails?id=<?=$e($active->id)?>"><?=$e($active->name)?></a>
 	<?php if ($active->icon): ?><img src="<?=$e($active->icon)?>" class="head-icon" height="30px" /> <?php endif; ?>
 </h3>
 <p style="font-style: italic; color: #777;"><?=$e($active->description)?></p>
@@ -68,7 +68,7 @@ if ($active) :
 				$made_seperator = true; // only make one seperator if multiple bonuses
 			}
 			echo '<th>' . $e($c->week) . '. ';
-			if ($cha->icon) echo '<a href="/tournament/tchallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 1.5em" /></a>';
+			if ($cha->icon) echo '<a href="/cctt/tchallengedetails?id='.$c->id.'"><img src="'.$e($c->icon).'" style="height: 1.5em" /></a>';
 			echo "</th>";
 		}
 		?>
