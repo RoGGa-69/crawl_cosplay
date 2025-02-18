@@ -31,7 +31,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <p> 	<a href="/cca/submit_cca?id=<?=$cha->id?>">Submit a CCA run</a> 
 	<?php if ($cha->wiki): ?>	| <a href="<?=$e($cha->wiki)?>" target="_blank">Wiki page</a><?php endif; ?>
 </p>
-	<?php if ($cha->reddit): ?>	<h3>View YouTube videos of this CCA challenge:</h3> <p><? echo ($cha->reddit) ?></p><?php endif; ?>
+	<?php if ($cha->reddit): ?>	<h3>View YouTube videos of this CCA challenge:</h3> <p><? echo =($cha->reddit) ?></p><?php endif; ?>
 
 <?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
 <h2>Challenge Details</h2>
@@ -46,7 +46,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 	<h3>Strategy</h3>
 	<div class="special_rule"><p><?=$em($cha->special_rule)?></p></div>
 <?php endif; ?>
-	
+
 <div class="score-sidebar">
 <h3>Submissions</h3>
 <br />
