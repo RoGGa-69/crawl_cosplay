@@ -31,7 +31,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <p style="font-style: italic; color: #777;"><?=$e($cha->description)?></p>
 <p>
 	<?php if ($cha->active) : ?>
-		<a href="/tournament/submit_cctt">Submit a CCTT run</a>
+		<a href="/cctt/submit_cctt">Submit a CCTT run</a>
 	<?php else: ?>
 		Submission Closed
 	<?php endif;?>
