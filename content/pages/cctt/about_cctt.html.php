@@ -39,10 +39,11 @@
     Submissions will be approved by a moderator, who will verify your morgue and your score, and create a username for your future submissions.</p>
 
 <h3>Restrictions for tournament play</h3>
-<p><b>- Submitted runs must be played in trunk on one of the <a href="https://crawl.develz.org/play.htm" target="_blank"> official online servers</a></b> except for the Tokyo server (LLC) which only has the latest stable release available.</p>
-<p><b>- Seeded games are NOT accepted.</b></p>
-<p>- You can make as many attempts as you want.</p>
-<p>- Morgues must be submitted while a challenge is active. No late submissions!</p>
+<ul><li><b>Submitted runs must be played in trunk on one of the <a href="https://crawl.develz.org/play.htm" target="_blank"> official online servers</a></b>
+            except for the Tokyo server (LLC) which only has the latest stable release available.</li>
+<li><b>Seeded games are NOT accepted.</b></li>
+<li>You can make as many attempts as you want.</li>
+<li>Morgues must be submitted while a challenge is active. No late submissions!</li></ul>
 
 <h3>Changing your player sprite to a Unique's doll.</h3>
 <p>If you'd like to change the player doll to the Unique's tile, add the following to your RC file:</p>
