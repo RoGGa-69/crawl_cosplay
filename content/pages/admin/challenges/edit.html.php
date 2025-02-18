@@ -100,11 +100,11 @@ if ($data = $this->request->getPostData()) {
 		<br />
 		<br />
 		<label>
-			<span>Multipurpose field orginally called: reddit</span> 
+			<span>Multipurpose field called: reddit</span> 
 			<br />- for the CCA challenges, this field is used for particleface's tutorial videos.
 			<br />- for the CCC challenges, this field is used for Dumalacath's videos.
 			<br />- for the CCTT challenges, this field is used to cross reference the Reddit's post announcing the challenge)<br />
-			<textarea name="reddit" cols="130" rows="3"><?=$cha->reddit?></textarea>
+			<textarea name="reddit" cols="130" rows="5"><?=$cha->reddit?></textarea>
 		</label>
 		<br />
 		<br />
