@@ -31,7 +31,7 @@ if ($data = $this->request->getPostData()) {
 <?php endif; ?>
 <form method="POST">
 	<label><span>Passphrase</span><br />
-		<input type="text" name="passphrase" placeholder="Do you remenber?" />
+		<input type="text" name="passphrase" placeholder="Do you remember?" autofocus />
 	</label>
 	<br />
 	<input type="submit" name="Submit" />
