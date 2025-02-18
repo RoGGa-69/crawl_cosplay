@@ -31,9 +31,10 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <p> 	<a href="/cca/submit_cca?id=<?=$cha->id?>">Submit a CCA run</a> 
 	<?php if ($cha->wiki): ?>	| <a href="<?=$e($cha->wiki)?>" target="_blank">Wiki page</a><?php endif; ?>
 </p>
-	<?php if ($cha->reddit): ?>	<p>View YouTube videos of this CCA challenge:</p> <p><?=$em($cha->reddit)?></p><?php endif; ?>
+	<?php if ($cha->reddit): ?>	<h3>View YouTube videos of this CCA challenge:</h3> <p><?=$em($cha->reddit)?></p><?php endif; ?>
 
 <?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
+<h2>Challenge Details</h2>
 <table class="table_for_layout">
 	<tr><th>Species</th><th>Background<th>Gods</th></tr>
 	<tr><td><?=$e($cha->species)?></td><td><?=$e($cha->background)?><td><?=$e($cha->gods)?></td></tr>
