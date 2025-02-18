@@ -100,7 +100,10 @@ if ($data = $this->request->getPostData()) {
 		<br />
 		<br />
 		<label>
-			<span>Reddit thread</span> (for the CCA challenges,this field is used for particleface's tutorial videos)<br />
+			<span>Reddit thread</span> 
+			<br />(for the CCA challenges, this field is used for particleface's tutorial videos)
+			<br />(for the CCC challenges, this field is used for Dumalacath's videos)
+			<br />(for the CCTT challenges, this field is used to cross reference the Reddit's post announcing the challenge)<br />
 			<input type="text" name="reddit" value="<?=$cha->reddit?>" />
 		</label>
 		<br />
