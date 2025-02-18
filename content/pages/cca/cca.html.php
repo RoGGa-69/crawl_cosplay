@@ -27,7 +27,7 @@ use app\models\{Challenge, Submission, Player};
       <a href="/cca/achallengedetails?id=931" title="Vashnia, the Naga Hunter (NaHu)"><img src="/img/uniques/Vashnia.png" width="72" height="72"></a> </p>
 <h4><b>Mages: Mostly Magic</b></h4>
   <p>Focus primarily on the Intelligence attribute, prefer to wear light armor (robes in particular), and often but not always fight at long range. Skills to focus on are roughly two magic school(s), spellcasting, fighting, stealth, evocations, and invocations (if applicable).</p>
-  <p> <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/unques/Frederick.png" width="72" height="72"></a>
+  <p> <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/uniques/Frederick.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=936" title="Aantaeus, the Oni Ice Elementalist (OnIE)"><img src="/img/uniques/Antaeus.png" width="60" height="72"></a> 
       <a href="/cca/achallengedetails?id=937" title="Roxanne, the Gargoyle Earth Elementalist (GrEE)"><img src="/img/uniques/Roxanne.png" width="72" height="72"></a></p>
 <h4><b>Miscellaneous</b></h4>
