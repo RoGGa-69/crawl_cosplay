@@ -34,10 +34,12 @@ $this->setData("meta", ['filename' => $cha->icon]);
 	<?php else: ?>
 		<a href="/ccc/submit_ccc?id=<?=$cha->id?>">Submit a CCC run</a> 
 	<?php endif;?>
-	<?php if ($cha->wiki): ?> |
-		<a href="<?=$e($cha->wiki)?>">Wiki page</a><?php endif; ?>
-	<?php if ($cha->reddit): ?>	| <a href="<?=$e($cha->reddit)?> " target="_blank">See a Dumalacath video for this challenge</a><?php endif; ?>
-</p>
+	<?php if ($cha->wiki): ?>
+		| <a href="<?=$e($cha->wiki)?>">Wiki page</a><?php endif; ?>
+	<?php if ($cha->reddit): ?>
+		<h3>View YouTube videos of this CCC by:</h3>
+		<p><?=$cha->reddit ?></p>
+	<?php endif; ?></p>
 
 <?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
 <table class="table_for_layout">
