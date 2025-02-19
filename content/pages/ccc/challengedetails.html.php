@@ -40,7 +40,8 @@ $this->setData("meta", ['filename' => $cha->icon]);
 		<h3>View YouTube videos of this CCC by:</h3>
 		<p><?=$cha->reddit ?></p>
 	<?php endif; ?></p>
-
+	
+<h2>Challenge Details</h2>
 <?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
 <table class="table_for_layout">
 	<tr><th>Species</th><th>Background<th>Gods</th></tr>
