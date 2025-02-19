@@ -102,7 +102,7 @@ if ($data = $this->request->getPostData()) {
 		<label>
 			<span>Multipurpose field called: reddit</span> 
 			<br />- for CCA & CCC challenges, this field is used to link to YouTube Video. Enter the appropriate HTML format for the field.
-			<br />- for the CCTT challenges, this field is used to cross reference the Reddit's post announcing the challenge)<br />
+			<br />- for the CCTT challenges, this field is used to cross reference the Reddit's post announcing the challenge.<br />
 			<textarea name="reddit" cols="125" rows="5"><?=$cha->reddit?></textarea>
 		</label>
 		<br />
