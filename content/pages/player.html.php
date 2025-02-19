@@ -45,7 +45,7 @@ if ($tournament_submissions) :
         $cha = $sub->challenge();
         $set = (int) $cha->setnr;
         $week = (int) $cha->week;
-        if ($sub->hs === false || $week > 5) {
+        if ($sub->hs === false || $week > 6) {
             continue;
         }
         $first_set = $first_set < $set ? $first_set : $set;
