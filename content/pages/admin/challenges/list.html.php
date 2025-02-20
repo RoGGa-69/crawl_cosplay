@@ -32,7 +32,7 @@ IMPORTANT ADMIN NOTES:
 			<td><a href="/ccc/challengedetails?id=<?=$c->id?>"><img src="<?=$c->icon?>" /></a></td>
 			<td class="actions-td">
 				<a href="/ccc/challengedetails?id=<?=$c->id?>"><?=$c->name?></a>
-				<br /><?=$c->shortform()?>
+				<br /><?={$this->species}, {$this->background}, {$this->gods}?>
 			</td>
 			<td><?=$c->subs?></td>
 			<td class="actions-td"><a href="/admin/challenges/scores?id=<?=$c->id?>">Scores</a> | <a href="/admin/challenges/edit?id=<?=$c->id?>">Edit</a>
