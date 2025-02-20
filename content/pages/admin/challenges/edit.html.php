@@ -37,12 +37,6 @@ if ($data = $this->request->getPostData()) {
 		<br />
 		<br />
 		<label>
-			<span>Shortform description (aka 'MiBe', 'MiFi^Mak' or 'Mino Fi/Skal Mak'</span><br />
-			<input type="text" name="shortform" value="<?=$cha->shortform?>" />
-		</label>
-		<br />
-		<br />
-		<label>
 			<span>Description</span><br />
 			<textarea name="description" cols="100" rows="3"><?=$cha->description?></textarea>
 		</label>
@@ -116,6 +110,13 @@ if ($data = $this->request->getPostData()) {
 		<label>
 			<span>Character icon image</span><br />
 			<input type="text" name="icon"  value="<?=$cha->icon?>" />
+		</label>
+		<br />
+		<br />
+		<label>
+			<span>a Unique's line from crawl/crawl-ref/source/dat/database/monspeak.txt</span><br />
+			<!-- the field "shortform" has been reused for this new purpose -->
+			<input type="text" name="shortform" placeholder="Margery throws some purple powder towards you." />
 		</label>
 		<br />
 		<br />
