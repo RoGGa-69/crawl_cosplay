@@ -18,12 +18,6 @@ if ($data = $this->request->getPostData()) {
 		<br />
 		<br />
 		<label>
-			<span>Shortform description (aka 'MiBe', 'MiFi^Mak' or 'Mino Fi/Skal Mak'</span><br />
-			<input type="text" name="shortform" placeholder="MiBe" />
-		</label>
-		<br />
-		<br />
-		<label>
 			<span>Description</span><br />
 			<textarea name="description" placeholder="Description of the unique or details about the challenge"  cols="100" rows="3"></textarea>
 		</label>
@@ -87,6 +81,13 @@ if ($data = $this->request->getPostData()) {
 		<label>
 			<span>Character icon image</span><br />
 			<input type="text" name="icon" placeholder="https://i.imgur.com/kjsdasd.png" />
+		</label>
+		<br />
+		<br />
+		<label>
+			<span>a Unique's line from crawl/crawl-ref/source/dat/database/monspeak.txt</span><br />
+			<!-- the field "shortform" has been reused for this new purpose -->
+			<input type="text" name="shortform" placeholder="Margery throws some purple powder towards you." />
 		</label>
 		<br />
 		<br />
