@@ -50,7 +50,7 @@ if ($active) :
 	<tr>
 		<td>Week <?=$e($cha->week)?>.</td>
 		<td><?php if ($cha->icon):?><img src="<?=$e($cha->icon)?>" style="height: 1em" /><?php endif; ?> <b><a href="/cctt/tchallengedetails?id=<?=$e($cha->id)?>"><?=$e($cha->name)?></a></b></td>
-		<td><span style="font-size: smaller"><?=$e($cha->shortform())?></span></td>
+		<td><span style="font-size: smaller"><?=$e($cha->shortform)?></span></td>
 	</tr>
 <?php endforeach; ?>
 </table>
