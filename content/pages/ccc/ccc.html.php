@@ -17,7 +17,7 @@ if ($active) :
 <p><a href="/ccc/challengedetails?id=<?=$e($active->id)?>">Challenge details</a>  | <a href="/ccc/submit_ccc">Submit a CCC run</a> | <a href="https://discord.gg/ZQ4kk6n">Discuss it in CCC's Discord</a> | Next challenge starts on Monday.</p>
 <table class="table_for_layout">
 	<tr><th>Species</th><th>Background<th>Gods</th></tr>
-	<tr><td><?=$e($active->species)?></td><td><?=$e($active->background)?><td><?=$e($active->gods)?></td></tr>
+	<tr><td><?=$e($active->species)?></td><td><?=$e($active->background)?></td><td><?=$e($active->gods)?></td></tr>
 </table>
 <?php if ($active->special_rule) : ?>
 <div class="special_rule"><p><?=$em($active->special_rule)?></p></div>
