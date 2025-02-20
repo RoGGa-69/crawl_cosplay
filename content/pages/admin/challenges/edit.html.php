@@ -114,9 +114,9 @@ if ($data = $this->request->getPostData()) {
 		<br />
 		<br />
 		<label>
-			<span>a Unique's line from crawl/crawl-ref/source/dat/database/monspeak.txt</span><br />
+			<span>a Unique's line from https://github.com/crawl/crawl/blob/master/crawl-ref/source/dat/database/monspeak.txt</span><br />
 			<!-- the field "shortform" has been reused for this new purpose -->
-			<input type="text" name="shortform" placeholder="Margery throws some purple powder towards you." />
+			<input type="text" name="shortform" />
 		</label>
 		<br />
 		<br />
