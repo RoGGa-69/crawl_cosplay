@@ -30,12 +30,12 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <p style="font-style: italic; color: #777;"><?=$e($cha->description)?></p>
 <!-- shortform field is used for Monster Speak -->
 <p style="text-align:right;"><span style="font-size: smaller"><?=$e($cha->shortform)?></span></p>
-<?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
 
 <p> 	<a href="/cca/submit_cca?id=<?=$cha->id?>">Submit a CCA run</a> 
 	<?php if ($cha->wiki): ?>	| <a href="<?=$e($cha->wiki)?>" target="_blank">Wiki page</a><?php endif; ?>
 </p>
-	<?php if ($cha->reddit): ?>	<h3>View YouTube videos of this CCA challenge by:</h3> <p><?=$cha->reddit ?></p><?php endif; ?>
+<?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
+<?php if ($cha->reddit): ?>	<h3>View YouTube videos of this CCA challenge by:</h3> <p><?=$cha->reddit ?></p><?php endif; ?>
 
 <h2>Challenge Details</h2>
 <table class="table_for_layout">
