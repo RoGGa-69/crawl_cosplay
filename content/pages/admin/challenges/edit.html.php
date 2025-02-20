@@ -116,7 +116,7 @@ if ($data = $this->request->getPostData()) {
 		<label>
 			<span>a Unique's line from https://github.com/crawl/crawl/blob/master/crawl-ref/source/dat/database/monspeak.txt</span><br />
 			<!-- the field "shortform" has been reused for this new purpose -->
-			<input type="text" name="shortform" />
+			<input type="text" name="shortform"  value="<?=$cha->shortform?>" />
 		</label>
 		<br />
 		<br />
