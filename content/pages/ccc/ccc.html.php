@@ -12,6 +12,7 @@ if ($active) :
 <h2>
 	Current challenge Set <?=$e($active->setnr)?> Week <?=$e($active->week)?>: <a href="/ccc/challengedetails?id=<?=$e($active->id)?>"><?=$e($active->name)?></a>
 	<?php if ($active->icon): ?><img src="<?=$e($active->icon)?>" class="head-icon" height="30px" /> <?php endif; ?>
+	<span style="font-size: smaller"><?=$e($active->shortform)?></span>
 </h2>
 <p style="font-style: italic; color: #777;"><?=$e($active->description)?></p>
 <p><a href="/ccc/challengedetails?id=<?=$e($active->id)?>">Challenge details</a>  | <a href="/ccc/submit_ccc">Submit a CCC run</a> | <a href="https://discord.gg/ZQ4kk6n">Discuss it in CCC's Discord</a> | Next challenge starts on Monday.</p>
@@ -43,7 +44,7 @@ if ($active) :
 		<td><?php if ($cha->icon):?><img src="<?=$e($cha->icon)?>" style="height: 1em" /><?php endif; ?>
 		    <b><a href="/ccc/challengedetails?id=<?=$e($cha->id)?>"><?=$e($cha->name)?></a></b></td>
 		<td><span style="font-size: smaller"><?=$e($cha->species), ", ", $e($cha->background), ", ", $e($cha->gods)?></td>
-		<td><span style="font-size: smaller"><?=$e($cha->shortform)?></span></td>
+		
 	</tr>
 <?php endforeach; ?>
 </table>
