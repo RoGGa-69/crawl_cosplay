@@ -44,10 +44,12 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <h2>Challenge Details</h2>
 
 <?php if ($cha->icon) : ?>
+	<div>
 	<figure>
 		<img src="<?=$e($cha->icon)?>" class="detail" alt="Grand Canyon" />
 		<figcaption><span style="font-size: smaller"><?=$e($cha->shortform)?></span></figcaption>
 	</figure>
+	</div>
 <?php endif; ?>
 
 <table class="table_for_layout">
