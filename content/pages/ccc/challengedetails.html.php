@@ -29,7 +29,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <h2>Set <?=$e($cha->setnr)?> Week <?=$e($cha->week)?> : <?=$e($cha->name)?></h2>
 <p style="font-style: italic; color: #777;"><?=$e($cha->description)?></p>
 <!-- shortform field is used for Monster Speak -->
-<p style="text-align:right;"><span style="font-size: smaller"><?=$e($active->shortform)?></span></p>
+<p style="text-align:right;"><span style="font-size: smaller"><?=$e($cha->shortform)?></span></p>
 
 <p>
 	<?php if ($cha->active) : ?>
