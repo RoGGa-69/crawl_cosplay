@@ -45,7 +45,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 
 <?php if ($cha->icon) : ?>
 	<figure>
-		<img src="<?=$e($cha->icon)?> alt=$cha->shortform()" class="detail" />
+		<img src="<?=$e($cha->icon)?>" class="detail" />
 		<figcaption><span style="font-size: smaller"><?=$e($cha->shortform())?></span></figcaption>
 	</figure>
 <?php endif; ?>
