@@ -42,7 +42,14 @@ $this->setData("meta", ['filename' => $cha->icon]);
 	<?php endif; ?></p>
 	
 <h2>Challenge Details</h2>
-<?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><br><span style="font-size: smaller"><?=$e($cha->shortform())?></span><?php endif; ?>
+
+<?php if ($cha->icon) : ?>
+	<figure>
+		<img src="<?=$e($cha->icon)?>" class="detail" />
+		<figcaption><span style="font-size: smaller"><?=$e($cha->shortform())?></span></figcaption>
+	</figure>
+<?php endif; ?>
+
 <table class="table_for_layout">
 	<tr><th>Species</th><th>Background<th>Gods</th></tr>
 	<tr><td><?=$e($cha->species)?></td><td><?=$e($cha->background)?><td><?=$e($cha->gods)?></td></tr>
