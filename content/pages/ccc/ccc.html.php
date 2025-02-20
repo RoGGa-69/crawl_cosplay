@@ -14,7 +14,7 @@ if ($active) :
 	<?php if ($active->icon): ?><img src="<?=$e($active->icon)?>" class="head-icon" height="30px" /> <?php endif; ?>
 </h2>
 <p style="font-style: italic; color: #777;"><?=$e($active->description)?></p>
-\** shortform field is used for Monster Speak **\
+<!-- shortform field is used for Monster Speak -->
 <p style="text-align:right;"><span style="font-size: smaller"><?=$e($active->shortform)?></span></p>
 
 <p><a href="/ccc/challengedetails?id=<?=$e($active->id)?>">Challenge details</a>  | <a href="/ccc/submit_ccc">Submit a CCC run</a> | <a href="https://discord.gg/ZQ4kk6n">Discuss it in CCC's Discord</a> | Next challenge starts on Monday.</p>
