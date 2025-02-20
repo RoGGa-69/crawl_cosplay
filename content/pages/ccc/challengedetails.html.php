@@ -28,6 +28,9 @@ $this->setData("meta", ['filename' => $cha->icon]);
 
 <h2>Set <?=$e($cha->setnr)?> Week <?=$e($cha->week)?> : <?=$e($cha->name)?></h2>
 <p style="font-style: italic; color: #777;"><?=$e($cha->description)?></p>
+<!-- shortform field is used for Monster Speak -->
+<p style="text-align:right;"><span style="font-size: smaller"><?=$e($active->shortform)?></span></p>
+
 <p>
 	<?php if ($cha->active) : ?>
 		<a href="/ccc/submit_ccc">Submit a CCC run</a> 
@@ -44,10 +47,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <h2>Challenge Details</h2>
 
 <?php if ($cha->icon) : ?>
-	<figure>
-		<img src="<?=$e($cha->icon)?>" />
-		<figcaption><span style="font-size: smaller"><?=$e($cha->shortform)?></span></figcaption>
-	</figure>
+	<img src="<?=$e($cha->icon)?>" />
 <?php endif; ?>
 
 <table class="table_for_layout">
