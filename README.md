@@ -12,11 +12,11 @@ Dungeon Crawl Stone Soup scoreboard keeper for the Crawl Cosplay 3-in-1 website
 ### Install mac/unix
 
  - `composer install`
- - `cp resources/setup/webserver.php webroot`
- - Import `resources/setup/db.sql` into your local database
+ - `cp resources/setup/server.php webroot`
+ - Import `resources/setup/cosplay.sql` into your local database
  - Start local webserver with `resources/bin/local`
 
-The `vendor/bin/local` injects the database credentials. Assumes that the db `cosplay` is available to user `root` with password `root` on `localhost`. Edit if not appropriate.
+The `resources/bin/local` injects the database credentials. Assumes that the db `cosplay` is available to user `root` with password `root` on `localhost`. Edit if not appropriate.
 
 ### Install windows
 
