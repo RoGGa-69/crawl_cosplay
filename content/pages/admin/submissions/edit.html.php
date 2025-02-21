@@ -76,7 +76,7 @@ if ($data = $this->request->getPostData()) {
         <br />
         <label>
             <input type="hidden" name="hs" value="0" />
-            <input type="checkbox" name="hs" value="1" <?=$sub->hs?'checked="checked"':''?> />
+            <input type="checkbox" name="hs" value="1" <?=$sub->hs?'checked="checked"':''?>  autofocus />
             <span>Highscore (use for multiple submissions)</span>
         </label>
         <br />
