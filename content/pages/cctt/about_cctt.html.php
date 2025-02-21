@@ -23,7 +23,7 @@
    These are all mandatory and you must worship your god before entering any multi-level branch besides the dungeon (e.g. Lair, Orc, Depths). 
    Also, you can't do anything to lose your religion, including abandoning your god. 
    The goal is not to emulate the unique's behaviour exactly, but to get a good starting point on playing games with interesting requirements.</p>
-<p>In the event of a tie for top spot, the last week's challenge will be very difficult challenge. 
+<p>In the event of a tie for top spot, the last week's challenge will be a very difficult challenge. 
    The highest score for that last week will be used to determine the winner.</p>
 
 <p>The next tournament challenge will be posted Friday at 0:00 UTC.</p>
@@ -34,7 +34,7 @@
 ?>
 
 <p>The current challenge's details page has a "Submit a CCTT run" link.
-    For those who haven't participated in CCC or CCTT before, just paste a link to your online morgue in the appropraite field,
+    For those who haven't participated in CCC or CCTT before, just paste a link to your online morgue in the appropiate field,
     and enter your playername and score in the comments. 
     Submissions will be approved by a moderator, who will verify your morgue and your score, and create a username for your future submissions.</p>
 
