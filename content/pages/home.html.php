@@ -17,12 +17,14 @@ Select your pleasure among the following options:
 <h3><a href="/ccc/ccc">Crawl Cosplay Challenges</a> (CCC)</h3>
 <ul><li>The original weekly challenge posted on Reddit since 2019!</li>
     <li>Read <a href="/ccc/about_ccc">About CCC</a>.</li>
-    <li>See: <a href="/ccc/all_ccc_history">all CCC challenges</a></li></ul>
+    <li>See: <a href="/ccc/all_ccc_history">All CCChallenges</a></li></ul>
 
 <h3><a href="/cctt/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
     <li>CCTT #2 to start this Friday Feb 21st, 2025 at 00:00 UTC.</li>
-    <li>Read <a href="/cctt/about_cctt">About CCTT</a>.</li></ul>
+    <li>Read <a href="/cctt/about_cctt">About CCTT</a>.</li>
+	<li><a href="/cctt/past_cctt_results">Past CCTT Results</a></li>
+</ul>
 
 <h3><a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT)</h3>
 <ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
