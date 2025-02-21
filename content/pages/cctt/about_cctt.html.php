@@ -29,7 +29,7 @@
 <p>The next tournament challenge will be posted Friday at 0:00 UTC.</p>
 
 <h3>Previous tournament scoring</h3>
-For the last tournament result, see: <a href="/cctt/tresults.html?set=32">CCTT#1 results</a>.
+<p>For the last tournament result, see: <a href="/cctt/tresults.html?set=32">CCTT#1 results</a>.</p>
 
 <h3>How to Enter</h3>
 <?php
