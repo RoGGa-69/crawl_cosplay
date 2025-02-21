@@ -49,7 +49,7 @@ if ($data = $this->request->getPostData()) {
 }
 
 ?>
-<h2>Adding new CCA Submission for: <?=$e($cha->name)?></h2>
+<h2>Adding new CCTT Submission for: <?=$e($cha->name)?></h2>
 <form method="POST">
     <input type="hidden" name="challenge_id" value="<?=$cha->id?>">
     <fieldset>
