@@ -106,7 +106,7 @@ if ($active) :
 
 	$tournament_challenge = Challenge::tournamentActive();
 	if ($tournament_challenge) {
-		echo '<p>There is an active tournament right now you can participate in! <a href="/tournament/home">Go there now!</a>';
+		echo '<p>There is an active tournament right now you can participate in! <a href="/cctt/cctt">Go there now!</a>';
   	}
 	echo "<br>";
 endif;
