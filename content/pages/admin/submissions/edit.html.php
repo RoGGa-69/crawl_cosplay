@@ -56,8 +56,6 @@ if ($data = $this->request->getPostData()) {
             <span>Score</span><br />
             <input type="number" name="score" value="<?=$sub->score?>" min="0" max="50" />
         </label>
-        <br />
-        <br />
         <span>Stars</span>
         <label><input type="radio" name="stars" value="0" <?=($sub->stars == 0)?'checked="checked"':''?> /> None</label> &nbsp;
         <label><input type="radio" name="stars" value="1" <?=($sub->stars == 1)?'checked="checked"':''?> /> One<span class="star">&#9733;</span></label> &nbsp;
