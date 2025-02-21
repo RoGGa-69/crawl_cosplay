@@ -21,7 +21,7 @@ Select your pleasure among the following options:
 
 <h3><a href="/cctt/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
-    <li>CCTT #2 to start this Friday Feb 21st, 2025 at 00:00 UTC.</li>
+    <li>CCTT #2 started Friday Feb 21st, 2025 at 00:00 UTC and runs until March 28th.</li>
     <li>Read <a href="/cctt/about_cctt">About CCTT</a>.</li>
 	<li><a href="/cctt/past_cctt_results">Past CCTT Results</a></li>
 </ul>
