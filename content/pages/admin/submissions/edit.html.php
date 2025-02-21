@@ -64,7 +64,7 @@ if ($data = $this->request->getPostData()) {
         <br />
         <label>
             <span>Morgue URL</span><br />
-            <input type="text" name="morgue_url" value="<?=$sub->morgue_url?>" /> <br />
+            <input type="text" name="morgue_url" value="<?=$sub->morgue_url?>" />
             <?php if ($sub->morgue_url) : ?>
                 <a href="<?=$sub->morgue_url?>" target="_blank">View Morgue</a>
             <?php endif; ?>
