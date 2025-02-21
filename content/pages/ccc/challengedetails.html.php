@@ -30,6 +30,9 @@ $this->setData("meta", ['filename' => $cha->icon]);
 <p style="font-style: italic; color: #777;"><?=$e($cha->description)?></p>
 <!-- shortform field is used for Monster Speak -->
 <p style="text-align:right;"><span style="font-size: smaller"><?=$e($cha->shortform)?></span></p>
+<?php if ($cha->icon) : ?>
+	<img src="<?=$e($cha->icon)?>" />
+<?php endif; ?>
 
 <p>
 	<?php if ($cha->active) : ?>
@@ -45,11 +48,6 @@ $this->setData("meta", ['filename' => $cha->icon]);
 	<?php endif; ?></p>
 	
 <h2>Challenge Details</h2>
-
-<?php if ($cha->icon) : ?>
-	<img src="<?=$e($cha->icon)?>" />
-<?php endif; ?>
-
 <table class="table_for_layout">
 	<tr><th>Species</th><th>Background<th>Gods</th></tr>
 	<tr><td><?=$e($cha->species)?></td><td><?=$e($cha->background)?><td><?=$e($cha->gods)?></td></tr>
