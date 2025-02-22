@@ -17,7 +17,7 @@ if (!$cha) {
 
 if ($cha && $cha->setnr > 30) {
     if ($cha->active) {
-        $this->layout = 'cctt';
+        $this->layout = 'ccc';
     } else {
         return $this->request->redirect('/');
     }
