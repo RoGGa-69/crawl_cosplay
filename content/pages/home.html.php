@@ -40,13 +40,13 @@ Select your pleasure among the following options:
 <h2>Crawl Cosplay Streamers</h2>
 <ul>
 	<li>particleface: CCA & CCTT <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
-		& <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a>
-
-Arcadio (in french): www.twitch.tv/arcadiorl
-
-Dumalacath: www.youtube.com/@dumalacath
-
-MalcomRose: www.twitch.tv/malcolmrosegaming</li>
+		& <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
+	<li>Dumalacath: CCA & CCC <a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
+	<li>Arcadio (in french): CCTT <a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a>
+		& <a href="https://www.youtube.com/@arcadiorll" target="_blank">www.youtube.com/@arcadiorl</a></li>
+and the one and only:
+	<li>MalcomRose: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
+		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
