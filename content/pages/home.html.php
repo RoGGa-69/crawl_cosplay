@@ -49,8 +49,8 @@ Select your pleasure among the following options:
 		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
 Of Note: 
-<ul><li>Malcolm Rose also has the longest streak ever in DCSS so checkout his YouTube channel for past wins and hairy moments,
-	and Follow him on twitch to be notified about his next World Record stream.</li>
+<ul><li>Malcolm Rose also has the longest streak ever in DCSS with over 75 wins and counting! So checkout his YouTube channel for past wins and hairy moments,
+	and Follow him on twitch.tv to be notified about his next World Record stream.</li>
 </ul>
 <br>
 <p>Happy Crawling,</p>
