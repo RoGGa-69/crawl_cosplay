@@ -6,18 +6,18 @@ use app\models\Player;
 $id = $_GET['id'] ?? false;
 
 if ($id == false) {
-    return $this->request->redirect('/');
+    return $this->request->redirect('/admin/players/list.html.php');
 }
 
 $player = Player::get($id);
 if (!$player) {
-    return $this->request->redirect('/');
+    return $this->request->redirect('/admin/players/list.html.php');
 }
 
 
 if ($data = $this->request->getPostData()) {
     $player->save($data);
-    return $this->request->redirect('/');
+    return $this->request->redirect('/admin/players/list.html.php');
 }
 
 ?>
