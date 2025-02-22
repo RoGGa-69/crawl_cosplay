@@ -31,12 +31,10 @@ Select your pleasure among the following options:
     <li>Next CCSDT for v0.33 in mid 2025.</li>
     <li>Read <a href="/ccsdt/about_ccsdt">About CCSDT</a>.</li></ul>
 
-<br>
-<h3>Want to chat?</h3>
+<h2>Want to chat?</h2>
 <p>Come chat with us on our 
     <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
     with over 300 members!</p>
-<br>
 <h2>Crawl Cosplay Streamers</h2>
 <ul>
 	<li><b>particleface</b>: CCA & CCTT <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
