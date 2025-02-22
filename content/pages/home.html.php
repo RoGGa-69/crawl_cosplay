@@ -45,9 +45,14 @@ Select your pleasure among the following options:
 		& <a href="https://www.youtube.com/@arcadiorll" target="_blank">www.youtube.com/@arcadiorl</a></li>
 </ul>
 <p>and the one and only:</p>
-<ul>	<li><b>MalcomRose</b>: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
+<ul>	<li><b>MalcolmRose</b>: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
 		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
+Of Note: 
+<ul><li>Malcolm Rose also has the longest streak ever in DCSS so checkout his YouTube channel for past wins and hairy moments,
+	and Follow him on twitch to be notified about his next World Record stream.</li>
+</ul>
+<br>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
 <br>
