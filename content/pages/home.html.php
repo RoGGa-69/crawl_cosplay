@@ -39,13 +39,14 @@ Select your pleasure among the following options:
 <br>
 <h2>Crawl Cosplay Streamers</h2>
 <ul>
-	<li>particleface: CCA & CCTT <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
+	<li><b>particleface</b>: CCA & CCTT <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
 		& <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
-	<li>Dumalacath: CCA & CCC <a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
-	<li>Arcadio (in french): CCTT <a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a>
+	<li><b>Dumalacath</b>: CCA & CCC <a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
+	<li><b>Arcadio</b> (in french): CCTT <a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a>
 		& <a href="https://www.youtube.com/@arcadiorll" target="_blank">www.youtube.com/@arcadiorl</a></li>
-and the one and only:
-	<li>MalcomRose: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
+</ul>
+<p>and the one and only:</p>
+<ul>	<li><b>MalcomRose</b>: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
 		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
 <p>Happy Crawling,</p>
