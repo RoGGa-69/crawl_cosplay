@@ -37,6 +37,17 @@ Select your pleasure among the following options:
     <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
     with over 300 members!</p>
 <br>
+<h2>Crawl Cosplay Streamers</h2>
+<ul>
+	<li>particleface: CCA & CCTT <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
+		& <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a>
+
+Arcadio (in french): www.twitch.tv/arcadiorl
+
+Dumalacath: www.youtube.com/@dumalacath
+
+MalcomRose: www.twitch.tv/malcolmrosegaming</li>
+</ul>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
 <br>
