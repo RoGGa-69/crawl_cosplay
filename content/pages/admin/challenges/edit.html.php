@@ -6,12 +6,12 @@ use app\models\Challenge;
 $id = $_GET['id'] ?? false;
 
 if ($id == false) {
-	return $this->request->redirect('/admin/list');
+	return $this->request->redirect('/admin/challenges/list.html');
 }
 
 $cha = Challenge::get($id);
 if (!$cha) {
-	return $this->request->redirect('/admin/list');
+	return $this->request->redirect('/admin/challenges/list.html');
 }
 
 
