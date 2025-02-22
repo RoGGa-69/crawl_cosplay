@@ -11,7 +11,7 @@ if ($id == false) {
 
 $cha = Challenge::get($id);
 if (!$cha) {
-	return $this->request->redirect('//admin/list');
+	return $this->request->redirect('/admin/list');
 }
 
 
@@ -20,7 +20,7 @@ if ($data = $this->request->getPostData()) {
 		Challenge::deactivateAll();
 	}
 	$cha->save($data);
-	return $this->request->redirect('/');
+	return $this->request->redirect('/admin/challenges/list.html');
 }
 
 ?>
