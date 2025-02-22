@@ -4,7 +4,7 @@
 if ($data = $this->request->getPostData()) {
 	$challenge = new app\models\Challenge($this->request->getPostData());
 	$challenge->save();
-	$this->request->redirect('/');
+	$this->request->redirect('/admin/challenges/list.html');
 }
 
 ?>
