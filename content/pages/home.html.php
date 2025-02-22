@@ -36,6 +36,7 @@ Select your pleasure among the following options:
     <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
     with over 300 members!</p>
 <h2>Crawl Cosplay Streamers</h2>
+<p>Please follow/subscribe to the streamers channel, and Like their videos. It motivates them to make more Crawl Cosplay content!</p>
 <ul>
 	<li><b>particleface</b>: CCA & CCTT <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
 		& <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
