@@ -34,6 +34,7 @@ Select your pleasure among the following options:
 <h3><b>Crawl Cosplay Fork Tournament</b> (CCFT) coming in early June 2025. NEW!</h3>
 <ul><li>A tournament lasting about a month with each week highlighting a different DCSS Fork.</li>
     <li>Read <a href="/ccft/about_ccft">About CCFT</a>.</li>
+</ul>
 
 <h2>Want to chat?</h2>
 <p>Come chat with us on our 
