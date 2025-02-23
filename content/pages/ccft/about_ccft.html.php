@@ -77,7 +77,7 @@
 <li>Win the game.</li></ul>
 
 <h4>Conducts</h4>
-<p>Each week will have three optional conducts for you to follow, that vary with every challenge; some are quite easy while other will be more difficult.
+<p>Each week will have three optional conducts for you to follow, that vary with every challenge; some are quite easy while others will be more difficult.
   Following or completing each conduct is worth 5 points, to a maximum of half your score from milestones, rounded down.
   So if you achieve 3 milestones (15 points), you can earn up to 7 points from conduct bonuses, for a total of 22 points.</p>
 
