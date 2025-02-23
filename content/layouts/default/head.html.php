@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><?=$page_title ?? 'Crawl Cosplay - the 4-in-1 website'?></title>
+    <title><?=$page_title ?? 'Crawl Cosplay - the 5-in-1 website'?></title>
     <link rel="icon" href="/img/feat-dg_entrance.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
     <link rel="stylesheet" href="/css/cosplay.css?v=<?=time()?>">
