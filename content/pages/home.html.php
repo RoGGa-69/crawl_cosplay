@@ -51,6 +51,7 @@ Select your pleasure among the following options:
 Of Note: 
 <ul><li>Malcolm Rose also has the longest streak ever in DCSS with over 75 wins and counting! So checkout his YouTube channel for past wins and hairy moments,
 	and Follow him on twitch.tv to be notified about his next World Record stream.</li>
+    <li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
 </ul>
 <br>
 <p>Happy Crawling,</p>
