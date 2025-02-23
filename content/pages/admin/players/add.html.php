@@ -19,7 +19,7 @@ if ($data = $this->request->getPostData()) {
     <fieldset>
         <label>
             <span>Name</span><br />
-            <input type="text" name="name" />
+            <input type="text" name="name" autofocus />
         </label>
         <br />
         <label>
