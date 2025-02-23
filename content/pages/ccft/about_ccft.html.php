@@ -32,6 +32,8 @@
 <ul>
     <li><a href="https://cosplay.kelbi.org/ccft/fork_bcadren.html">BCadren</a></li>
     <li><a href="https://cosplay.kelbi.org/ccft/fork_bcrawl.html">BCrawl</a></li>
+    <li><a href="https://cosplay.kelbi.org/ccft/fork_hellcrawl.html">HellCrawl</a></li>
+    <li><a href="https://cosplay.kelbi.org/ccft/fork_stoatsoup.html">Stoat Soup</a></li>
 </ul>
 
 <h3>How to Enter</h3>
