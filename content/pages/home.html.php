@@ -32,8 +32,9 @@ Select your pleasure among the following options:
     <li>Read <a href="/ccsdt/about_ccsdt">About CCSDT</a>.</li></ul>
 
 <h3><b>Crawl Cosplay Fork Tournament</b> (CCFT) coming in early June 2025. NEW!</h3>
-<ul><li>A tournament lasting about a month with each week highlighting a different DCSS Fork.</li>
-    <li>Read <a href="/ccft/about_ccft">About CCFT</a>.</li>
+<ul><li>A tournament lasting about a 4-5 weeks with each week highlighting a different DCSS Fork.</li>
+    <li>The first ever CCFT will likely start in early June 2025.
+    <li>Read a draft of <a href="/ccft/about_ccft">About CCFT</a>.</li>
 </ul>
 
 <h2>Want to chat?</h2>
