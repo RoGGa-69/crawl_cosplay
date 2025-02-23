@@ -14,7 +14,7 @@
 			<a href="/cctt/past_cctt_results"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Past CCTT Results</a>
 			<a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament (CCSDT)</a>
 			<a href="/ccsdt/about_ccsdt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCSDT</a>
-      <a href="/ccft/ccft">Crawl Cosplay Fork Tournament (CCFT)</a>
+		        <a href="/ccft/ccft">Crawl Cosplay Fork Tournament (CCFT)</a>
 			<a href="/ccft/about_ccft"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCFT</a>
 		</div>
 	</div>
@@ -22,7 +22,7 @@
     <div class="toplinks"><br></div>
     <div class="page_content">
         <div class="heading">
-            <h1><img src="/img/cctt_stone_soup_icon-512x512.png" width="48" height="48"> Crawl Cosplay Trunk Tournament <img src="/img/cctt_stone_soup_icon-512x512.png" width="48" height="48"></h1>
+            <h1><img src="/img/cctt_stone_soup_icon-512x512.png" width="48" height="48"> Crawl Cosplay Fork Tournament <img src="/img/cctt_stone_soup_icon-512x512.png" width="48" height="48"></h1>
             <div class="fineprint"><center>Come chat with us on our <a href="https://discord.gg/WdbyURBcYp" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a></center></div>
         </div>
 	<div class="fineprint" align="right">
