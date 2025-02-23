@@ -48,7 +48,7 @@ Select your pleasure among the following options:
 		& <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
 	<li><b>Dumalacath</b>: CCA, CCC & CCTT <a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
 	<li><b>Arcadio</b> (in french): CCTT <a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a>
-		& <a href="https://www.youtube.com/@arcadiorll" target="_blank">www.youtube.com/@arcadiorl</a></li>
+		& <a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
 </ul>
 <p>and the one and only:</p>
 <ul>	<li><b>MalcolmRose</b>: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
