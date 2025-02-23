@@ -17,4 +17,4 @@
     echo '<img src="/'.$dir_path."/".$filename1.'" alt="'.$filename1.'" width="72" height="72" style="float:right">';
 ?>
 
-<p>The <a href="http://https://github.com/Bcadren/crawl"" target="_blank"><b>BCraden Fork </b></a> 
+<p>The <a href="http://github.com/Bcadren/crawl"" target="_blank"><b>BCraden Fork </b></a> ...
