@@ -5,7 +5,7 @@
     $index = rand(2, ($count-1));
     $filename = $files[$index];
 
-    echo '<h2>Welcome to the <b>Crawl Cosplay</b> 4-in-1 website!</h2>';
+    echo '<h2>Welcome to the <b>Crawl Cosplay</b> 5-in-1 website!</h2>';
     echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 ?>
 Select your pleasure among the following options:
