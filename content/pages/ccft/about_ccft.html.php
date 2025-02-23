@@ -28,6 +28,12 @@
 
 <p>A week's challenge details will be posted on Reddit at the time of the start on Friday at 00:00 UTC.</p>
 
+<h3>Featured Forks</h3>
+<ul>
+    <li><a href="https://cosplay.kelbi.org/ccft/fork_bcadren.html">BCadren</a></li>
+    <li><a href="https://cosplay.kelbi.org/ccft/fork_bcrawl.html">BCrawl</a></li>
+</ul>
+
 <h3>How to Enter</h3>
 <?php
     echo '<img src="/'.$dir_path."/".$filename2.'" alt="'.$filename2.'" width="72" height="72" style="float:right">'; 
