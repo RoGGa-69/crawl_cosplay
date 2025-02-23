@@ -31,6 +31,10 @@ Select your pleasure among the following options:
     <li>Next CCSDT for v0.33 in mid 2025.</li>
     <li>Read <a href="/ccsdt/about_ccsdt">About CCSDT</a>.</li></ul>
 
+<h3><b>Crawl Cosplay Fork Tournament</b> (CCFT) coping in early June 2025! NEW</h3>
+<ul><li>A tournament lasting about a month with each week highlighting a different DCSS Fork.</li>
+    <li>Read <a href="/ccft/about_ccft">About CCFT</a>.</li>
+
 <h2>Want to chat?</h2>
 <p>Come chat with us on our 
     <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
