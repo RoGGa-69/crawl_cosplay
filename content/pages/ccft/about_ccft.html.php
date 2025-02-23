@@ -1,4 +1,7 @@
-<?php $this->layout = 'ccft'; ?>
+<?php
+    $this->layout = 'ccft';
+    $dir_path = "img/uniques";
+?>
 
 <h2>About Crawl Cosplay Fork Tournament (CCFT)</h2>';
 
