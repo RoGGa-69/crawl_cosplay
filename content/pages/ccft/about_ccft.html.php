@@ -1,20 +1,6 @@
 <?php $this->layout = 'ccft'; ?>
-<?php 
-    $dir_path = "img/uniques";
-    $files = scandir($dir_path);
-    $count = count($files);
-    $index1 = rand(2, ($count-1));
-    $index2 = rand(2, ($count-1));
-    $index3 = rand(2, ($count-1));
-    $index4 = rand(2, ($count-1));
-    $filename1 = $files[$index1];
-    $filename2 = $files[$index2];
-    $filename3 = $files[$index3];
-    $filename4 = $files[$index4];
 
-    echo '<h2>About Crawl Cosplay Fork Tournament (CCFT)</h2>';
-    echo '<img src="/'.$dir_path."/".$filename1.'" alt="'.$filename1.'" width="72" height="72" style="float:right">';
-?>
+<h2>About Crawl Cosplay Fork Tournament (CCFT)</h2>';
 
 <p>The <b>Crawl Cosplay Fork Tournament</b> is a 5-week long tournament with a different fork each week highlighting major features not found in the regular DCSS version.
  The tournament is based on the weekly <a href="http://crawlcosplay.dcss.io/" target="_blank">Crawl Cosplay Challenge</a> (CCC) series for <a href="http://crawl.develz.org/" target="_blank">Dungeon Crawl Stone Soup</a> (DCSS).</p>
