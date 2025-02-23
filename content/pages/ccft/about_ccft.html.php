@@ -13,8 +13,8 @@
     $filename4 = $files[$index4];
 ?>
 
-<h2>About Crawl Cosplay Fork Tournament (CCFT)</h2>';
-<?    echo '<img src="/'.$dir_path."/".$filename1.'" alt="'.$filename1.'" width="72" height="72" style="float:right">'; ?>
+<h2>About Crawl Cosplay Fork Tournament (CCFT)</h2>
+<?php    echo '<img src="/'.$dir_path."/".$filename1.'" alt="'.$filename1.'" width="72" height="72" style="float:right">'; ?>
 
 <p>The <b>Crawl Cosplay Fork Tournament</b> is a 5-week long tournament with a different fork each week highlighting major features not found in the regular DCSS version.
  The tournament is based on the weekly <a href="http://crawlcosplay.dcss.io/" target="_blank">Crawl Cosplay Challenge</a> (CCC) series for <a href="http://crawl.develz.org/" target="_blank">Dungeon Crawl Stone Soup</a> (DCSS).</p>
