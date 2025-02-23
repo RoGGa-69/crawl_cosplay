@@ -17,13 +17,13 @@
 ?>
 
 <p>The <b>Crawl Cosplay Fork Tournament</b> is a 5-week long tournament with a different fork each week highlighting major features not found in the regular DCSS version.
- The torunament is based on the weekly <a href="http://crawlcosplay.dcss.io/" target="_blank">Crawl Cosplay Challenge</a> (CCC) series for <a href="http://crawl.develz.org/" target="_blank">Dungeon Crawl Stone Soup</a> (DCSS).</p>
+ The tournament is based on the weekly <a href="http://crawlcosplay.dcss.io/" target="_blank">Crawl Cosplay Challenge</a> (CCC) series for <a href="http://crawl.develz.org/" target="_blank">Dungeon Crawl Stone Soup</a> (DCSS).</p>
 
-<p>Each week will likely feature a DCSS Unique character for you to play, with one or more options for starting species and background, as well as which god you must worship.
+<p>Each week will likely feature a fork's Unique character for you to play, with one or more options for starting species and background, as well as which god you must worship.
    These are all mandatory and you must worship your god before entering any multi-level branch besides the dungeon (e.g. Lair, Orc, Depths). 
    Also, you can't do anything to lose your religion, including abandoning your god. 
    The goal is not to emulate the unique's behaviour exactly, but to get a good starting point on playing games with interesting requirements.</p>
-<p>In the event of a tie for top spot, the last week's challenge will be a very difficult challenge. 
+<p>In the event of a tie for top spot, the last week's challenge will be a very difficult one. 
    The highest score for that last week will be used to determine the winner.</p>
 
 <p>A week's challenge details will be posted on Reddit at the time of the start on Friday at 00:00 UTC.</p>
@@ -34,7 +34,7 @@
 ?>
 
 <p>The current challenge's details page has a "Submit a CCFT run" link.
-    For those who haven't participated in CCC or CCTT before, just paste a link to your online morgue in the appropiate field,
+    For those who haven't participated in CCC, CCA or CCTT before, just paste a link to your online morgue in the appropiate field,
     and enter your playername and score in the comments. 
     Submissions will be approved by a moderator, who will verify your morgue and your score, and create a username for your future submissions.</p>
 
@@ -73,7 +73,7 @@
   Following or completing each conduct is worth 5 points, to a maximum of half your score from milestones, rounded down.
   So if you achieve 3 milestones (15 points), you can earn up to 7 points from conduct bonuses, for a total of 22 points.</p>
 
-<h4>Bonus Challenges:</h4>
+<h4>Bonus Challenges</h4>
 <?php
     echo '<img src="/'.$dir_path."/".$filename4.'" alt="'.$filename4.'" width="72" height="72" style="float:right">'; 
 ?>
