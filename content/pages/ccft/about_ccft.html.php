@@ -49,7 +49,7 @@
 <h3>Restrictions for tournament play</h3>
 <ul><li><b>Submitted runs must be played in selected fork on one of the <a href="https://crawl.develz.org/play.htm" target="_blank"> official online servers</a></b> 
            or <a href="https://crawl.yiuf.org/" target="_blank">crawl.yiuf.org</a>.
-           A list of which fork is available on which server will be written in th Reddit post and on the challenge's details page.</li>
+           A list of which fork is available on which server will be written in the Reddit post and on the challenge's details page.</li>
     <li><b>Seeded games are NOT accepted.</b></li>
     <li>You can make as many attempts as you want.</li>
     <li>Morgues must be submitted while a challenge is active. No late submissions!</li>
