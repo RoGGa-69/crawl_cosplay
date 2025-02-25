@@ -1,4 +1,4 @@
-<h2>Crawl Cosplay Streamers</h2>
+'<h2>Crawl Cosplay Streamers</h2>
 
 <p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
 	short videos and shorts that have link to the full video or playlist for a Crawl Cosplay streamer.</p>
@@ -14,10 +14,11 @@
 <p>and the one and only:</p>
 <ul>	<li><b>MalcolmRose</b>: CCC & CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
 		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a>
-		&  <a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYScSTw2RnztSrkVLNpbBAV" target="_blank">CCC playlist for v0.24</a></li>
+		& <a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYScSTw2RnztSrkVLNpbBAV" target="_blank">CCC playlist for v0.24</a></li>
 </ul>
 Of Note: 
 <ul><li>Malcolm Rose also has the longest streak ever in DCSS with over 75 wins and counting! So checkout his YouTube channel for past wins and hairy moments,
-	and Follow him on twitch.tv to be notified about his next World Record stream.</li>
+	and Follow him on twitch.tv to be notified about his next World Record stream.
+	Here's a link to his <a href="https://www.youtube.com/playlist?list=PLDaRV3E1ecibDeKDyvFUCYOKMPcO3FKLlDCSS" target="_blank">World Record playlist</a>.</li>
     <li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
 </ul>
