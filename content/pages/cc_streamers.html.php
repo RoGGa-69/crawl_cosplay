@@ -16,12 +16,12 @@
 
 <p><b>Dumalacath</b>: The new blood on the block!</p>
 <ul>	<li><a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">CCA playlist</a></li>
+	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">CCA complete playlist</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzGYSC6dJy6NqHErLrtvoYRR" target="_blank">CCC playlist</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHBfUlTlz_ScV5_irFeNx8C" target="_blank">CCTT playlist</a></li>
 </ul>
 
-<p><b>Arcadio</b> (in french):</p>
+<p><b>Arcadio</b> (in french): le semi-pro et demi-dieu des roguelikes!</p>
 <ul>	<li><a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a></li>
 	<li><a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
 	<li>CCTT playlist (coming soon)</li>
