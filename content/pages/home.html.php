@@ -42,7 +42,7 @@ Select your pleasure among the following options:
     <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
     with over 300 members!</p>
 
-<h2>Crawl Cosplay Streamers</h2>
+<h2><a href="cc_streamers.html" target="_blank">Crawl Cosplay Streamers</a></h2>
 <p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
 	short videos and shorts that have link to the full video or playlist for a Crawl Cosplay streamer.</p>
 <p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their videos. It motivates them to make more great Crawl Cosplay content!</p>
