@@ -57,7 +57,7 @@ Select your pleasure among the following options:
 <ul>	<li><b>MalcolmRose</b>: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
 		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
-<p>See the <a href="/cc_streamers">Crawl Cosplay Streamers</a>'s page for more info on them.</p>
+<p>See the <a href="/cc_streamers">Crawl Cosplay Streamers</a>'s page for more info on them and links to their CC playlists.</p>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
 <br>
