@@ -16,7 +16,7 @@
 
 <p><b>Dumalacath</b>: The new blood on the block!</p>
 <ul>	<li><a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">CCA complete playlist</a></li>
+	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">complete playlist of 12 CCA videos</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzGYSC6dJy6NqHErLrtvoYRR" target="_blank">CCC playlist</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHBfUlTlz_ScV5_irFeNx8C" target="_blank">CCTT playlist</a></li>
 </ul>
