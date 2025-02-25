@@ -57,11 +57,7 @@ Select your pleasure among the following options:
 <ul>	<li><b>MalcolmRose</b>: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
 		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
-Of Note: 
-<ul><li>Malcolm Rose also has the longest streak ever in DCSS with over 75 wins and counting! So checkout his YouTube channel for past wins and hairy moments,
-	and Follow him on twitch.tv to be notified about his next World Record stream.</li>
-    <li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
-</ul>
+<p>See the <a href="/cc_streamers">Crawl Cosplay Streamers</a>'s page for more info on them.</p>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
 <br>
