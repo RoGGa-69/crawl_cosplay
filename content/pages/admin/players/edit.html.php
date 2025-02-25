@@ -36,7 +36,7 @@ if ($data = $this->request->getPostData()) {
         <br />
         <label>
             <span>Discord name</span><br />
-            <input type="text" name="discord"  value="<?=$player->reddit?>"  />
+            <input type="text" name="discord"  value="<?=$player->discord?>"  />
         </label>
         <br />
         <input type="submit" name="Save">
