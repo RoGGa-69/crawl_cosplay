@@ -62,7 +62,6 @@ Of Note:
 	and Follow him on twitch.tv to be notified about his next World Record stream.</li>
     <li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
 </ul>
-<br>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
 <br>
