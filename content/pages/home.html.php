@@ -44,7 +44,7 @@ Select your pleasure among the following options:
 
 <h2><a href="cc_streamers.html">Crawl Cosplay Streamers</a></h2>
 <p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
-	short videos and shorts that have link to the full video or playlist for a Crawl Cosplay streamer.</p>
+	short videos and shorts that have links to the full video or playlist for a Crawl Cosplay streamer.</p>
 <p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their videos. It motivates them to make more great Crawl Cosplay content!</p>
 <ul>
 	<li><b>particleface</b>: CCA & CCTT <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
