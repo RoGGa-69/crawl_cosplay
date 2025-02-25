@@ -13,8 +13,8 @@
 </ul>
 <p>and the one and only:</p>
 <ul>	<li><b>MalcolmRose</b>: CCC & CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
-		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
-	<li><li>H<a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYScSTw2RnztSrkVLNpbBAV" target="_blank">CCC playlist for v0.24</li></li>
+		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a>
+		&  <a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYScSTw2RnztSrkVLNpbBAV" target="_blank">CCC playlist for v0.24</li>
 </ul>
 Of Note: 
 <ul><li>Malcolm Rose also has the longest streak ever in DCSS with over 75 wins and counting! So checkout his YouTube channel for past wins and hairy moments,
