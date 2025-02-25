@@ -36,6 +36,3 @@
 	and Follow him on twitch.tv to be notified about his next World Record stream.
 	Here's a link to his <a href="https://www.youtube.com/playlist?list=PLDaRV3E1ecibDeKDyvFUCYOKMPcO3FKLlDCSS" target="_blank">DCSS World Record playlist</a>.</li>
 </ul>
-Of Note: 
-<ul>
-</ul>
