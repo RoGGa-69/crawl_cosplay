@@ -24,6 +24,7 @@
 		<div class="dropdown-content" style="right:0;">
 			The new webhosting cost is $11.30can/month.<br>
 			Please donate at: <a href="https://patreon.com/rogga" target="_blank">Patreon</a>
+			<a href="/webhosting_details.html" target="_blank">Webhosting Details</a>
 		</div>
 	</div>
 
