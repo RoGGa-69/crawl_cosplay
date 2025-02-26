@@ -44,18 +44,18 @@ Select your pleasure among the following options:
 
 <h2><a href="cc_streamers.html">Crawl Cosplay Streamers</a></h2>
 <p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
-	short videos and shorts that have links in the Comments to the full video or playlist for that Crawl Cosplay streamer(s).</p>
+	short videos and shorts that have links in the Comments to the full video or playlist for that Crawl Cosplay streamer(s)/topic.</p>
 <p>Here is a list of currently active CC streamers:</p>
 <ul>
-	<li><b>particleface</b>: CCA & CCTT <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
-		& <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
-	<li><b>Dumalacath</b>: CCA, CCC & CCTT <a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
-	<li><b>Arcadio</b> (in french): CCTT <a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a>
-		& <a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
+	<li><b>particleface</b>: CCA & CCTT 	on <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
+						&  <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
+	<li><b>Dumalacath</b>: CCA, CCC & CCTT 	on <a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
+	<li><b>Arcadio</b> (in french): CCTT 	on <a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a>
+						&  <a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
 </ul>
 <p>and the one and only:</p>
-<ul>	<li><b>MalcolmRose</b>: CCTT <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
-		& <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
+<ul>	<li><b>MalcolmRose</b>: CCTT 	on <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
+					&  <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
 <p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their videos. It motivates them to make more great Crawl Cosplay content!</p>
 
