@@ -11,7 +11,8 @@
 	<li><a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">CCA playlist</a></li>
 	<li>CCTT playlist (coming soon).</li> 
 	<li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
-	<li>He has also been one of the few to complete !progress (winning with each 600+ DCSS combos).</li>
+	<li>He has also been one of the few to complete !progress (winning all 665 playable DCSS combos). He now is on the hunt to keep !progress status by winning with all 
+	Forgewright, Poltergeist and Revenant combos!</li>
 </ul>
 
 <p><b>Dumalacath</b>: The new blood on the block!</p>
