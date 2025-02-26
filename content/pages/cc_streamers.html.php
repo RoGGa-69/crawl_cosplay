@@ -1,9 +1,10 @@
-<h2>Crawl Cosplay Streamers</h2>
+<h2>All Crawl Cosplay Streamers</h2>
 
 <p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
 	short videos and shorts that have links to the full video or playlist for a Crawl Cosplay streamer.</p>
 
-<p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their Crawl Cosplay videos; it motivates them to make more great Crawl Cosplay content!</p>
+<p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their Crawl Cosplay videos; 
+	it motivates them to make more great Crawl Cosplay content!</p>
 
 <p><b>particleface</b>: Mr. !Progress</p>
 <ul>	<li>Active Channels: 	<a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>< & 
