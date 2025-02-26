@@ -6,33 +6,39 @@
 <p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their Crawl Cosplay videos; it motivates them to make more great Crawl Cosplay content!</p>
 
 <p><b>particleface</b>: Mr. !Progress</p>
-<ul>	<li><a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a></li>
-	<li><a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">CCA playlist</a></li>
-	<li>CCTT playlist (coming soon).</li> 
+<ul>	<li>Channels: 	<a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>< & 
+			<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
+	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">CCA</a>; 
+					CCTT (coming soon).</li> 
 	<li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
-	<li>He has also been one of the few to complete !progress (winning all 665 playable DCSS combos). He now is on the hunt to keep !progress status by winning with all 
-	Forgewright, Poltergeist and Revenant combos!</li>
+	<li>He has also been one of the few to complete !progress (winning all 665 playable DCSS combos). 
+		He now is on the hunt to keep !progress status by winning with all Forgewright, Poltergeist and Revenant combos!</li>
 </ul>
 
 <p><b>Dumalacath</b>: The new blood on the block!</p>
-<ul>	<li><a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">CCA playlist</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzGYSC6dJy6NqHErLrtvoYRR" target="_blank">CCC playlist</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHBfUlTlz_ScV5_irFeNx8C" target="_blank">CCTT playlist</a></li>
+<ul>	<li>Active Channel:		<a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
+	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">CCA</a>; 
+					<a href="https://www.youtube.com/playlist?list=PLy8-17WgznzGYSC6dJy6NqHErLrtvoYRR" target="_blank">CCC</a>; 
+					<a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHBfUlTlz_ScV5_irFeNx8C" target="_blank">CCTT</a></li>
 </ul>
 
 <p><b>Arcadio</b> (in french): le semi-pro et demi-dieu des roguelikes!</p>
-<ul>	<li><a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a></li>
-	<li><a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
-	<li>CCTT playlist (coming soon)</li>
+<ul>	<li>Channels:	<a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a> & 
+			<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
+	<li>Crawl Cosplay playlists: 	CCTT (coming soon)</li>
 </ul>
 
+<p><b>Wizrd1ke</b>: the prolific</p>
+<ul>	<li>Channels:	<a href="https://www.twitch.tv/wizardike" target="_blank">www.twitch.tv/wizardike</a> & 
+			<a href="https://www.youtube.com/@WizardIke" target="_blank">www.youtube.com/@WizardIke</a></li>
+	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLU5PEZPkft5vBlJp5H6e4WQUa-W5DV--m" target="_blank">CCC</a></li>
+	<li>Wizard1ke hasn't streamed since Aug. 2024.</li>
+	
 <p><b>MalcolmRose</b>: the one and only!</p>
-<ul>	<li><a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a></li>
-	<li><a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYScSTw2RnztSrkVLNpbBAV" target="_blank">CCC playlist for v0.24</a></li>
-	<li>CCTT playlist (coming soon)</li>
+<ul>	<li>Channels: 	<a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a> & 
+			<a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
+	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYScSTw2RnztSrkVLNpbBAV" target="_blank">CCC for v0.24</a>; 
+					CCTT (coming soon)</li>
 	<li>Malcolm Rose has the longest win-streak ever in DCSS with over 75 wins and counting! So checkout his YouTube channel for past wins and hairy moments,
 	and Follow him on twitch.tv to be notified about his next World Record stream.
 	Here's a link to his <a href="https://www.youtube.com/playlist?list=PLDaRV3E1ecibDeKDyvFUCYOKMPcO3FKLlDCSS" target="_blank">DCSS World Record playlist</a>.</li>
