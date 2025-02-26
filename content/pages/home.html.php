@@ -42,7 +42,7 @@ Select your pleasure among the following options:
     <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
     with over 300 members!</p>
 
-<h2><a href="cc_streamers.html">Crawl Cosplay Streamers</a></h2>
+<h2>Active Crawl Cosplay Streamers</h2>
 <p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
 	short videos and shorts that have links in the Comments to the full video or playlist for that Crawl Cosplay streamer(s)/topic.</p>
 <p>Here is a list of currently active CC streamers:</p>
@@ -57,9 +57,9 @@ Select your pleasure among the following options:
 <ul>	<li><b>MalcolmRose</b>: CCTT 	on <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
 					&  <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
-<p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their videos. It motivates them to make more great Crawl Cosplay content!</p>
+<p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their videos; it motivates them to make more great Crawl Cosplay content!</p>
 
-<p>See the <a href="/cc_streamers">Crawl Cosplay Streamers</a>' webpage for more info on them and other past streamers as well as links to their CC playlists.</p>
+<p>See the <a href="/cc_streamers"><b>All Crawl Cosplay Streamers</b></a>' webpage for more info on them and other past streamers as well as links to their CC playlists.</p>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
 <br>
