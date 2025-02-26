@@ -6,8 +6,8 @@
 <p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their Crawl Cosplay videos; it motivates them to make more great Crawl Cosplay content!</p>
 
 <p><b>particleface</b>: Mr. !Progress</p>
-<ul>	<li>Channels: 	<a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>< & 
-			<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
+<ul>	<li>Active Channels: 	<a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>< & 
+				<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">CCA</a>; 
 					CCTT (coming soon).</li> 
 	<li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
@@ -23,14 +23,14 @@
 </ul>
 
 <p><b>Arcadio</b> (in french): le semi-pro et demi-dieu des roguelikes!</p>
-<ul>	<li>Channels:	<a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a> & 
-			<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
+<ul>	<li>Active Channels:	<a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a> & 
+				<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
 	<li>Crawl Cosplay playlists: 	CCTT (coming soon)</li>
 </ul>
 
 <p><b>Wizrd1ke</b>: the prolific</p>
-<ul>	<li>Channels:	<a href="https://www.twitch.tv/wizardike" target="_blank">www.twitch.tv/wizardike</a> & 
-			<a href="https://www.youtube.com/@WizardIke" target="_blank">www.youtube.com/@WizardIke</a></li>
+<ul>	<li>Non-Active Channels:	<a href="https://www.twitch.tv/wizardike" target="_blank">www.twitch.tv/wizardike</a> & 
+					<a href="https://www.youtube.com/@WizardIke" target="_blank">www.youtube.com/@WizardIke</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLU5PEZPkft5vBlJp5H6e4WQUa-W5DV--m" target="_blank">CCC</a></li>
 	<li>Wizard1ke hasn't streamed since Aug. 2024.</li>
 	
