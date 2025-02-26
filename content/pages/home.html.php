@@ -59,7 +59,7 @@ Select your pleasure among the following options:
 </ul>
 <p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their videos. It motivates them to make more great Crawl Cosplay content!</p>
 
-<p>See the <a href="/cc_streamers">Crawl Cosplay Streamers</a>'s page for more info on them and other past streamers as well as links to their CC playlists.</p>
+<p>See the <a href="/cc_streamers">Crawl Cosplay Streamers</a>' webpage for more info on them and other past streamers as well as links to their CC playlists.</p>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
 <br>
