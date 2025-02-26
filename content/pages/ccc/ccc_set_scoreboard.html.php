@@ -24,7 +24,7 @@ use app\models\{Challenge, Submission, Player};
 			<a href="/ccc/challengedetails?id=<?=$e($cha->id)?>"><img src="<?=$e($cha->icon)?>" style="height: 1em" /></a><?php endif; ?> 
 			<b><a href="/ccc/challengedetails?id=<?=$e($cha->id)?>"><?=$e($cha->name)?></a></b>
 		</td>
-		<td><span style="font-size: smaller"><?=$e($cha->shortform())?></span></td>
+		<td><span style="font-size: smaller"><?=($cha->species), ", ", ($cha->background), ", ", ($cha->gods)?></span></td>
 	</tr>	
 <?php endforeach; ?>
 </table>
