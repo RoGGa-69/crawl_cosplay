@@ -9,7 +9,7 @@
 <p><b>particleface</b>: Mr. !Progress</p>
 <ul>	<li>Active Channels: 	<a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>< & 
 				<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a> & 
-				<a href="https://discord.gg/FJTZUHXT" target="_blank"> Discord server</a></li>
+				<a href="https://discord.gg/FJTZUHXT" target="_blank">Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">CCA</a>; 
 					CCTT (coming soon).</li>
 	
@@ -28,7 +28,7 @@
 <p><b>Arcadio</b> (in french): le semi-pro et demi-dieu des roguelikes!</p>
 <ul>	<li>Active Channels:	<a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a> & 
 				<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a> & 
-				<a href="https://discord.gg/p8S4sb8yab" target="_blank"> Discord server</a></li>
+				<a href="https://discord.gg/p8S4sb8yab" target="_blank">Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	CCTT (coming soon)</li>
 </ul>
 
@@ -46,7 +46,8 @@
 ...AND...
 <p><b>MalcolmRose</b>: the one and only!</p>
 <ul>	<li>Channels: 	<a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a> & 
-			<a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
+			<a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a>
+			<a href="https://discord.gg/3khp7weR8j" target="_blank">MR moderated DCSS Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYScSTw2RnztSrkVLNpbBAV" target="_blank">CCC for v0.24</a>; 
 					CCTT promo videos (coming soon)</li>
 	<li>Malcolm Rose has the longest win-streak ever in DCSS with over 75 wins and counting! So checkout his YouTube channel for past wins and hairy moments,
