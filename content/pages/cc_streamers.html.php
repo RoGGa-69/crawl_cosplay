@@ -8,9 +8,11 @@
 
 <p><b>particleface</b>: Mr. !Progress</p>
 <ul>	<li>Active Channels: 	<a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>< & 
-				<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
+				<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a> & 
+				<a href="https://discord.gg/FJTZUHXT" target="_blank"> Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">CCA</a>; 
-					CCTT (coming soon).</li> 
+					CCTT (coming soon).</li>
+	
 	<li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
 	<li>He has also been one of the few to complete !progress (winning all 665 playable DCSS combos). 
 		He now is on the hunt to keep !progress status by winning with all Forgewright, Poltergeist and Revenant combos!</li>
@@ -25,7 +27,8 @@
 
 <p><b>Arcadio</b> (in french): le semi-pro et demi-dieu des roguelikes!</p>
 <ul>	<li>Active Channels:	<a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a> & 
-				<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
+				<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a>
+				<a href="https://discord.gg/p8S4sb8yab" target="_blank"> Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	CCTT (coming soon)</li>
 </ul>
 
