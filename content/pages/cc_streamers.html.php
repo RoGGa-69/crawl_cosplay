@@ -29,7 +29,7 @@
 	<li>Crawl Cosplay playlists: 	CCTT (coming soon)</li>
 </ul>
 
-<p><b>Wizrd1ke</b>: the prolific</p>
+<p><b>Wizard1ke</b>: the prolific</p>
 <ul>	<li>Non-Active Channels:	<a href="https://www.twitch.tv/wizardike" target="_blank">www.twitch.tv/wizardike</a> & 
 					<a href="https://www.youtube.com/@WizardIke" target="_blank">www.youtube.com/@WizardIke</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLU5PEZPkft5vBlJp5H6e4WQUa-W5DV--m" target="_blank">CCC</a></li>
