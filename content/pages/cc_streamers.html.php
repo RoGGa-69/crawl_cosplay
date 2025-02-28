@@ -27,7 +27,7 @@
 
 <p><b>Arcadio</b> (in french): le semi-pro et demi-dieu des roguelikes!</p>
 <ul>	<li>Active Channels:	<a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a> & 
-				<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a>
+				<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a> & 
 				<a href="https://discord.gg/p8S4sb8yab" target="_blank"> Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	CCTT (coming soon)</li>
 </ul>
