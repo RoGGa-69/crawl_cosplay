@@ -36,6 +36,11 @@
 	<li>Wizard1ke hasn't streamed since Aug. 2024.</li>
 </ul>
 
+<p>quinnr<b></b>: the new!</p>
+<ul>	<li>Active Channels:		<a href="https://www.youtube.com/@dcss_quinnr" target="_blank">www.youtube.com/@dcss_quinnr</a></li>
+	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PL0Wa3uNFkheEPwtOdw4u-zNczGMn2_a9J" target="_blank">CCTT</a></li>
+</ul>
+...AND...
 <p><b>MalcolmRose</b>: the one and only!</p>
 <ul>	<li>Channels: 	<a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a> & 
 			<a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
