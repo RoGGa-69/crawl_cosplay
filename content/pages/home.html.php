@@ -54,8 +54,8 @@ Select your pleasure among the following options:
 						&  <a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
 </ul>
 <p>and the one and only:</p>
-<ul>	<li><b>MalcolmRose</b>: CCTT 	on <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
-					&  <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
+<ul>	<li><b>MalcolmRose</b>: CCC & CCTT 	on <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
+						&  <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
 </ul>
 <p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their videos; it motivates them to make more great Crawl Cosplay content!</p>
 
