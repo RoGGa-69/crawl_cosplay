@@ -11,9 +11,12 @@
 			<a href="/ccc/all_ccc_history"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; all CCC challenges</a>
 			<a href="/cctt/cctt">Crawl Cosplay Trunk Tournament (CCTT)</a>
 			<a href="/cctt/about_cctt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCTT</a>
+			<a href="/cctt/past_cctt_results"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Past CCTT results</a>
 			<a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament (CCSDT)</a>
 			<a href="/ccsdt/about_ccsdt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCSDT</a>
 			<a href="/ccsdt/past_ccsdt_results.html"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Past CCSDT results</a>
+		        <a href="/ccft/ccft">Crawl Cosplay Fork Tournament (CCFT)</a>
+			<a href="/ccft/about_ccft"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCFT</a>
 		</div>
 	</div>
 
