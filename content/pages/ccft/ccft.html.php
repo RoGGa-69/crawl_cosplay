@@ -4,7 +4,7 @@
 <!-- <p><a href="/ccft/past_ccft_results.html">Past CCFTournaments Results</a>.</p> -->
 
 <h2>Next Tournament</h2>
-<p>Expected in early June 202..</p>
+<p>Expected in early June 2025.</p>
 
 <h2>General Rules, Scoring and Credits</h2>
 See the <a href="about_ccft.html">CCFT About page</a>.
