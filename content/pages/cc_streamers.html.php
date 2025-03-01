@@ -11,7 +11,7 @@
 				<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a> & 
 				<a href="https://discord.gg/FJTZUHXT" target="_blank">Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">CCA</a> &  
-					<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk_c7xH2msjtUZGXu3ivIoNE" " target="_blank">CCTT</li>
+					<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk_c7xH2msjtUZGXu3ivIoNE" " target="_blank">CCTT</a></li>
 	
 	<li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
 	<li>He has also been one of the few to complete !progress (winning all 665 playable DCSS combos). 
