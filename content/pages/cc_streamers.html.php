@@ -6,7 +6,7 @@
 <p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their Crawl Cosplay videos; 
 	it motivates them to make more great Crawl Cosplay content!</p>
 
-<p><b>particleface</b>: Mr. !Progress</p>
+<p><b>particleface</b>: Mr. !Progress and CCA master.</p>
 <ul>	<li>Active Channels: 	<a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>< & 
 				<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a> & 
 				<a href="https://discord.gg/FJTZUHXT" target="_blank">Discord server</a></li>
