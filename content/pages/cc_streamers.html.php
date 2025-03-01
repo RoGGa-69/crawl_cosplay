@@ -29,7 +29,7 @@
 <ul>	<li>Active Channels:		<a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a> & 
 					<a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a> & 
 					<a href="https://discord.gg/p8S4sb8yab" target="_blank">Discord server</a></li>
-	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLOHsyPzEhlNSOcOw2njsqfN5eQ8KJ4is5" target="_blank">CC</a></li>
+	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLOHsyPzEhlNSOcOw2njsqfN5eQ8KJ4is5" target="_blank">CCTT</a></li>
 </ul>
 
 <p><b>Wizard1ke</b>: the prolific</p>
