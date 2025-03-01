@@ -23,6 +23,6 @@
 		<button class="dropbtn">Donate!</button>
 		<div class="dropdown-content" style="right:0;">
 			The new webhosting cost is $11.30can/month...and we would like to get some more monthly "memberships"!<br>
-			Please donate at: <a href="https://patreon.com/rogga" target="_blank"><b>Patreon</b></a>
+			Please donate at: <a href="https://patreon.com/rogga" target="_blank"><b style="color:yellow">Patreon</b></a>
 		</div>
 	</div>
