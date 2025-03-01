@@ -13,13 +13,14 @@
 			<a href="/cctt/about_cctt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCTT</a>
 			<a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament (CCSDT)</a>
 			<a href="/ccsdt/about_ccsdt"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; About CCSDT</a>
+			<a href="/ccsdt/past_ccsdt_results.html"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Past CCSDT results</a>
 		</div>
 	</div>
 
 	<div class="dropdown" style="float:right;">
 		<button class="dropbtn">Donate!</button>
 		<div class="dropdown-content" style="right:0;">
-			The new webhosting cost is $11.30can/month.<br>
+			The new webhosting cost is $11.30can/month...and we would like to get some more monthly "memberships"!<br>
 			Please donate at: <a href="https://patreon.com/rogga" target="_blank">Patreon</a>
 		</div>
 	</div>
