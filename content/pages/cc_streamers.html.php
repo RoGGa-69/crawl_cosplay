@@ -18,7 +18,7 @@
 		He now is on the hunt to keep !progress status by winning with all Forgewright, Poltergeist and Revenant combos!</li>
 </ul>
 
-<p><b>Dumalacath</b>: CCA Master!</p>
+<p><b>Dumalacath</b>: CCA Master and aspiring CCC demi-god!</p>
 <ul>	<li>Active Channel:		<a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLy8-17WgznzHupXlm9SbgNVWfeF46Yvku" target="_blank">CCA</a>; 
 					<a href="https://www.youtube.com/playlist?list=PLy8-17WgznzGYSC6dJy6NqHErLrtvoYRR" target="_blank">CCC</a>; 
