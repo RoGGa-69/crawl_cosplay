@@ -37,6 +37,9 @@ Select your pleasure among the following options:
     <li>Read a draft of <a href="/ccft/about_ccft">About CCFT</a>.</li>
 </ul>
 
+<h2>Watch Video About Crawl Cosplay Website</h2>
+<p>For indepth details about the Crawl Cosplay website, see: <a href="https://www.youtube.com/watch?v=x7u0PwESwPM&t=39s target="_blank">Dumalacath's CC video</a></p>
+
 <h2>Want to chat?</h2>
 <p>Come chat with us on our 
     <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
