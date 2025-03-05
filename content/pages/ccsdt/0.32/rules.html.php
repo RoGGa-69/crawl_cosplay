@@ -12,7 +12,7 @@ players while playing one of the 100 or so Crawl Unique characters.</p>
 <ol>
 <li>Each weekly challenge consists of playing a randomly chosen Crawl Unqiue's starting combo (e.g. Snorg, a TrBe). 
 The combos for each week of the competition have already been selected by our Crawl Cosplay @VIPs on our 
-<a href="https://discord.gg/WdbyURBcYp" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a>. 
+<a href="https://discord.gg/pW7nqC8Wu3" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a>. 
 All players have one week to finish a game using that combo. Only milestones recorded during the week (from
 00:00 UTC on the start date until 00:00 UTC on the end date) will count for scoring.</li>
 <li>Your first 0.32 game started on an official server (except for LLD) during the week will count
