@@ -1,4 +1,3 @@
-<?php   $this->layout = 'projects'; ?>
 <h2>Crawl Cosplay projects in the works</h2>
 <p>The intent is to have a tansparent & light project management approach.</p>
 <ol><li>Launch a WebTiles.CrawlCosplay.org server ASAP and install all forks for CCForksTournament starting May 30th.
