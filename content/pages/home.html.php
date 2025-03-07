@@ -42,7 +42,7 @@ Select your pleasure among the following options:
 
 <h2>Want to chat?</h2>
 <p>Come chat with us on our 
-    <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
+    <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
     with over 300 members!</p>
 
 <h2>Active Crawl Cosplay Streamers</h2>

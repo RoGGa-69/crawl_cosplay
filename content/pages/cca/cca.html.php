@@ -42,7 +42,7 @@ Play a game of your favourite DCSS Uniques and once you have completed one of yo
 Your best 2 runs for each challenge will be kept in the website's database...so submit as often as you like.
 <br>
 <h3>Need more help?...or have some questions</h3>
-<p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Crawl Cosplay Discord server</a> in the <b>#academy_cca</b> text channel.</p>
+<p>Come chat with us on our <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">Crawl Cosplay Discord server</a> in the <b>#academy_cca</b> text channel.</p>
 
 <h2>Crawl Cosplay Academy Scoreboard</h2>
 <table class="bordered">
