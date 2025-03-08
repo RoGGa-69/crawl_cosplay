@@ -11,7 +11,7 @@
 				<a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a> & 
 				<a href="https://discord.gg/FJTZUHXT" target="_blank">Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk-TkLUf7T9Ceg_HtoPwOHtT" target="_blank">CCA</a> &  
-					<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk_c7xH2msjtUZGXu3ivIoNE" " target="_blank">CCTT</a></li>
+					<a href="https://www.youtube.com/playlist?list=PLY2Drf0NBvk_c7xH2msjtUZGXu3ivIoNE" target="_blank">CCTT</a></li>
 	
 	<li>particleface is the most regular streamer of DCSS. You can catch him usually weekdays sometime between 9am and 1pm Eastern Timezone.</li>
 	<li>He has also been one of the few to complete !progress (winning all 665 playable DCSS combos). 
@@ -49,7 +49,7 @@
 			<a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a> & 
 			<a href="https://discord.gg/3khp7weR8j" target="_blank">MR moderated DCSS Discord server</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYScSTw2RnztSrkVLNpbBAV" target="_blank">CCC for v0.24</a>; 
-					CCTT promo videos (coming soon)</li>
+					<a href="https://www.youtube.com/playlist?list=PLDaRV3E1eciYRRnD5qxmyjXCxL6sizmsQ" target="_blank">CCTT promo videos</a></li>
 	<li>Malcolm Rose has the longest win-streak ever in DCSS with over 75 wins and counting! So checkout his YouTube channel for past wins and hairy moments,
 	and Follow him on twitch.tv to be notified about his next World Record stream.
 	Here's a link to his <a href="https://www.youtube.com/playlist?list=PLDaRV3E1ecibDeKDyvFUCYOKMPcO3FKLlDCSS" target="_blank">DCSS World Record playlist</a>.</li>
