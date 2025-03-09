@@ -20,7 +20,7 @@ The <a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT) started Friday, Fe
 <p>Hello, <b>xxxxx</b>!</p>
 <p>Games on this server are recorded for in-progress viewing and playback. Chat messages might be logged, depending on the player's settings.</p>
 
-<p>Play now:</p>
+<h2>Play Now</h2>
 <p>DCSS 0.32 (Latest Version) (edit rc) | Custom seed 0.32 | Sprint 0.32 | Tutorial 0.32</p>
 <p>DCSS trunk (Updates Daily) (edit rc) | Trunk custom seed | Sprint trunk | Tutorial trunk</p>
 
