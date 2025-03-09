@@ -37,4 +37,4 @@ The <a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT) started Friday, Fe
 <span> | <a href="https://crawl.dcss.io/#play-tut-0.30">Tutorial 0.30</a></span>
 </details></span></div>
 <br>
-<p>View: <a href="cco/games">games currently being played LIVE on this server</a>.</p>
+<p>View: <a href="/cco/livegames">games currently being played LIVE on this server</a>.</p>
