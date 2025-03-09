@@ -1,5 +1,6 @@
 <?php $this->layout = 'cco'; ?>
-<pre>                     CCO Code of Conduct
+<pre>
+                        CCO Code of Conduct
 
 To help provide a safe and fun environment for everyone, please read this
 document and follow all rules while connected to this public DCSS server.
