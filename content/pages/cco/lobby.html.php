@@ -14,20 +14,16 @@
 <p>By playing on this CCO WebTiles server you agree to our <a href="/cco/code_of_conduct">Code of Conduct</a>.<br>
    Users of CCO in violation of the Code of Conduct may have their accounts suspended temporarily or indefinitely (with little to no notice).</p>
 <p>Admins may be contacted via the DCSS Crawl Cosplay 2.0 community discord server, or via email at: <b>cco @ crawlcosplay . org</b></p>
-<p>Crawl Blog</p>
-<p>Latest Changelog</p>
-<p>0.32 Tourney Page</p>
 <br>
-<p>The Crawl Cosplay Trunk Tournament (CCTT) is starting this Friday, Feb 21 @ 00:00 UTC.</p>
+<p>The <a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT) is started Friday, Feb 21 @ 00:00 UTC and runs until the end of March 27th @ 23:59.</p>
 <p>Check out the website above for details on participating.</p>
-<br>
 <br>
 <p>Hello, xxxxx!</p>
 <p>Games on this server are recorded for in-progress viewing and playback. Chat messages might be logged, depending on the player's settings.</p>
 
 <p>Play now:</p>
-<p>DCSS trunk (Updates Daily) (edit rc) | Trunk custom seed | Sprint trunk | Tutorial trunk</p>
 <p>DCSS 0.32 (Latest Version) (edit rc) | Custom seed 0.32 | Sprint 0.32 | Tutorial 0.32</p>
+<p>DCSS trunk (Updates Daily) (edit rc) | Trunk custom seed | Sprint trunk | Tutorial trunk</p>
 DCSS 0.31 (edit rc) | Custom seed 0.31 | Sprint 0.31 | Tutorial 0.31</p>
 DCSS 0.30 (edit rc) | Custom seed 0.30 | Sprint 0.30 | Tutorial 0.30
 DCSS 0.29 (edit rc) | Custom seed 0.29 | Sprint 0.29 | Tutorial 0.29
