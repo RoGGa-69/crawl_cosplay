@@ -25,7 +25,7 @@
 <p>DCSS 0.32 (Latest Version) (edit rc) | Custom seed 0.32 | Sprint 0.32 | Tutorial 0.32</p>
 <p>DCSS trunk (Updates Daily) (edit rc) | Trunk custom seed | Sprint trunk | Tutorial trunk</p>
 
-<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<details style="display:inline-block;"><summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">Click to see older versions</summary>
+<details style="display:inline-block;"><summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">Click to see older versions</summary>
 <a href="https://crawl.dcss.io/#play-dcss-0.31">DCSS 0.31</a>
 <a href="javascript:" class="edit_rc_link" data-game_id="dcss-0.31">(edit rc)</a>
 <span> | <a href="https://crawl.dcss.io/#play-seeded-0.31">Custom seed 0.31</a></span>
