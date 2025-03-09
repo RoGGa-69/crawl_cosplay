@@ -1,4 +1,4 @@
-                     CCO Code of Conduct
+<pre>                     CCO Code of Conduct
 
 To help provide a safe and fun environment for everyone, please read this
 document and follow all rules while connected to this public DCSS server.
@@ -34,3 +34,4 @@ suspended at any time, with no warning.
 
 This code of conduct was written in good faith to preserve a fun atmosphere
 and a functioning server environment, so that all players can enjoy the game.
+</pre>
