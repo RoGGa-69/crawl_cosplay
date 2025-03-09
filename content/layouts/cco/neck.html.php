@@ -5,7 +5,7 @@
 			<a href="/">Crawl Cosplay Home</a>
 			<a href="/cco">CCO Home</a>
 			<a href="/cco/lobby"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; CCO webtiles server</a>
-			<a href="/cco/CCO webtiles server"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; CCO Code of Conduct</a>
+			<a href="/cco/code_of_conduct"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; CCO Code of Conduct</a>
 		</div>
 	</div>
 
