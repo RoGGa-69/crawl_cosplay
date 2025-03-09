@@ -496,7 +496,7 @@ body {
 }
 pre {
     background: black;
-    border:1px solid #e0eae0;
+    float: center;
     padding: 8px 10px;
     display: table-cell;
 }
