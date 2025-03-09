@@ -10,7 +10,7 @@
 </div>
 
 <h2>Welcome to the lobby for the <b>CCO WebTiles server</b>!</h2>
-<pre>This is a mockup of the future CCO lobby webpage.</pre>
+<pre>*** <b><i>This is a mockup of the future CCO lobby webpage.</i></b> ***</pre>
 <p>By playing here you agree to our <a href="/cco/code_of_conduct">Code of Conduct</a>.<br>
    Users of CCO in violation of the Code of Conduct may have their accounts suspended temporarily or indefinitely (with little to no notice).</p>
 <br>
