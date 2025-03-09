@@ -14,7 +14,7 @@
 <p>By playing here you agree to our <a href="/cco/code_of_conduct">Code of Conduct</a>.<br>
    Users of CCO in violation of the Code of Conduct may have their accounts suspended temporarily or indefinitely (with little to no notice).</p>
 <br>
-<p>Admins may be contacted via the DCSS Crawl Cosplay 2.0 community discord server, or via email at: rogga @ crawlcosplay DOT org.</p>
+<p>Admins may be contacted via the DCSS Crawl Cosplay 2.0 community discord server, or via email at: cco @ crawlcosplay . org.</p>
 <p>Crawl Blog</p>
 <p>Latest Changelog</p>
 <p>0.32 Tourney Page</p>
