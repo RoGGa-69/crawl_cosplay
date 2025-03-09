@@ -10,7 +10,7 @@
 </div>
 
 <h2>Welcome to the lobby for the <b>CCO WebTiles server</b>!</h2>
-<p>By playing here you agree to our <a href="code_of_conduct.txt">Code of Conduct</a>.</p>
+<p>By playing here you agree to our <a href="/cco/code_of_conduct.txt">Code of Conduct</a>.</p>
 <p>Users of CCO in violation of the Code of Conduct may have their accounts suspended temporarily or indefinitely (with little to no notice).</p>
 <br>
 <p>Admins may be contacted via the DCSS Crawl Cosplay 2.0 community discord server, or via email at: rogga @ crawlcosplay DOT org.</p>
