@@ -15,7 +15,7 @@
    Users of CCO in violation of the Code of Conduct may have their accounts suspended temporarily or indefinitely (with little to no notice).</p>
 <p>Admins may be contacted via the DCSS Crawl Cosplay 2.0 community discord server, or via email at: <b>cco @ crawlcosplay . org</b></p>
 <p style="padding:5px; border-radius:10px; background-color:#2c6f17; display:inline-block; margin:20px 0 10px 0; line-height:1.3;">
-The <a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT) is started Friday, Feb 21 @ 00:00 UTC and runs until the end of March 27th @ 23:59.
+The <a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT) started Friday, Feb 21 @ 00:00 UTC and runs until the end of March 27th @ 23:59 UTC.
 <br>Check out the website above for details on participating.</p>
 <p>Hello, <b>xxxxx</b>!</p>
 <p>Games on this server are recorded for in-progress viewing and playback. Chat messages might be logged, depending on the player's settings.</p>
