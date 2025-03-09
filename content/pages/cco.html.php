@@ -6,11 +6,13 @@
 <h3><a href="/cco/lobby">CCO Lobby</a></h3>
 <p><a href="/cco/code_of_conduct">CCO Code of Conduct</a></p>
 
-<h3><a href="/">The www.CrawlCosplay.org website</a></h3>
+<h3><a href="/" target="_blank">The www.CrawlCosplay.org website</a>, the 5-in-1 website!</h3>
 
-<h2><a href="/cco/lobby">All DCSS important links</a></h2>
-
-<h4><a href="http://crawl.develz.org/">Primary DCSS Website</a></h4>
-<h4><a href="http://crawl.develz.org/wordpress/">DCSS Blog</a> for the latest news</h4>
-<h4><a href="http://crawl.akrasiac.org/docs/changelog.txt">Latest Changelog for Trunk</a> (aka git)</h4>
-<h4><a href="https://crawl.develz.org/tournament/0.32/">v0.32 Tournament HomePage</a></h4>
+<h2>All Dungeon Crawl: Stone Soup (DCSS) important links</h2>
+<h4><a href="http://crawl.develz.org/" target="_blank">Primary DCSS Website</a></h4>
+<h4><a href="http://crawl.develz.org/wordpress/" target="_blank">DCSS Blog</a> for the latest news.</h4>
+<h4><a href="http://crawl.akrasiac.org/docs/changelog.txt" target="_blank">Latest Changelog for Trunk</a> (aka git)</h4>
+<h4><a href="http://crawl.develz.org/play.htm" target="_blank">Play on the fastest Webtiles server from you</a>.</h4>
+<h4><a href="http://crawl.develz.org/download.htm" target="_blank">Download the offline versions of DCSS</a>.</h4>
+<h4><a href="http://crawl.chaosforge.org/Crawl_Wiki" target="_blank">View the unofficial DCSS Wiki</a>.</h4>
+<h4><a href="https://crawl.develz.org/tournament/0.32/" target="_blank">v0.32 Tournament HomePage</a></h4>
