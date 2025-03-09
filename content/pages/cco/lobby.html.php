@@ -1,3 +1,4 @@
+<?php $this->layout = 'cco'; ?>
 <h2>Welcome to cco.crawlcosplay.org (CCO) WebTiles! (morgues, ttyrecs)</h2>
 <p>By playing here you agree to our code of conduct.</p>
 <p>Users of CCO in violation of the Code of Conduct may have their accounts suspended temporarily or indefinitely (with little to no notice).</p>
