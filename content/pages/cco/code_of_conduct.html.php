@@ -7,7 +7,6 @@ document and follow all rules while connected to this public DCSS server.
 Users that are found to be in violation of these rules may have their account
 suspended at any time, with no warning.
 
-
 1. Be courteous to other players. Harassment will not be tolerated.
 
 2. Don't use obscene account names.
@@ -31,7 +30,6 @@ suspended at any time, with no warning.
 
 6. Please do not use anonymizing services to evade bans, or to engage in abuse
    or other unkind behavior.
-
 
 This code of conduct was written in good faith to preserve a fun atmosphere
 and a functioning server environment, so that all players can enjoy the game.
