@@ -24,13 +24,17 @@
 <p>Play now:</p>
 <p>DCSS 0.32 (Latest Version) (edit rc) | Custom seed 0.32 | Sprint 0.32 | Tutorial 0.32</p>
 <p>DCSS trunk (Updates Daily) (edit rc) | Trunk custom seed | Sprint trunk | Tutorial trunk</p>
-<p> DCSS 0.31 (edit rc) | Custom seed 0.31 | Sprint 0.31 | Tutorial 0.31<br>
-    DCSS 0.30 (edit rc) | Custom seed 0.30 | Sprint 0.30 | Tutorial 0.30<br>
-    DCSS 0.29 (edit rc) | Custom seed 0.29 | Sprint 0.29 | Tutorial 0.29<br>
-    DCSS 0.28 (edit rc) | Custom seed 0.28 | Sprint 0.28 | Tutorial 0.28<br>
-    DCSS 0.27 (edit rc) | Custom seed 0.27 | Sprint 0.27 | Tutorial 0.27<br>
-    DCSS 0.26 (edit rc) | Custom seed 0.26 | Sprint 0.26 | Tutorial 0.26<br>
-    DCSS 0.25 (edit rc) | Custom seed 0.25 | Sprint 0.25 | Tutorial 0.25<br>
-    DCSS 0.24 (edit rc) | Custom seed 0.24 | Sprint 0.24 | Tutorial 0.24</p>
 
-Games currently running:
+<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<details style="display:inline-block;"><summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">Click to see older versions</summary>
+<a href="https://crawl.dcss.io/#play-dcss-0.31">DCSS 0.31</a>
+<a href="javascript:" class="edit_rc_link" data-game_id="dcss-0.31">(edit rc)</a>
+<span> | <a href="https://crawl.dcss.io/#play-seeded-0.31">Custom seed 0.31</a></span>
+<span> | <a href="https://crawl.dcss.io/#play-spr-0.31">Sprint 0.31</a></span>
+<span> | <a href="https://crawl.dcss.io/#play-tut-0.31">Tutorial 0.31</a></span>
+<span><br><a href="https://crawl.dcss.io/#play-dcss-0.30">DCSS 0.30</a>
+<a href="javascript:" class="edit_rc_link" data-game_id="dcss-0.30">(edit rc)</a></span>
+<span> | <a href="https://crawl.dcss.io/#play-seeded-0.30">Custom seed 0.30</a></span>
+<span> | <a href="https://crawl.dcss.io/#play-spr-0.30">Sprint 0.30</a></span>
+<span> | <a href="https://crawl.dcss.io/#play-tut-0.30">Tutorial 0.30</a></span>
+</details></span></div>
+<br>
