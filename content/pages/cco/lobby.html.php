@@ -3,6 +3,7 @@
 <div class="login_placeholder">
 
 <div id="login" align="right">
+<br>
 <span id="login_message">Logged in as RoGGa</span>
 <form action="https://cbro.berotato.org:8443/#" id="login_form" style="display: none;">
 <label for="username">User:</label>
