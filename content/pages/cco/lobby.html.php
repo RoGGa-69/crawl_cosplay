@@ -36,7 +36,7 @@ The <a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT) started Friday, Fe
 <span> | <a href="https://crawl.dcss.io/#play-seeded-0.30">Custom seed 0.30</a></span>
 <span> | <a href="https://crawl.dcss.io/#play-spr-0.30">Sprint 0.30</a></span>
 <span> | <a href="https://crawl.dcss.io/#play-tut-0.30">Tutorial 0.30</a></span>
-</details></span></div>
+</details>
 <br>
 <details style="display:inline-block;"><summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">Click to see DCSS Forks</summary>
 <a href="https://crawl.dcss.io/#play-dcss-0.31">DCSS 0.31</a>
