@@ -11,10 +11,10 @@
 
 <h2>Welcome to the lobby for the <b>CCO WebTiles server</b>!</h2>
 <pre>*** <b><i>This is a mockup of the future CCO lobby webpage.</i></b> ***</pre>
-<p>By playing on this CCO WebTiles server you agree to our <a href="/cco/code_of_conduct">Code of Conduct</a>.<br>
-   Users of CCO in violation of the Code of Conduct may have their accounts suspended temporarily or indefinitely (with little to no notice).</p>
-<p>Admins may be contacted via the <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">DCSS Crawl Cosplay 2.0 community discord server</a>, or via email at: <b>cco @ crawlcosplay . org</b></p>
-<p>For quick account or server issues, contact Quinn on the <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">CC discord server</a>.</p>
+<p>By playing on this CCO WebTiles server you agree to our <a href="/cco/code_of_conduct">Code of Conduct</a>.<br></p>
+<p>Please join our <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">DCSS Crawl Cosplay 2.0 community discord server</a>.</p>
+<p>CCO Admins (Quinn & RoGGa) may be contacted via email at: <b>cco @ crawlcosplay . org</b></p>
+<p>For quick account or server issues, please contact Quinn or RoGGa in the CC discord server.</p>
 <p style="padding:5px; border-radius:10px; background-color:#2c6f17; display:inline-block; margin:20px 0 10px 0; line-height:1.3;">
 The <a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT) started Friday, Feb 21 @ 00:00 UTC and runs until the end of March 27th @ 23:59 UTC.
 <br>Check out the website above for details on participating.</p>
