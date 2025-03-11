@@ -18,7 +18,7 @@ if ($data = $this->request->getPostData()) {
     $data['score'] = (int) $data['score'];
     $data['stars'] = (int) $data['stars'];
     if ($sub->save($data)) {
-        return $this->request->redirect('/admin/submissions/list');
+        return $this->request->redirect('/admin/submissions/moderate');
     }
     dd($sub);
 }
