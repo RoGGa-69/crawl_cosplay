@@ -22,8 +22,10 @@
 	<div class="dropdown" style="float:right;">
 		<button class="dropbtn">Donate!</button>
 		<div class="dropdown-content" style="right:0;">
+		<div class="dropdown-content" style="right:0;">
 			The new webhosting cost of ~$11can/month has been covered.<br>
-			Please donate for the cost of the CCO.CrawlCosplay.Org webtiles server!<br>
-			Donate at: <a href="https://patreon.com/rogga" target="_blank"><b style="color:yellow">Patreon</b></a>
+			Please donate for the cost of the CCO.CrawlCosplay.Org webtiles server at:<br>
+			<a href="https://patreon.com/rogga" target="_blank"><b style="color:yellow">RoGGa's Patreon account</b></a>
+		</div>
 		</div>
 	</div>
