@@ -17,7 +17,11 @@ Environment::add([
 
 // Set admin phrase to value from environment or random bytes if not set
 $admin_phrase = getenv('ADMIN');
-$admin_phrase = trim(file_get_contents('../resources/configs/admin_phrase'));
+$admin_file = '../resources/configs/admin_phrase';
+if (file_exists($admin_file))
+{
+        $admin_phrase = trim(file_get_contents($admin_file));
+}
 if ($admin_phrase === false) {
     $admin_phrase = random_bytes(16);
 }
