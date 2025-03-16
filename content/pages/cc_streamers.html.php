@@ -32,7 +32,7 @@
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLOHsyPzEhlNSOcOw2njsqfN5eQ8KJ4is5" target="_blank">CCTT</a></li>
 </ul>
 
-<p><b>Wizard1ke</b>: the prolific</p>
+<p><b>Wizard1ke</b>: our favourite Kiwi</p>
 <ul>	<li>Non-Active Channels:	<a href="https://www.twitch.tv/wizardike" target="_blank">www.twitch.tv/wizardike</a> & 
 					<a href="https://www.youtube.com/@WizardIke" target="_blank">www.youtube.com/@WizardIke</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PLU5PEZPkft5vBlJp5H6e4WQUa-W5DV--m" target="_blank">CCC</a></li>
@@ -42,7 +42,7 @@
 <p><b>Chadlywick</b>: the mouser ;-p</p>
 <ul>	<li>Active Channels:		<a href="https://www.twitch.tv/chadlywick" target="_blank">www.twitch.tv/chadlywick</a> &
 					<a href="https://www.youtube.com/@Chadlywick" target="_blank">www.youtube.com/@Chadlywick</a></li>
-	<li>Chadlywick plays offline and has 3 wins to his credit while still using the mouse to play! You can catch him with his late streams between 11pm and 1am EST.</li>
+	<li>Chadlywick plays offline and has 3 wins to his credit while still using the mouse to play! You can catch him with his late streams between 11pm and 1am EST on Mondays, Wednesdays & Sundays.</li>
 </ul>
 
 <p><b>quinnr</b>: The new blood on the block!</p>
