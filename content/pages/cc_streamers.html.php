@@ -39,6 +39,12 @@
 	<li>Wizard1ke hasn't streamed since Aug. 2024. In his streamer days, he woould often stream 6 days per week and 5-7hrs per day!</li>
 </ul>
 
+<p><b>Chadlywick</b>: the mouser ;-p</p>
+<ul>	<li>Active Channels:		<a href="https://www.twitch.tv/chadlywick" target="_blank">www.twitch.tv/chadlywick</a> &
+					<a href="https://www.youtube.com/@Chadlywick" target="_blank">www.youtube.com/@Chadlywick</a></li>
+	<li>Chadlywick plays offline and has 3 wins to his credit while still using the mouse to play! You can catch him with his late streams between 11pm and 1am EST.</li>
+</ul>
+
 <p><b>quinnr</b>: The new blood on the block!</p>
 <ul>	<li>Active Channels:		<a href="https://www.youtube.com/@dcss_quinnr" target="_blank">www.youtube.com/@dcss_quinnr</a></li>
 	<li>Crawl Cosplay playlists: 	<a href="https://www.youtube.com/playlist?list=PL0Wa3uNFkheEPwtOdw4u-zNczGMn2_a9J" target="_blank">CCTT</a></li>
