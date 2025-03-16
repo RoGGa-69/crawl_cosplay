@@ -63,7 +63,6 @@ if ($active) :
 		<th>count</th>
 		<th>Player</th>
 		<th>Total <span class="star">&#9733;</span></th>
-		<th>Rank</th>
 		<?php
 		$made_seperator = false;
 		foreach ($challenges_in_set as $c) {
@@ -77,6 +76,7 @@ if ($active) :
 			echo "</th>";
 		}
 		?>
+		<th>Rank</th>
 	</tr>
 	<?php
 	foreach ($scores as $i => $row) : ?>
