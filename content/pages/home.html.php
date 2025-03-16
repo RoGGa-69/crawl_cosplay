@@ -55,6 +55,8 @@ Select your pleasure among the following options:
 	<li><b>Dumalacath</b>: CCA, CCC & CCTT 	on <a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
 	<li><b>Arcadio</b> (in french): CCTT 	on <a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a>
 						&  <a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
+	<li><b>Chadlywick</b>: CCA		on <a href="https://www.twitch.tv/chadlywick" target="_blank">www.twitch.tv/chadlywick</a>
+						&  <a href="https://www.youtube.com/@Chadlywick" target="_blank">www.youtube.com/@Chadlywick</a></li>
 </ul>
 <p>and the one and only:</p>
 <ul>	<li><b>MalcolmRose</b>: CCC & CCTT 	on <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
