@@ -23,7 +23,7 @@ use app\models\Player;
 	?>
 		<tr class="<?=$r++%2==0?'odd':'even'?>">
 			<!-- <td><?=$player->id?></td> -->
-			<td><?=$player->listName()?></td>
+			<td><?=$player->listNameAdmin()?></td>
 			<td><?=$player->subs?></td>
 			<td><?=$player->score?></td>
 			<td><?=$player->stars?></td>

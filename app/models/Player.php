@@ -26,6 +26,11 @@ class Player extends BaseModel
 
     public function listName(): string
     {
+        return $this->name;
+    }
+
+    public function listNameAdmin(): string
+    {
         $name = $this->name;
         if ($this->name != $this->reddit || $this->name != $this->discord) {
             $name .= " (";
@@ -44,7 +49,7 @@ class Player extends BaseModel
         }
         return $name;
     }
-
+	
     public static function scoreboard()
     {
         $all = static::findAsArray([], ['with' => 'submissions', 'order' => '`name` ASC']);
