@@ -33,7 +33,11 @@ Environment::setEnvironment($env ? $env : Environment::LOCAL); // Check for vali
 Log::handler('standard', [Log::class, 'std']);
 
 $mysql_url = getenv('CLEARDB_DATABASE_URL');
-$mysql_url = file_get_contents('../resources/configs/mysql_database_url');
+$mysql_url_file = '../resources/configs/mysql_database_url';
+if (file_exists($mysql_url_file))
+{
+        $mysql_url = file_get_contents($mysql_url_file);
+}
 if ($mysql_url) {
     $options = parse_url($mysql_url);
     $options['db'] = ltrim($options['path'], '/');
