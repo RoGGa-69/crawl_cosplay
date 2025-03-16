@@ -1,3 +1,4 @@
+
 <?php $this->layout = 'cca';
 use app\models\{Challenge, Submission, Player};
 

@@ -60,9 +60,10 @@ if ($active) :
 
 <table class="bordered">
 	<tr>
-		<th>Rank</th>
+		<th>count</th>
 		<th>Player</th>
 		<th>Total <span class="star">&#9733;</span></th>
+		<th>Rank</th>
 		<?php
 		$made_seperator = false;
 		foreach ($challenges_in_set as $c) {

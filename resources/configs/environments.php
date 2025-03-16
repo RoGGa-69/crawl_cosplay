@@ -17,6 +17,7 @@ Environment::add([
 
 // Set admin phrase to value from environment or random bytes if not set
 $admin_phrase = getenv('ADMIN');
+$admin_phrase = trim(file_get_contents('../resources/configs/admin_phrase'));
 if ($admin_phrase === false) {
     $admin_phrase = random_bytes(16);
 }
@@ -28,6 +29,7 @@ Environment::setEnvironment($env ? $env : Environment::LOCAL); // Check for vali
 Log::handler('standard', [Log::class, 'std']);
 
 $mysql_url = getenv('CLEARDB_DATABASE_URL');
+$mysql_url = file_get_contents('../resources/configs/mysql_database_url');
 if ($mysql_url) {
     $options = parse_url($mysql_url);
     $options['db'] = ltrim($options['path'], '/');

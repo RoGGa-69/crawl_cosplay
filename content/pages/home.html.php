@@ -10,23 +10,23 @@
 ?>
 Select your pleasure among the following options:
 
-<h3><a href="/cca/cca">Crawl Cosplay Academy</a> (CCA)</h3>
+<h3><a href="/cca">Crawl Cosplay Academy</a> (CCA)</h3>
 <ul><li>For those new to DCSS or who haven't yet won a couple of times.</li>
     <li>Read <a href="/cca/about_cca">About CCA</a></li></ul>
 
-<h3><a href="/ccc/ccc">Crawl Cosplay Challenges</a> (CCC)</h3>
+<h3><a href="/ccc">Crawl Cosplay Challenges</a> (CCC)</h3>
 <ul><li>The original weekly challenge posted on Reddit since 2019!</li>
     <li>Read <a href="/ccc/about_ccc">About CCC</a>.</li>
     <li>See: <a href="/ccc/all_ccc_history">All CCChallenges</a></li></ul>
 
-<h3><a href="/cctt/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
+<h3><a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
     <li>CCTT #2 started Friday Feb 21st, 2025 at 00:00 UTC and runs until March 28th.</li>
     <li>Read <a href="/cctt/about_cctt">About CCTT</a>.</li>
 	<li><a href="/cctt/past_cctt_results">Past CCTT Results</a></li>
 </ul>
 
-<h3><a href="/ccsdt/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT)</h3>
+<h3><a href="/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT)</h3>
 <ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
     <li>Next CCSDT for v0.33 in mid 2025.</li>
     <li>Read <a href="/ccsdt/about_ccsdt">About CCSDT</a>.</li></ul>
