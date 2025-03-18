@@ -35,7 +35,7 @@ use app\models\{Challenge, Submission, Player};
       <a href="/cca/achallengedetails?id=937" title="Roxanne, the Gargoyle Earth Elementalist (GrEE)"><img src="/img/uniques/Roxanne.png" width="72" height="72"></a></p>
 <h4><b>Miscellaneous</b></h4>
   <p>An assortment of less straightforward builds including Summoner, Shapeshifter, and Enchanter</p>
-  <p> <a href="/cca/achallengedetails?id=944" title="The Enchantress, the Spriggan Enchanter (SpEn)"><img src="/img/uniques/the_Enchantres.png" width="72" height="72"></a> 
+  <p> <a href="/cca/achallengedetails?id=944" title="The Enchantress, the Spriggan Enchanter (SpEn)"><img src="/img/uniques/the_Enchantress.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=933" title="Bai Suzhen, the Draconian Shapeshifter (DrSh)"><img src="/img/uniques/Bai_Suzhen.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=934" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/uniques/Jory.png" width="72" height="72"></a></p>
 <h3>GO!</h3>
