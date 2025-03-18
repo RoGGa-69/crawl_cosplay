@@ -11,9 +11,7 @@ if ($active) :
 	$weeks = sizeof($challenges_in_set);
 	$this->setData("meta", ['filename' => $active->icon]);
 ?>
-<h2>
-	Crawl Cosplay Trunk Tournament (CCTT) for DCSS trunk v0.<?=$e($active->setnr)?>
-</h2>
+<h2>Crawl Cosplay Trunk Tournament (CCTT) for DCSS trunk v0.<?=$e($active->setnr)?></h2>
 <h3>
 	Week <?=$e($active->week)?>: <a href="/cctt/tchallengedetails?id=<?=$e($active->id)?>"><?=$e($active->name)?></a>
 	<?php if ($active->icon): ?><img src="<?=$e($active->icon)?>" class="head-icon" height="30px" /> <?php endif; ?>
