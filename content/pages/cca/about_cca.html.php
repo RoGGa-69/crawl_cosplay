@@ -31,14 +31,14 @@ haven't won at least a couple of games.</p>
       <a href="/cca/achallengedetails?id=931" title="Vashnia, the Naga Hunter (NaHu)"><img src="/img/uniques/Vashnia.png" width="72" height="72"></a>
     </td>
     <td><p><b>------------Mostly Magic------------</b></p>
-      <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/Frederick.png" width="72" height="72"></a> 
+      <a href="/cca/achallengedetails?id=935" title="Frederick, the Demigod Conjurer (DgCj)"><img src="/img/uniques/Frederick.png" width="72" height="72"></a> 
       <a href="/cca/achallengedetails?id=936" title="Antaeus, the Oni Ice Elementalist (OnIE)"><img src="/img/uniques/Antaeus.png" width="48" height="72"></a> 
       <a href="/cca/achallengedetails?id=937" title="Roxanne, the Gargoyle Earth Elementalist (GrEE)"><img src="/img/uniques/Roxanne.png" width="72" height="72"></a>
     </td>
     <td><p><b>------------Miscellaneous-----------</b></p><p></p>
       <a href="/cca/achallengedetails?id=932" title="Jeremiah, the Barachi Summoner (BaSu)"><img src="/img/uniques/Jeremiah.png" width="72" height="72"></a>
       <a href="/cca/achallengedetails?id=933" title="Bai Suzhen, the Draconaian Shapeshifter (DrSh)"><img src="/img/uniques/Bai_Suzhen.png" width="72" height="72"></a>
-      <a href="/cca/achallengedetails?id=934" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/uniques/Jory.png" width="72" height="72"></a>
+      <a href="/cca/achallengedetails?id=944" title="The Enchantress, the Spriggan Enchanter (SpEn)"><img src="/img/uniques/the_Enchantress.png" width="72" height="72"></a>
     </td>
 </table>
 <p>Each CCA challenge has 3 conducts and 2 bonuses. The 3 conducts are specific to getting you to the Lair and/or Orcish Mines entrance(s).</p>
