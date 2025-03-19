@@ -8,6 +8,8 @@
     echo '<h2>Welcome to the <b>Crawl Cosplay</b> 5-in-1 website!</h2>';
     echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 ?>
+<p><a href="https://crawl.develz.org/" target="_blank">Dungeon Crawl: Stone Soup</a> (DCSS) is the game!</p>
+
 Select your pleasure among the following options:
 
 <h3><a href="/cca">Crawl Cosplay Academy</a> (CCA)</h3>
@@ -38,7 +40,7 @@ Select your pleasure among the following options:
 </ul>
 
 <h2>Watch a video about the Crawl Cosplay website</h2>
-<p>For indepth details about the Crawl Cosplay website, see: <a href="https://www.youtube.com/watch?v=x7u0PwESwPM&t=39s target="_blank">Dumalacath's CC video</a></p>
+<p>For indepth details about the Crawl Cosplay website, see: <a href="https://www.youtube.com/watch?v=x7u0PwESwPM&t=39s" target="_blank">Dumalacath's CC video</a></p>
 
 <h2>Want to chat?</h2>
 <p>Come chat with us on our 
