@@ -30,9 +30,10 @@ if ($data = $this->request->getPostData()) {
 <p class="error"><?=$error_message?></p>
 <?php endif; ?>
 <form method="POST">
-	<label><span>Passphrase</span><br />
+<p style="text-align:right;"><label><span>Passphrase</span><br />
 		<input type="password" name="passphrase" placeholder="Do you remember?" autofocus />
 	</label>
 	<br />
 	<input type="submit" name="Submit" />
+</p>
 </form>
