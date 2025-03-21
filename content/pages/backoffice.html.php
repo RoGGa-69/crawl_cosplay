@@ -24,7 +24,7 @@ if ($data = $this->request->getPostData()) {
 }
 
 ?>
-<h2>Admin Authentication</h2>
+<h2 style="text-align:right;">Admin Authentication</h2>
 
 <?php if ($error_message) : ?>
 <p class="error"><?=$error_message?></p>
