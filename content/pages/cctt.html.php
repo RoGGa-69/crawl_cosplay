@@ -115,6 +115,5 @@ if ($active) :
 	echo 'For the previous tournament results, see:<br>';
  	echo '<ul><li><a href="/cctt/tresults.html?set=32">CCTT#1 for trunk v0.32</a></li>';
  	echo     '<li><a href="/cctt/tresults.html?set=33">CCTT#2 for trunk v0.32</a></li></ul>';
-	echo "<br>";
 endif;
 ?>
